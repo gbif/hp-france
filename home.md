@@ -1,23 +1,26 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
+title: Explorez la biodiversité de la France
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background:  "{{ site.data.images.acalypha_gillespieae.src }}"
-imageLicense: "{{ site.data.images.acalypha_gillespieae.caption }}"
-height: 90vh
+background: "/assets/images/placeholders/4039529673.jpeg"
+imageLicense: |
+  [*Mnium hornum* Hedw. observed in France](/occurrence/search/?entity=4039529673) by petit_bonnier (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+height: 70vh
+navbar: 
+  color: "transparent"        # What color should the navbar be?
+  hasWhiteText: true          # Should the text color be white?
+  floating: true
 cta:
-  - text: Institutions
-    href: /institution/search
+  - text: Occurrences
+    href: /occurrence/search
     isPrimary: true
-  - text: Specimens
-    href: /specimen/search
-  - text: About
-    href: /about
+  - text: À propos
+    href: /a-propos
 composition:
-  - type: heroImage # the block type
-  - type: stats
-    data: examples.stats
+  - type: heroImage
+  - type: stories
+    data: examples.stories
   - type: split
     data: examples.herbariumImageExample
   - type: features
