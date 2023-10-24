@@ -14,14 +14,6 @@ var siteConfig = {
   routes: {
     enabledRoutes: ['occurrenceSearch', 'institutionKey', 'institutionSearch', 'publisherSearch', 'publisherKey', 'collectionKey', 'collectionSearch', 'datasetKey', 'datasetSearch', 'literatureSearch'],
   },
-  institution: {
-    mapSettings: {
-      enabled: true,
-      lat: 0,
-      lng: 0,
-      zoom: 1
-    },
-  },
   occurrence: {
     mapSettings: {
       lat: 60,
@@ -62,6 +54,10 @@ var siteConfig = {
     highlightedFilters: ['q', 'anyPublisherKey', 'datasetType', 'license'],
     excludedFilters: ['publishingCountryCode'],
   },
+  publisher: {
+    rootFilter: {country: 'FR'},
+    excludedFilters: ['countrySingle', 'networkKey'],
+  },
   collection: {
     excludedFilters: ['countryGrSciColl'],
     rootFilter: {
@@ -83,6 +79,25 @@ var siteConfig = {
       lng: 2.66,
       zoom: 5.4
     },
+  },
+  literature: {
+    rootFilter: {
+      predicate: {
+        type: 'or', predicates: [
+          {
+            type: 'in',
+            key: 'countriesOfResearcher',
+            values: ['FR']
+          },
+          {
+            type: 'in',
+            key: 'countriesOfCoverage',
+            values: ['FR']
+          }
+        ]
+      }
+    },
+    highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
   },
   maps: {
     locale: 'fr'
