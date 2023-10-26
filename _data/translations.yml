@@ -25,18 +25,19 @@ rejectTerms:
   fr: 'Rejeter'
 
 # Used by the stories block type
-DataUse:
-  en: 'Data use'
-  fr: 'Utilisation des données'
+contentTypes:
+  DataUse:
+    en: 'Data use'
+    fr: 'Utilisation des données'
 
-News:
-  en: 'News'
-  fr: 'Actualités'
+  News:
+    en: 'News'
+    fr: 'Actualités'
 
-Event:
-  en: 'Event'
-  fr: 'Événement'
+  Event:
+    en: 'Event'
+    fr: 'Événement'
 
-Literature:
-  en: 'Literature'
-  fr: 'Littérature'
+  Literature:
+    en: 'Literature'
+    fr: 'Littérature'
