@@ -6,7 +6,7 @@ title: GBIF_TITLE
 description: GBIF_SUMMARY
 background: http://_GBIF_IMAGE
 imageLicense: GBIF_IMAGE_LICENSE
-permalink: /resource/_key_
+permalink: /resource
 layout: resource-key
 ignoreThumbor: true
 cta:
