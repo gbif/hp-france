@@ -11,7 +11,7 @@ stats:
       href: /dataset/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/organization?country=FR&limit=0&isEndorsed=true">100,000</span>
       description: Fournisseurs de données
-      background: /assets/images/icons/publishers.png
+      background: /assets/images/icons/santa-claus.png
       href: /publisher/search
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?contentType=literature&countriesOfResearcher=FR&limit=0">100,000</span>
       description: Littérature
