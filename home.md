@@ -19,6 +19,8 @@ cta:
     href: /a-propos
 composition:
   - type: heroImage
+  - type : stats
+    data: home.stats
   - type: stories
     data: examples.stories
   - type: split
