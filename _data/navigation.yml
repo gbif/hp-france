@@ -8,6 +8,10 @@
     href: /occurrence/search
   - text: Jeux de données
     href: /dataset/search
+  - text: Institutions
+	  href: /institution/search
+  - text: Collections
+	  href: /collection/search
   - text: Éditeurs
     href: /publisher/search
   - text: Littérature
