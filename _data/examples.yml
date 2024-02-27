@@ -84,6 +84,6 @@ stories:
       - DATA_USE
       - NEWS
       - EVENT
-    limit: 6 
+    limit: 3
     locale:
       - fr
