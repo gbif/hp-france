@@ -16,6 +16,8 @@
     href: /publisher/search
   - text: Littérature
     href: /literature/search
+  - text: Test
+    href: /institution/search
 - text: Exemples et liens
   menu: # Menu déroulant (un seul niveau de profondeur)
   - text: Simple
