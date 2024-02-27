@@ -12,8 +12,8 @@ navbar:
   hasWhiteText: true          # Should the text color be white?
   floating: true
 cta:
-  - text: Occurrences
-    href: /occurrence/search
+  - text: Page FR sur GBIF
+    href: https://www.gbif.org/country/FR/summary
     isPrimary: true
   - text: À propos
     href: /a-propos
