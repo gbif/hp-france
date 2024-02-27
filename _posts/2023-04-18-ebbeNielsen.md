@@ -4,10 +4,9 @@ date:   2023-11-18 14:20:00 +0100
 categories: ["GBIF","Announcement"]
 lang: en
 preTitle: 18 November 2023
-lang-ref: ebbeNielsen
-background: /assets/images/Ebbe_Nielsen.png
+background: /assets/images/icons/santa-claus.png
 ratio: 50
-thumbnail: /assets/images/Ebbe_Nielsen.png
+thumbnail: /assets/images/icons/santa-claus.png
 ---
 
 
