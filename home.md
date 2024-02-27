@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: GBIF France
-description: Système Mondial d'Information sur la Biodiversité. Le GBIF France présente toutes les données françaises relatives à la biodiversité disponibles sur le GBIF.
+description: Accès aux données françaises relatives à la biodiversité disponibles sur le GBIF (Système Mondial d'Information sur la Biodiversité).
 background: "/assets/images/placeholders/4039529673.jpeg"
 imageLicense: |
   [*Mnium hornum* Hedw. observed in France](/occurrence/search/?entity=4039529673) by petit_bonnier (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
