@@ -27,6 +27,8 @@ composition:
     data: examples.herbariumImageExample
   - type: features
     data: examples.couldBeAnyName
+  - type: latestPosts
+    data: we_do_not_want_any_header
 permalink: /
 ---
 
