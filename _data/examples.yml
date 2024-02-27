@@ -71,7 +71,7 @@ herbariumImageExample:
 
 stories:
   # Title (Optional)
-  title: Actualités mondiales
+  # title: Actualités mondiales
 # Description (Optional)
   # description: |
    # GBIF France, un acteur clé dans le réseau mondial de la biodiversité, contribue à partager des données essentielles sur notre monde naturel. En collaboration avec d'autres nœuds, il participe aux dernières nouvelles du réseau, faisant progresser notre compréhension des formes de vie diverses de la Terre.
