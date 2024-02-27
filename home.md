@@ -1,8 +1,9 @@
 ---
 lang-ref: home
 layout: home
-title: Explorez la biodiversité de la France
-description: Accès libre et ouvert aux données de biodiversité.
+title: Global Biodiversity Information Facility
+Système Mondial d'Information sur la Biodiversité
+description: Accès libre et ouvert aux données de biodiversité. Le GBIF France présente toutes les données françaises relatives à la biodiversité disponibles sur le GBIF.
 background: "/assets/images/placeholders/4039529673.jpeg"
 imageLicense: |
   [*Mnium hornum* Hedw. observed in France](/occurrence/search/?entity=4039529673) by petit_bonnier (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
