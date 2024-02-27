@@ -12,7 +12,7 @@ navbar:
   hasWhiteText: true          # Should the text color be white?
   floating: true
 cta:
-  - text: France sur GBIF.org
+  - text: France sur GBIF.org{:target="_blank"}
     href: https://www.gbif.org/country/FR/summary
     isPrimary: true
   - text: À propos
