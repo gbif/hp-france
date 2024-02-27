@@ -5,7 +5,7 @@
 - text: Données
   menu:
   - text: Occurrences
-    href: https://www.gbif.org/country/FR/publishing
+    href: https://www.gbif.org/occurrence/search?publishing_country=FR&advanced=1
   - text: Jeux de données
     href: https://www.gbif.org/dataset/search?publishing_country=FR
   - text: Fournisseurs de données
