@@ -13,7 +13,7 @@ navbar:
   floating: true
 cta:
   - text: France sur GBIF.org
-    href: https://www.gbif.org/country/FR/summary{:target="_blank"}
+    href: https://www.gbif.org/country/FR/summary{target="_blank"}
     isPrimary: true
   - text: À propos
     href: /a-propos
