@@ -1,6 +1,6 @@
 ---
 title:  "Ouverture de la consultation publique pour le guide GBIF de publication des données sur l'eau douce"
-date:   2024-06-20 16:00:00 +0100
+date:   2024-06-20
 categories: ["GBIF","Announcement"]
 lang: fr
 preTitle: 20 juin 2024
