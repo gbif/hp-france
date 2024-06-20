@@ -51,4 +51,18 @@ Getting started : https://github.com/gbif/hosted-portals/blob/main/getting-star
  Par exemple le fichier search.md dans le dossier occurrence, sera la page présente à cette url : url_du_site/occurrence/search/
  Voir la [documentation](https://jekyllrb.com/docs/pages/) pour l'ajout de pages.
 
+ # Ajout de nouvelles section dans la page d'accueil
+
+ La page d'accueil correspond au fichier home.md
+ Dans la partie composition, il y a des 'type' qui correspondent aux différentes sections 
+  - image de fond : type: heroimage
+  - actualités entrée par le GBIF France : type: stats
+  - actualités réccupérées sur le gbif.org : type: latestPost
+  - ... cf compex.md pour explication des différents types
+    
+Il faut donc rajouter une section type pour ajouter une nouvelle section.
+Si le type à une data: exemples.stories par exemple, il va venir réccupérer les informations du fichier home.yml (du dossier _data), sur la section stories
+Plus d'information sur les type et data et leurs utilités sur la page complex.md 
+
+
 
