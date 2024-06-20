@@ -1,12 +1,12 @@
 ---
-title:  "Ouverture de la consultation publique pour le guide GBIF de publication des données sur l'eau douce"
-date:   2024-06-20
-categories: ["GBIF","Announcement"]
-lang: fr
 preTitle: 20 juin 2024
+title:  "Ouverture de la consultation publique pour le guide GBIF de publication des données sur l'eau douce"
+description: "_Ouverture de la consultation publique pour le guide GBIF de publication des données sur l'eau douce_"
+date:   2024-06-20
+categories: ["GBIF","Eau douce","Consultation"]
 background: /assets/images/news/freshwater-news.png
-ratio: 50
-thumbnail: /assets/images/news/freshwater-news.png
+lang: fr
+imageLicense: GBIF, 2024.
 ---
 
 
