@@ -5,6 +5,7 @@ description: "_Ouverture de la consultation publique pour le guide GBIF de publi
 date:   2024-06-20
 categories: ["GBIF","Eau douce","Consultation"]
 background: /assets/images/news/freshwater-news.png
+thumbnail: /assets/images/news/freshwater-news600x300.png
 lang: fr
 imageLicense: GBIF, 2024.
 ---
