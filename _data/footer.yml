@@ -3,23 +3,29 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Organismes de tutelle
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: Patrinat
+      href: https://www.patrinat.fr/fr
+    - text: OFB
+      href: https://www.ofb.gouv.fr/
+    - text: MNHN
+      href: https://www.mnhn.fr/fr
+    - text: CNRS
+      href: https://www.cnrs.fr/fr
+    - text: IRD
+      href: https://www.ird.fr/
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      This project is open source. All files are available on [GitHub](https://github.com/gbif/hp-france).
   
   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * 43 rue Buffon, MNHN Géologie CP48
+      * 75005 Paris
+      * FRANCE
     connectIcons: true
 
   # EXAMPLE
