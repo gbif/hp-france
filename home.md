@@ -21,14 +21,15 @@ composition:
   - type: heroImage
   - type : stats
     data: home.stats
+  - type: latestPosts
+    data: we_do_not_want_any_header
   - type: stories
     data: examples.stories
 #  - type: split
 #    data: examples.herbariumImageExample
 #  - type: features
 #    data: examples.couldBeAnyName
-  - type: latestPosts
-    data: we_do_not_want_any_header
+  
 permalink: /
 ---
 
