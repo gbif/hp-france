@@ -22,7 +22,6 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
       * 43 rue Buffon, MNHN Géologie CP48
       * 75005 Paris
       * FRANCE
