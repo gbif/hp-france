@@ -1,5 +1,5 @@
 ---
-lang-ref: about
+lang-ref: timely
 title: À propos
 layout: post
 description: Qu'est-ce que GBIF France, son but et ses objectifs ?
