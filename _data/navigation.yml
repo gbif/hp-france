@@ -31,5 +31,11 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: Tutoriel YAML
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+- text: Partage et valorisation des données
+  menu :
+  - text: Mise en ligne des données
+    href: /partage_valorisation/mise_en_ligne_donnees.md
+  - text: Data papers
+    href: /partage_valorisation/data_papers.md
 - text: Actualités
   href: /news/
