@@ -12,26 +12,7 @@
     href: /publisher/search
   - text: Littérature
     href: /literature/search
-- text: Exemples et liens
-  menu: # Menu déroulant (un seul niveau de profondeur)
-  - text: Simple
-    href: /example-pages/simple
-  - text: Complexe
-    href: /example-pages/complex
-  - text: "---" # Séparateur pour séparer les blocs d'éléments de menu (au moins 3 "-")
-  - text: Démo du thème de base
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Autres sites utilisant le thème
-    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
-  - text: "---" # Séparateur pour séparer les blocs d'éléments de menu (au moins 3 "-")
-  - text: "Docs" # Titre pour le bloc d'éléments de menu
-  - text: Documentation Jekyll
-    href: https://jekyllrb.com/docs/pages/
-  - text: Tutoriel Markdown
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: Tutoriel YAML
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: Partage et valorisation des données
+- text: Partage et valorisation
   menu :
   - text: Mise en ligne des données
     href: /partage_valorisation/mise_en_ligne_donnees
