@@ -28,6 +28,10 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
+      * gbif@gbif.fr
+
+      * +33 (0)1 40 79 80 65
+      
       * 43 rue Buffon, MNHN Géologie CP48
       * 75005 Paris
       * FRANCE
