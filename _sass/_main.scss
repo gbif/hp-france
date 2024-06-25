@@ -10,3 +10,38 @@ article.feature {
   //	border-radius: 3px;
   border-radius: 20px 20px 0 0;
 }
+
+.footer-groups {
+  display: flex;
+  justify-content: center;
+}
+
+.footer-column {
+  flex: 1; /* Chaque colonne prendra autant d'espace disponible */
+  text-align: center; /* Centrer le contenu dans chaque colonne */
+  margin: 0 10px; /* Espacement entre les colonnes */
+}
+
+.footer-links {
+  list-style-type: none; /* Supprime les puces de la liste */
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap; /* Permet aux éléments de se regrouper sur plusieurs lignes si nécessaire */
+  justify-content: space-between; /* Espace équitablement les logos */
+}
+
+.footer-links li {
+  flex: 1 0 20%; /* Chaque logo occupe 20% de la largeur de son conteneur */
+  margin-bottom: 10px; /* Espacement entre les logos */
+  text-align: center; /* Centrer le contenu */
+}
+
+.footer-links img {
+  max-width: 100%;
+  height: auto;
+}
+
+.footer-column-name {
+  font-weight: bold;
+  margin-bottom: 10px;
+}

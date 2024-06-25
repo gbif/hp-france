@@ -4,16 +4,22 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - name: Organismes de tutelle
+    type: logos
     links:
-    - text: Patrinat
+    - text: |
+        <img src="/assets/logo/logo_patrinat.png" alt="Patrinat"  style="height: 70px; display: block; margin: 0 auto;"/>
       href: https://www.patrinat.fr/fr
-    - text: OFB
+    - text: |
+        <img src="/assets/logo/logo_ofb.png" alt="OFB"  style="height: 70px; display: block; margin: 0 auto;"/>
       href: https://www.ofb.gouv.fr/
-    - text: MNHN
+    - text: |
+        <img src="/assets/logo/logo_mnhn.jpg" alt="MNHN"  style="height: 70px; display: block; margin: 0 auto;"/>
       href: https://www.mnhn.fr/fr
-    - text: CNRS
+    - text: |
+        <img src="/assets/logo/logo_cnrs.png" alt="CNRS"  style="height: 70px; display: block; margin: 0 auto;"/>      
       href: https://www.cnrs.fr/fr
-    - text: IRD
+    - text: |
+        <img src="/assets/logo/logo_ird.png" alt="IRD"  style="height: 70px; display: block; margin: 0 auto;"/>      
       href: https://www.ird.fr/
 
   - name: Code
