@@ -10,20 +10,40 @@ height: 70vh
 toc: true
 ---
 
-## Mission
-Les missions de GBIF France consistent à : collecter des métadonnées sur les ressources primaires de données de biodiversité ; aider à connecter des données au réseau GBIF en utilisant les normes, protocoles et outils de GBIF ; organiser des sessions de formation (publication de données, qualité des données, utilisation de données médiatisées par GBIF) ; informer sur GBIF, ses outils, ses activités, ses appels, ses matériaux de formation et ses opportunités ; promouvoir et faciliter l'utilisation des données médiatisées par GBIF et des outils par les utilisateurs de données sur la biodiversité ; collaborer avec d'autres établissements nationaux et internationaux sur la biodiversité et avec le Secrétariat de GBIF ; contribuer au développement d'outils communs avec la communauté GBIF. GBIF France a également pour mission de soutenir le Sud Global, en particulier les pays francophones.
+## Le GBIF international
+Le [GBIF](https://www.gbif.org/){:target="_blank"} (Global Biodiversity Information Facility) est un système mondial d'information sur la biodiversité.
 
-## Financement
-Le nœud GBIF France est financé par le Ministère de l'Éducation et de la Recherche (Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation - MESR) et, depuis 2017, également par la contribution financière de l'Office Français de la Biodiversité (OFB). De 2013 à 2016, GBIF France a été financé par un projet de l'Agence Nationale de la Recherche (ANR) appelé e-ReColNat.
+La biodiversité, pourtant étudiée intensivement, est encore trop mal connue. Les outils et les résultats de recherche en biodiversité manquent de visibilité et d’interopérabilité. L’informatisation des collections d’histoire naturelle et d’observations naturelles est un processus avancé mais fragmenté.
 
-La contribution financière de base à GBIF est assurée par les Ministères de la Recherche et de l'Écologie : la Direction Générale pour la Recherche et l'Innovation (DGRI) du MESR ; et par la Direction de l'Eau et de la Biodiversité (DEB) du Ministère de la Transition Écologique et de la Cohésion des Territoires (MECTECT).
+Le **GBIF, consortium international** fondé à l’initiative de l’[OCDE](https://www.oecd.org/fr/){:target="_blank"}, est un programme qui tente de rassembler toutes ces données et de les mettre en commun à la disposition des chercheurs et du grand public. Ainsi la biodiversité sera mieux connue, mieux étudiée, et mieux utilisée. Les collections seront aussi plus visibles et mieux mises en valeur, et les régions mieux connues. Enfin, il sera plus facile aux chercheurs étudiant la biodiversité de préparer leurs recherches, de les comparer et de les mettre en relation avec les travaux antérieurs.
 
-## Histoire
-GBIF France a pour mandat de promouvoir les activités et les outils de GBIF au niveau national et de représenter la France dans la communauté GBIF. Le nœud fournit des informations sur les meilleures pratiques et les normes utilisées par GBIF et aide les éditeurs de données à connecter leurs données au réseau GBIF en utilisant les outils développés par GBIF. Le nœud organise également des événements de formation et collabore avec toutes les organisations travaillant sur la biodiversité au niveau national. GBIF France apporte également son soutien au Sud Global, en particulier aux pays francophones, pour les aider à contribuer à GBIF.
+Pour ce faire, le GBIF offre un moteur de recherche portant sur des bases de données connectées au GBIF de manière standardisée. Les possesseurs de données peuvent connecter tout ou partie de leurs ressources au GBIF, afin de les rendre visibles et interopérables, mais restent maîtres de leurs données, qu’ils continuent à héberger et à utiliser dans le cadre de leur travail.
 
-Le nœud GBIF France a été créé en juin 2006 et était hébergé par le Muséum national d'Histoire naturelle (MNHN) à Paris. Au début, le nœud était simplement hébergé par le MNHN, mais en 2011, GBIF France a été officiellement intégré au MNHN. Pendant quelques années, le nœud était sous la Direction des collections du MNHN, et depuis 2017, il relève de l'UAR PatriNat (Centre d'expertise et de données pour le patrimoine naturel).
+**En mai 2020**, le GBIF mettait déjà en ligne à disposition du public plus de **1,4 milliards de données**, spécimens de collections ou observations dans la nature, et ce nombre augmente constamment. A terme, le GBIF sera un élément central du tissu scientifique en biodiversité et en taxonomie, une représentation incontournable du savoir biologique humain.
 
-## Structure
-Le nœud GBIF France comprend deux coordinateurs à temps partiel et quatre postes à temps plein (responsable du nœud, spécialistes en informatique et ingénieur des données).
 
-Le nœud dispose d'un conseil qui se réunit une fois par an. Il comprend des représentants des ministères (MESRI Éducation et Recherche et MTES Environnement) et des organisations travaill sur la biodiversité au niveau national.
+## Le GBIF France
+L'accès aux données sur la biodiversité est une nécessité scientifique et politique. Le GBIF, qui se consacre à améliorer cet accès, compte à la fois sur l'appui des nombreux autres programmes internationaux qui sont représentés au GBIF (tels que [Species 2000](https://species2000.org/){:target="_blank"}, [OBIS](https://obis.org/){:target="_blank"}, etc.), et sur les points nodaux nationaux mis en place dans chacun des pays membres.
+
+Le point nodal français a une double tâche :
+ - Représenter le GBIF en France, en mettant à disposition des communautés scientifiques et politiques françaises les outils et les services créés par le GBIF
+ - Représenter la France dans le GBIF, en s'assurant que la France soit visible et écoutée
+ 
+ [Voir les données publiées par le point nodal français sur le GBIF](https://www.gbif.org/country/FR/publishing){:target="_blank"}
+
+ Le GBIF France a vocation de rassembler toutes les données primaires sur la biodiversité hébergées en France, que celles-ci concernent la biodiversité du territoire français ou du reste du monde. De même, des données de collection et d'observation concernant la France mais hébergées dans d'autres pays seront sous la responsabilité des points nodaux de ces pays détenteurs de l'information. L'équipe du point nodal français du GBIF doit aussi donner aux fournisseurs de données toute l'assistance dont ils peuvent avoir besoin, et peut être **contactée** afin d'aider à la mise en ligne de données.
+
+## Ses missions
+- Faire connaître le GBIF et ses activités en France;
+- Offrir aux chercheurs français les outils développés par le GBIF pour faire connaître leurs données et les mettre en ligne;
+- Accompagner les fournisseurs de données dans leur travail de connexion au GBIF.org avec l'accès aux données;
+- Permettre une interopérabilité des bases de données sur la biodiversité (des gènes aux écosystèmes);
+- Rendre possibles de multiples utilisations recourant aux systèmes d’information géographiques et à la modélisation géo-spatio-temporelle, par exemple à des fins d’épidémiologie, d’agro-climatologie ou d’aménagement de territoires;
+- Estimer les lacunes de données en France pour y remédier;
+- Assurer des actions de formation (connexion, qualité des données, utilisation des données accessibles grâce au GBIF).
+
+## Mandat pays du sud
+En plus de ces missions, le GBIF France joue un rôle primordial dans le soutien aux pays du Sud, essentiellement francophones, en :
+- aidant à mettre en place leur point nodal
+- organisant des formations sur les outils utiles proposés par le GBIF
+- proposant une aide technique aux équipes des points nodaux, aux fournisseurs de données ainsi qu'aux agents chargés de la mise en valeur des données.
