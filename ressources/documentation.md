@@ -8,7 +8,11 @@ toc: true
 ## Brochures
 
 ## Revue scientifique GBIF
-[![Science Review 10](assets/images/documents/SR10.png)](https://www.gbif.org/science-review){:target="_blank"}
+
+<figure>
+    <img src="/assets/images/documents/SR10.png" width="300" height="400" alt="Revue Scientifique n°10">
+    <a href="https://www.gbif.org/science-review" target="_blank">
+</figure>
 
 ## GBIF Work programme et Implementation plan
 
