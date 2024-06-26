@@ -5,25 +5,26 @@
 columns:
   - name: Code
     description: | # Can be Markdown
-      Ce projet est open source. Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-france).
+      Ce projet est open source. 
+      Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-france).
 
   - name: Organismes de tutelle
     type: logos
     links:
     - text: |
-        <img src="/assets/logo/logo_patrinat.png" alt="Patrinat" target="_blank" style="height: 70px; display: block; margin: 0 auto;"/>
-      href: https://www.patrinat.fr/fr
+        <img src="/assets/logo/logo_patrinat.png" alt="Patrinat" style="height: 70px; display: block; margin: 0 auto;"/>
+      href: https://www.patrinat.fr/fr{:target="_blank"}
     - text: |
-        <img src="/assets/logo/logo_ofb.png" alt="OFB"  target="_blank" style="height: 70px; display: block; margin: 0 auto;"/>
+        <img src="/assets/logo/logo_ofb.png" alt="OFB" style="height: 70px; display: block; margin: 0 auto;"/>
       href: https://www.ofb.gouv.fr/
     - text: |
-        <img src="/assets/logo/logo_mnhn.jpg" alt="MNHN"  target="_blank" style="height: 70px; display: block; margin: 0 auto;"/>
+        <img src="/assets/logo/logo_mnhn.jpg" alt="MNHN" style="height: 70px; display: block; margin: 0 auto;"/>
       href: https://www.mnhn.fr/fr
     - text: |
-        <img src="/assets/logo/logo_cnrs.png" alt="CNRS"  target="_blank" style="height: 70px; display: block; margin: 0 auto;"/>      
+        <img src="/assets/logo/logo_cnrs.png" alt="CNRS" style="height: 70px; display: block; margin: 0 auto;"/>      
       href: https://www.cnrs.fr/fr
     - text: |
-        <img src="/assets/logo/logo_ird.png" alt="IRD"  target="_blank" style="height: 70px; display: block; margin: 0 auto;"/>      
+        <img src="/assets/logo/logo_ird.png" alt="IRD" style="height: 70px; display: block; margin: 0 auto;"/>      
       href: https://www.ird.fr/
 
   - name: Contact
