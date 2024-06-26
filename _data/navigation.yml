@@ -18,15 +18,5 @@
     href: /partage_valorisation/mise_en_ligne_donnees
   - text: Data papers
     href: /partage_valorisation/data_papers
-- text: Ressources
-  menu:
-  - text: Documentation
-  href: ressources/documentation
-  - text: Guides de bonnes pratiques
-  href: ressources/guides_bonnes_pratiques
-  - text: Outils et sites de référence
-  href: ressources/outils_references
-  - text: Présentations
-  href: ressources/presentations
 - text: Actualités
   href: /news/
