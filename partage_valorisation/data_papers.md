@@ -1,5 +1,5 @@
 ---
-lang-ref: data-papers
+lang-ref: partager-donnees
 title: Data papers
 layout: post
 description: Qu'est-ce qu'un Data paper ?
@@ -79,5 +79,5 @@ Vous trouverez ci-dessous une liste de data papers décrivant des jeux de donné
 </details>
 <details>
   <summary><b>2023</b></summary>
-    <li>Schmider-Martínez A, Maturana CS, Poveda Y, Rosenfeld S, López-Farrán Z, Saucède T, Poulin E, González-Wevar C (2023) Laevilacunaria (Mollusca, Gastropoda) in the Southern Ocean: A comprehensive occurrence dataset. Biodiversity Data Journal 11: e111982. https://doi.org/10.3897/BDJ.11.e111982
+    <li>Schmider-Martínez A, Maturana CS, Poveda Y, Rosenfeld S, López-Farrán Z, Saucède T, Poulin E, González-Wevar C (2023) Laevilacunaria (Mollusca, Gastropoda) in the Southern Ocean: A comprehensive occurrence dataset. Biodiversity Data Journal 11: e111982. https://doi.org/10.3897/BDJ.11.e111982</li>
 </details>
