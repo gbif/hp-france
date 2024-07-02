@@ -62,6 +62,8 @@ Le ARPHA Writing Tool actuellement permet la soumission directe vers la revue <a
 Vous trouverez sur <a href="https://www.gbif.org/data-papers" target="_blank">cette page du site GBIF.org</a> une liste des revues dans lesquelles il est possible de soumettre un data paper.
 </div>
 
+&nbsp;
+
 ## Autres ressources sur les data papers
 
 > Dedieu, L. 2022. Publier un Data paper, en 5 points. Montpellier (FRA) : CIRAD, 5 p. [https://doi.org/10.18167/coopist/0057](https://doi.org/10.18167/coopist/0057){:target="_blank"}
@@ -88,6 +90,7 @@ Vous trouverez ci-dessous une liste de data papers décrivant des jeux de donné
     <li>Schmider-Martínez A, Maturana CS, Poveda Y, Rosenfeld S, López-Farrán Z, Saucède T, Poulin E, González-Wevar C (2023) Laevilacunaria (Mollusca, Gastropoda) in the Southern Ocean: A comprehensive occurrence dataset. Biodiversity Data Journal 11: e111982. <a href="https://doi.org/10.3897/BDJ.11.e111982" target="_blank">https://doi.org/10.3897/BDJ.11.e111982</a></li>
 </details>
 
+&nbsp;
 
 ## Présentation vidéo des Data papers
 
