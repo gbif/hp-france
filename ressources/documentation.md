@@ -24,8 +24,8 @@ toc: true
 
 ## Autres documents
 <figure>
-    <a href="[https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/sp.efsa.2020.EN-1841](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/sp.efsa.2020.EN-1841)" target="_blank"><img src="/assets/images/documents/dwg_enetwild.png" width="300" height="400" style="float:left; margin-right:10px;" alt="Applying the Darwin core standard to the monitoring of wildlife species, their management and estimated records" ></a>
+    <a href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/sp.efsa.2020.EN-1841" target="_blank"><img src="/assets/images/documents/dwg_enetwild.png" width="300" height="400" style="float:left; margin-right:10px;" alt="Applying the Darwin core standard to the monitoring of wildlife species, their management and estimated records" ></a>
 </figure>
 <figure>
-    <a href="[/assets/fichiers/changements_climatiques_et_biodiversite.pdf](/assets/fichiers/changements_climatiques_et_biodiversite.pdf)" target="_blank"><img src="/assets/images/documents/MNHN_CLIMAT_BIODIV.png" width="300" height="400" style="float:left;" alt="Changements climatiques et biodiversité" ></a>
+    <a href="/assets/fichiers/changements_climatiques_et_biodiversite.pdf" target="_blank"><img src="/assets/images/documents/MNHN_CLIMAT_BIODIV.png" width="300" height="400" style="float:left;" alt="Changements climatiques et biodiversité" ></a>
 </figure>
