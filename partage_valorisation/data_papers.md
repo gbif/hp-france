@@ -44,12 +44,14 @@ En publiant un data paper, vous pourrez :
 
 *GBIF Integrated Publishing Toolkit (IPT)*
 <div style="text-align: justify">Le GBIF a travaillé avec Pensoft Publishers pour développer un flux de travail générant un manuscrit de data paper en utilisant le Profil de Métadonnées du GBIF, qui est intégré à l'<a href="https://www.gbif.org/fr/ipt" target="_blank">Integrated Publishing Toolkit (IPT)</a>. En un clic de bouton, vous pouvez télécharger les métadonnées en tant que manuscrit au format RTF prêt à être édité et soumis pour évaluation par les pairs selon les procédures normales de tout journal acceptant ce type de publication, ou au format EML également pris en charge par plusieurs outils et modèles d'aide à la rédaction.
-</div>
+
+&nbsp;
 
 *NephilaPaper*
 <div style="text-align: justify">Cet <a href="https://ferramentas.sibbr.gov.br/nephila/" target="_blank">outil créé par SiBBr</a> extrait les métadonnées de Darwin Core Archive (DwC-A), et crée un manuscrit au format RTF prêt à être édité et soumis.
-</div>
 
+&nbsp;
+  
 *ARPHA Writing Tool*
 <div style="text-align: justify">Le <a href="https://arpha.pensoft.net/" target="_blank">ARPHA Writing Tool</a> simplifie encore plus le processus de publication de data papers. Les métadonnées d'un jeu de données peuvent être téléchargées, et tout le processus de l'écriture collaborative, de faire des commentaires et de l'édition de la soumission et l'évaluation par les pairs, à la publication et à la révision de la post-publication est gérée dans un seul outil Web. Des instructions détaillées sur l'importation de métadonnées à partir des jeux de données hébergés par IPT sont disponibles.
 Le ARPHA Writing Tool actuellement permet la soumission directe vers la revue <a href="https://bdj.pensoft.net/" target="_blank">Biodiversity Data Journal</a>.
