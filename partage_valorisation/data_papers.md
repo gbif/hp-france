@@ -84,6 +84,4 @@ Vous trouverez ci-dessous une liste de data papers décrivant des jeux de donné
 
 ## Présentation vidéo des Data papers
 
-<video controls width="600">
-  <source src="https://youtu.be/TCu9OB27E4M" />
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCu9OB27E4M?si=Mou3noznFjxzBzsD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
