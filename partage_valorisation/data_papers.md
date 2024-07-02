@@ -63,7 +63,7 @@ Vous trouverez sur [cette page du site GBIF.org](https://www.gbif.org/data-paper
 ## Autres ressources sur les data papers
 
 >  Dedieu, L. 2022. Publier un Data paper, en 5 points. Montpellier (FRA) : CIRAD, 5 p.
-https://doi.org/10.18167/coopist/0057
+https://doi.org/10.18167/coopist/0057{:target="_blank"}
 
 
 ## Exemples de data papers
@@ -72,7 +72,7 @@ Vous trouverez ci-dessous une liste de data papers décrivant des jeux de donné
 
 <details>
   <summary><b>2024</b></summary>
-    <li>Pozsgai, G., Lhoumeau, S., Amorim, I.R. et al. The BALA project: A pioneering monitoring of Azorean forest invertebrates over two decades (1999–2022). Sci Data 11, 368 (2024). <a href="https://doi.org/10.1038/s41597-024-03174-7">https://doi.org/10.1038/s41597-024-03174-7</a></li>
+    <li>Pozsgai, G., Lhoumeau, S., Amorim, I.R. et al. The BALA project: A pioneering monitoring of Azorean forest invertebrates over two decades (1999–2022). Sci Data 11, 368 (2024). <a href="https://doi.org/10.1038/s41597-024-03174-7">https://doi.org/10.1038/s41597-024-03174-7 target="_blank" </a></li>
     <li>Gabriel R, Morgado LN, Borges PAV, Coelho MCM, Aranda SC, Henriques DSG, Sérgio C, Hespanhol H, Pereira F, Sim-Sim M, Ah-Peng C (2024) The MOVECLIM – AZORES project: Bryophytes from Pico Island along an elevation gradient. Biodiversity Data Journal 12: e117890. https://doi.org/10.3897/BDJ.12.e117890</li>
     <li>Brown GG, Demetrio WC, Gabriac Q, Pasini A, Korasaki V, Oliveira LJ, dos Santos JC.F, Torres E, Galerani PR, Gazziero DLP, Benito NP, Nunes DH, Santos A, Ferreira T, Nadolny HS, Bartz MLC, Maschio W, Dudas RT, Zagatto MRG, Niva CC, Clasen LA, Sautter KD, Froufe LC.M, Seoane CES, de Moraes A, James S, Alberton O, Brandão Júnior O, Saraiva O, Garcia A, Oliveira E, César RM, Corrêa-Ferreira BS, Bruz LSM, Silva E, Cardoso GBX, Lavelle P, Velásquez E, Cremonesi M, Parron LM, Baggio AJ, Neves E, Hungria M, Campos TA, da Silva VL, Reissmann CB, Conrado AC, Bouillet J-PD, Gonçalves JLM, Brandani CB, Viani RAG, Paula RR, Laclau J-P, Peña-Venegas CP, Peres C, Decaëns T, Pey B, Eisenhauer N, Cooper M, Mathieu J (2024) Soil macrofauna communities in Brazilian land-use systems. Biodiversity Data Journal 12: e115000. https://doi.org/10.3897/BDJ.12.e115000</li>
 </details>
