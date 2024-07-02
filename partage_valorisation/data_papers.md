@@ -4,8 +4,7 @@ title: Data papers
 layout: post
 description: Qu'est-ce qu'un Data paper ?
 background: /assets/images/placeholders/3466083575.jpeg
-imageLicense: |
-  Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
+imageLicense: Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
 height: 70vh
 toc: true
 ---
@@ -81,3 +80,10 @@ Vous trouverez ci-dessous une liste de data papers décrivant des jeux de donné
   <summary><b>2023</b></summary>
     <li>Schmider-Martínez A, Maturana CS, Poveda Y, Rosenfeld S, López-Farrán Z, Saucède T, Poulin E, González-Wevar C (2023) Laevilacunaria (Mollusca, Gastropoda) in the Southern Ocean: A comprehensive occurrence dataset. Biodiversity Data Journal 11: e111982. https://doi.org/10.3897/BDJ.11.e111982</li>
 </details>
+
+
+## Présentation vidéo des Data papers
+
+<video controls width="600">
+  <source src="https://youtu.be/TCu9OB27E4M" />
+</video>
