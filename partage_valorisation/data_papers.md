@@ -43,8 +43,9 @@ En publiant un data paper, vous pourrez :
 ## Outils d'aide à la création de data papers
 
 *GBIF Integrated Publishing Toolkit (IPT)*
-
+<p style="text-align: justify;">
 Le GBIF a travaillé avec Pensoft Publishers pour développer un flux de travail générant un manuscrit de data paper en utilisant le Profil de Métadonnées du GBIF, qui est intégré à l'<a href="https://www.gbif.org/fr/ipt" target="_blank">Integrated Publishing Toolkit (IPT)</a>. En un clic de bouton, vous pouvez télécharger les métadonnées en tant que manuscrit au format RTF prêt à être édité et soumis pour évaluation par les pairs selon les procédures normales de tout journal acceptant ce type de publication, ou au format EML également pris en charge par plusieurs outils et modèles d'aide à la rédaction.
+</p>
 
 *NephilaPaper*
 
