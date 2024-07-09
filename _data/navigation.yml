@@ -31,10 +31,10 @@
 - text: Communauté
   menu :
   - text: Nos projets
-  - href: communaute/projets
+    href: communaute/projets
   - text: Nos formations
-  - href: communaute/formations
+    href: communaute/formations
   - text: Groupes de travail
-  - href: communaute/gt
+    href: communaute/gt
 - text: Actualités
   href: /news/
