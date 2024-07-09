@@ -26,6 +26,9 @@ columns:
     - text: |
         <img src="/assets/logo/logo_ird.png" alt="IRD" style="height: 70px; display: block; margin: 0 auto;"/>      
       href: https://www.ird.fr/
+    - text: |
+        <img src="/assets/logo/logo_nodes.png" alt="Nodes" style="height: 70px; display: block; margin: 0 auto;"/>      
+      href: https://www.gbif.org/nodes
 
   - name: Contact
     description: | # Can be Markdown
