@@ -20,7 +20,7 @@ toc: true
     <a href="https://docs.gbif.org/2024-work-programme/en/gbif-work-programme-2024.en.pdf" target="_blank"><img src="/assets/images/documents/WP24.png" width="300" height="400" style="float:left; margin-right:10px;" alt="Work Programme 2024"></a>
 </figure>
 <figure>
-    <a href="https://docs.gbif.org/nodes-implementation-2024/en/" target="_blank"><img src="/assets/images/documents/GBIF_NODES_IMP_PLAN_2024.png" width="300" height="400" style="float:left;" alt="Nodes Implementation plan 2024"></a>
+    <a href="https://docs.gbif.org/nodes-implementation-2024" target="_blank"><img src="/assets/images/documents/GBIF_NODES_IMP_PLAN_2024.png" width="300" height="400" style="float:left;" alt="Nodes Implementation plan 2024"></a>
 </figure>
 
 ## Autres documents
