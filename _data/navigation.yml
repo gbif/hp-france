@@ -29,6 +29,12 @@
   - text: Présentations
     href: ressources/presentations
 - text: Communauté
-  href: /communaute
+  menu :
+  - text: Nos projets
+  - href: /communaute/projets
+  - text: Nos formations
+  - href: /communaute/formations
+  - text: Groupes de travail
+  - href: /communaute/gt
 - text: Actualités
   href: /news/
