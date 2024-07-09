@@ -10,8 +10,12 @@
     href: https://www.gbif.org/dataset/search?publishing_country=FR
   - text: Fournisseurs de données
     href: /publisher/search
-  - text: Littérature
-    href: /literature/search
+  - text: OpenObs (données sur la France)
+    href: https://openobs.mnhn.fr/
+  - text: Récolnat (données de collections)
+    href: https://www.recolnat.org/fr/
+  - text: Entrepôts et catalogues
+    href: entrepots-catalogues
 - text: Partage et valorisation
   menu :
   - text: Mise en ligne des données
@@ -36,5 +40,7 @@
     href: communaute/formations
   - text: Groupes de travail
     href: communaute/gt
+  - text: Littérature
+    href: /literature/search
 - text: Actualités
   href: /news/
