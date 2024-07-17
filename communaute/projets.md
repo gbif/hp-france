@@ -13,13 +13,6 @@ Le GBIF France est partenaire de nombreux projets autour des données de biodive
 
 ## Biodiversity Information for Development (BID)
 
->[Progress towards a regional data platform of West and Central African herbaria](https://www.gbif.org/project/BID-AF2020-040-REG/progress-towards-a-regional-data-platform-of-west-and-central-african-herbaria){:target="_blank"}
->- Identifiant du projet : BID-AF2020-040-REG
->- Période : 01-10-2023/29-11-2024
->- Partenaires :
->- Objectifs :
->- Rôle du GBIF France : développement de la plateforme de visualisation des données ; mise en place du flux de données entre les bases de données des différents herbiers (système RIHA de l'IRD), la plateforme et le GBIF ; accompagnement dans la rédaction d'un Data paper décrivant les données d'herbiers des pays partenaires accessibles via la plateforme
-
 ## Capacity Enhancement Support Programme (CESP)
 
 ## Autres projets internationaux
