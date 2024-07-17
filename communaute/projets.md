@@ -7,8 +7,8 @@ background: /assets/images/placeholders/3466083575.jpeg
 imageLicense: Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
 height: 70vh
 toc: true
-css: /_sass/_pages.scss
 ---
+
 Le GBIF France est partenaire de nombreux projets autour des données de biodiversité, en France et à l'étranger. Il fournit un appui technique dans la structuration, standardisation, mise en ligne, valorisation et réutilisation des données, ainsi que des recommandations et bonnes pratiques à toutes ces étapes.
 
 ## Biodiversity Information for Development (BID)
@@ -21,8 +21,6 @@ Le GBIF France est partenaire de nombreux projets autour des données de biodive
 >- Rôle du GBIF France : développement de la plateforme de visualisation des données ; mise en place du flux de données entre les bases de données des différents herbiers (système RIHA de l'IRD), la plateforme et le GBIF ; accompagnement dans la rédaction d'un Data paper décrivant les données d'herbiers des pays partenaires accessibles via la plateforme
 
 ## Capacity Enhancement Support Programme (CESP)
-
-
 <details>
   <summary><b><a href="https://www.gbif.org/project/CESP2023-011/plinian-core-for-plant-pollinator-interactions">Plinian Core for plant-pollinator interactions</a></b></summary>
 <li>Identifiant du projet : CESP2023-011</li>
