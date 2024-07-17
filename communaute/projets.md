@@ -21,14 +21,6 @@ Le GBIF France est partenaire de nombreux projets autour des données de biodive
 >- Rôle du GBIF France : développement de la plateforme de visualisation des données ; mise en place du flux de données entre les bases de données des différents herbiers (système RIHA de l'IRD), la plateforme et le GBIF ; accompagnement dans la rédaction d'un Data paper décrivant les données d'herbiers des pays partenaires accessibles via la plateforme
 
 ## Capacity Enhancement Support Programme (CESP)
-<details>
-  <summary><b><a href="https://www.gbif.org/project/CESP2023-011/plinian-core-for-plant-pollinator-interactions">Plinian Core for plant-pollinator interactions</a></b></summary>
-<li>Identifiant du projet : CESP2023-011</li>
-<li>Période : 01-04-2021/31-03-2023</li>
-<li>Partenaires : GBIF España, CR2P, ISYEB, CEFE, Université de Nice</li>
-<li>Objectifs : renforcer les capacités du GT Traits (Patrinat, CR2P, ISYEB, Université de Nice) autour du Plinian Core et utiliser ce standard pour partager les informations de traits d'espèces, notamment vers le GBIF.</li>
-<li>Rôle du GBIF France : animation du GT Traits ; cas d'étude pratique d'application du Plinian Core à la BdC Traits.</li>
-</details>
 
 ## Autres projets internationaux
 
