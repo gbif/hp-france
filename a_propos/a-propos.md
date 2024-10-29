@@ -13,9 +13,7 @@ toc: true
 ## Le GBIF international
 Le [GBIF](https://www.gbif.org/){:target="_blank"} (Global Biodiversity Information Facility) est un système mondial d'information sur la biodiversité.
 
-La biodiversité, pourtant étudiée intensivement, est encore trop mal connue. Les outils et les résultats de recherche en biodiversité manquent de visibilité et d’interopérabilité. L’informatisation des collections d’histoire naturelle et d’observations naturelles est un processus avancé mais fragmenté.
-
-Le **GBIF, consortium international** fondé à l’initiative de l’[OCDE](https://www.oecd.org/fr/){:target="_blank"}, est un programme qui tente de rassembler toutes ces données et de les mettre en commun à la disposition des chercheurs et du grand public. Ainsi la biodiversité sera mieux connue, mieux étudiée, et mieux utilisée. Les collections seront aussi plus visibles et mieux mises en valeur, et les régions mieux connues. Enfin, il sera plus facile aux chercheurs étudiant la biodiversité de préparer leurs recherches, de les comparer et de les mettre en relation avec les travaux antérieurs.
+**Consortium international** fondé à l’initiative de l’[OCDE](https://www.oecd.org/fr/){:target="_blank"}, est un programme qui tente de rassembler toutes ces données et de les mettre en commun à la disposition des chercheurs et du grand public. Ainsi la biodiversité sera mieux connue, mieux étudiée, et mieux utilisée. Les collections seront aussi plus visibles et mieux mises en valeur, et les régions mieux connues. Enfin, il sera plus facile aux chercheurs étudiant la biodiversité de préparer leurs recherches, de les comparer et de les mettre en relation avec les travaux antérieurs.
 
 Pour ce faire, le GBIF offre un moteur de recherche portant sur des bases de données connectées au GBIF de manière standardisée. Les possesseurs de données peuvent connecter tout ou partie de leurs ressources au GBIF, afin de les rendre visibles et interopérables, mais restent maîtres de leurs données, qu’ils continuent à héberger et à utiliser dans le cadre de leur travail.
 

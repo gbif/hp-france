@@ -31,8 +31,8 @@ article.feature {
 }
 
 .footer-links li {
-  flex: 1 0 16%; /* Chaque logo occupe 16% de la largeur de son conteneur */
-  margin-bottom: 10px; /* Espacement entre les logos */
+  flex: 1 0 25%; /* Chaque logo occupe 25% de la largeur de son conteneur */
+  margin-bottom: 5px; /* Espacement entre les logos */
   text-align: center; /* Centrer le contenu */
 }
 
@@ -49,3 +49,31 @@ article.feature {
 .navbar-item img {
   max-height: 5rem;
 }
+
+#search-demo-container {
+  max-width: 40em;
+  padding: 1em;
+  margin: 1em auto;
+}
+#search-input {
+  display: inline-block;
+  padding: .5em;
+  width: 100%;
+  font-size: 0.8em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+ul#results-container {
+  padding: 0;
+  list-style-type: none;
+}
+
+#results-container li {
+  margin-bottom: 1.5rem;
+}
+
+span.post-meta {
+  font-size: 1rem;
+}
+
