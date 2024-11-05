@@ -17,7 +17,7 @@ Le [GBIF](https://www.gbif.org/){:target="_blank"} (Global Biodiversity Informat
 
 Pour ce faire, le GBIF offre un moteur de recherche portant sur des bases de données connectées au GBIF de manière standardisée. Les possesseurs de données peuvent connecter tout ou partie de leurs ressources au GBIF, afin de les rendre visibles et interopérables, mais restent maîtres de leurs données, qu’ils continuent à héberger et à utiliser dans le cadre de leur travail.
 
-**En mai 2020**, le GBIF mettait déjà en ligne à disposition du public plus de **1,4 milliards de données**, spécimens de collections ou observations dans la nature, et ce nombre augmente constamment. A terme, le GBIF sera un élément central du tissu scientifique en biodiversité et en taxonomie, une représentation incontournable du savoir biologique humain.
+**En mai 2020**, le GBIF mettait déjà en ligne à disposition du public plus de **1,4 milliard de données**, spécimens de collections ou observations dans la nature, et ce nombre augmente constamment. A terme, le GBIF sera un élément central du tissu scientifique en biodiversité et en taxonomie, une représentation incontournable du savoir biologique humain.
 
 
 ## Le GBIF France
@@ -30,13 +30,22 @@ Le point nodal français a une double tâche :
  [Voir les données publiées par le point nodal français sur le GBIF](https://www.gbif.org/country/FR/publishing){:target="_blank"}
 
  Le GBIF France a vocation de rassembler toutes les données primaires sur la biodiversité hébergées en France, que celles-ci concernent la biodiversité du territoire français ou du reste du monde. De même, des données de collection et d'observation concernant la France mais hébergées dans d'autres pays seront sous la responsabilité des points nodaux de ces pays détenteurs de l'information. L'équipe du point nodal français du GBIF doit aussi donner aux fournisseurs de données toute l'assistance dont ils peuvent avoir besoin, et peut être **contactée** afin d'aider à la mise en ligne de données.
+ 
+## Historique
 
-## Ses missions
+Le point nodal France du GBIF a été créé en juin 2006 et était hébergé dès sa fondation par le Muséum national d'Histoire naturelle (MNHN) à Paris. Pendant quelques années, le point nodal relevait de la Direction des collections du MNHN, et à ensuite, à partir de 2017, rejoint l'[UAR PatriNat](a_propos/patrinat.md).
+
+## Financement
+***Le nœud GBIF France est financé par le Ministère de l'Éducation et de la Recherche (Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation - MESR) et, depuis 2017, également par la contribution financière de l'Office Français de la Biodiversité (OFB). De 2013 à 2016, GBIF France a été financé par un projet de l'Agence Nationale de la Recherche (ANR) appelé e-ReColNat.***
+
+***La contribution financière de base à GBIF est assurée par les Ministères de la Recherche et de l'Écologie : la Direction Générale pour la Recherche et l'Innovation (DGRI) du MESR ; et par la Direction de l'Eau et de la Biodiversité (DEB) du Ministère de la Transition Écologique et de la Cohésion des Territoires (MECTECT).***
+
+## Missions
 - Faire connaître le GBIF et ses activités en France;
 - Offrir aux chercheurs français les outils développés par le GBIF pour faire connaître leurs données et les mettre en ligne;
 - Accompagner les fournisseurs de données dans leur travail de connexion au GBIF.org avec l'accès aux données;
 - Permettre une interopérabilité des bases de données sur la biodiversité (des gènes aux écosystèmes);
-- Rendre possibles de multiples utilisations recourant aux systèmes d’information géographiques et à la modélisation géo-spatio-temporelle, par exemple à des fins d’épidémiologie, d’agro-climatologie ou d’aménagement de territoires;
+- Rendre possible de multiples utilisations recourant aux systèmes d’informations géographiques et à la modélisation géo-spatio-temporelle, par exemple à des fins d’épidémiologie, d’agro-climatologie ou d’aménagement de territoires;
 - Estimer les lacunes de données en France pour y remédier;
 - Assurer des actions de formation (connexion, qualité des données, utilisation des données accessibles grâce au GBIF).
 

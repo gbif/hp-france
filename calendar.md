@@ -23,5 +23,14 @@ $(document).ready(function() {
 });
 
 </script>
-
+<script>
+	document.addEventListener("DOMContentLoaded", function() {
+    setTimeout(function() {
+      const todayButton = document.querySelector(".fc-today-button");
+      if (todayButton) {
+        todayButton.textContent = "Aujourd'hui";
+      }
+    }, 1);
+  });
+</script>
 <div id="calendar"></div>

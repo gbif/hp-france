@@ -19,7 +19,7 @@ __API__ :  _Application Programming Interface_ ou Interface de Programmation d�
 
 ## B
 
-__Backbone taxonomique__ : Anglicisme désignant le référentiel taxonomique. Le backbone taxonomique du GBIF est en cours de fusion avec Catalogue of Life.  
+__Backbone taxonomique__ : Anglicisme désignant un référentiel taxonomique. Le backbone taxonomique du GBIF est en cours de fusion avec Catalogue of Life.  
 
 __BID__ : _Biodiversity Information for Development_. Programme pluriannuel financé par l'Union européenne et dirigé par le GBIF, dont l'objectif est de renforcer les capacités de mobilisation et d'utilisation efficaces des données sur la biodiversité dans la recherche et la politique dans les pays d'Afrique subsaharienne, des Caraïbes et du Pacifique.
 
@@ -49,7 +49,7 @@ __EML__ : _Ecological Metadata Language_. Standard de métadonnées sous format 
 
 ## F
 
-__FAIR__ (données) : _Findable, Accessible, Interoperable, Reusable_ ou Facile à (re)trouver, Accessible, Interopérable, Réutilisable.  Principes déterminants les manières de construire, stocker, présenter ou publier des données de manière à permettre que les données soient le plus ouvertes possibles. Le GBIF s'inscrit dans cette démarche. [Voir la page dédiée](../../partage_valorisation/science_ouverte/).
+__FAIR__ (données) : _Findable, Accessible, Interoperable, Reusable_ ou Facile à (re)trouver, Accessible, Interopérable, Réutilisable.  Principes déterminants les manières de construire, stocker, présenter ou publier des données de manière à permettre que les données soient le plus ouvertes possibles. Le GBIF s'inscrit dans cette démarche. [Voir la page dédiée](../../partage_valorisation/science_ouverte/#les-données-fair).
 
 ## G
 __GBIF__ : _Global Biodiversity Index Facility_. Système mondial d’information sur la biodiversité, dont le secrétariat est basé à Copenhague. [Voir la page dédiée](../../a_propos/a-propos/).

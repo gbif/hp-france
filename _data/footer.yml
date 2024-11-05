@@ -4,9 +4,12 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - name: Code
-    description: | # Can be Markdown
+    description: |+ # Can be Markdown
         * Ce projet est open source. 
-        * Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-france).
+        * Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-france). 
+        * [Mentions légales](/legal/mentions-legales)
+        * Icônes par [Icones8](https://icones8.fr/) 
+
 
   - name: Organismes de tutelle
     type: logos

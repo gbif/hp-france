@@ -12,7 +12,7 @@ toc: true
 <style> .feature-img img {background-color: white; object-fit: contain }> </style>
 
 ## PatriNat
-L'Unité d'Appui à la recherche PatriNat assure des missions d’expertise et de gestion des connaissances sur la biodiversité et la géodiversité pour ses quatre tutelles, que sont l’[Office français de la biodiversité](https://www.ofb.gouv.fr/) (OFB), le [Muséum national d’Histoire naturelle](https://www.mnhn.fr/fr) (MNHN), le [Centre national de la recherche scientifique](https://www.cnrs.fr/fr) (CNRS) et l'[Institut pour la recherche et le développement](https://www.ird.fr/) (IRD). PatriNat est l'institution hôte du point nodal français du GBIF.
+L'Unité d'Appui à la Recherche [PatriNat](https://www.patrinat.fr/fr){:target="_blank"} assure des missions d’expertise et de gestion des connaissances sur la biodiversité et la géodiversité pour ses quatre tutelles, que sont l’[Office français de la biodiversité](https://www.ofb.gouv.fr/){:target="_blank"} (OFB), le [Muséum national d’Histoire naturelle](https://www.mnhn.fr/fr){:target="_blank"} (MNHN), le [Centre national de la recherche scientifique](https://www.cnrs.fr/fr){:target="_blank"} (CNRS) et l'[Institut pour la recherche et le développement](https://www.ird.fr/){:target="_blank"} (IRD). PatriNat est l'institution hôte du point nodal français du GBIF.
 
 
 ## Missions

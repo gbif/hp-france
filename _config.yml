@@ -43,6 +43,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: gbif/jekyll-hp-base-theme
+future: True
+limit_posts: 3
 
 # For use by the 'standardPrivacy' layout
 privacy:
