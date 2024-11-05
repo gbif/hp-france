@@ -30,6 +30,12 @@ url: "https://france.hp.gbif.org/" # the base hostname & protocol for your site,
 twitter_username: gbiffrance # if you have an account you want to link to. Else comment this line out
 # github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
+
 # Build settings
 theme: minima
 plugins:
@@ -37,6 +43,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: gbif/jekyll-hp-base-theme
+future: True
+limit_posts: 3
 
 # For use by the 'standardPrivacy' layout
 privacy:

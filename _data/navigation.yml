@@ -1,46 +1,60 @@
 # Les liens répertoriés ci-dessous seront inclus dans la barre de navigation de votre site (navigation en haut)
-
 - text: À propos
-  href: /a-propos
-- text: Données
   menu:
-  - text: Occurrences
-    href: https://www.gbif.org/occurrence/search?publishing_country=FR&advanced=1
-  - text: Jeux de données
-    href: https://www.gbif.org/dataset/search?publishing_country=FR
+  - text: GBIF
+    href: a_propos/a-propos  
+  - text: L'équipe
+    href: a_propos/team
+  - text: Patrinat
+    href: a_propos/patrinat
+  - text: TDWG-Darwin Core
+    href: a_propos/tdwg_dwc
+- text: Données et portails
+  menu:
+  - text: Données d'occurrences (produites par la France)
+    href: https://www.gbif.org/fr/occurrence/search?publishing_country=FR&advanced=1 "target='_blank'"
+  - text: Jeux de données (produits par la France)
+    href: https://www.gbif.org/fr/dataset/search?publishing_country=FR "target='_blank'"
   - text: Fournisseurs de données
     href: /publisher/search
-  - text: OpenObs (données sur la France)
-    href: https://openobs.mnhn.fr/
-  - text: Récolnat (données de collections)
-    href: https://www.recolnat.org/fr/
-  - text: Entrepôts et catalogues
-    href: entrepots-catalogues
+  - text: Portails, entrepôts et catalogues
+    href: portails/entrepots-catalogues
+
 - text: Partage et valorisation
   menu :
   - text: Mise en ligne des données
     href: /partage_valorisation/mise_en_ligne_donnees
   - text: Data papers
     href: /partage_valorisation/data_papers
+  - text: La science ouverte 
+    href: /partage_valorisation/science_ouverte
 - text: Ressources
   menu:
   - text: Documentation
     href: ressources/documentation
   - text: Guides de bonnes pratiques
     href: ressources/guides_bonnes_pratiques
-  - text: Outils et sites de référence
-    href: ressources/outils_references
   - text: Présentations
     href: ressources/presentations
+  - text: Glossaire
+    href: ressources/glossaire
 - text: Communauté
   menu :
   - text: Nos projets
     href: communaute/projets
   - text: Nos formations
     href: communaute/formations
-  - text: Groupes de travail
-    href: communaute/gt
-  - text: Littérature
+  - text: GRSciColl
+    href: communaute/grscicoll
+  - text: Living Atlases
+    href: communaute/globalatlas
+  - text: Publications scientifiques autour du GBIF
     href: /literature/search
-- text: Actualités
-  href: /news/
+- text: Actualités et Calendrier
+  menu :
+  - text: Actualités
+    href: /news/
+  - text: Calendrier
+    href: /calendrier/
+- text: Rechercher
+  href: search_bar/search 

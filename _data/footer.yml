@@ -4,32 +4,43 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - name: Code
-    description: | # Can be Markdown
-     * Ce projet est open source. 
-     * Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-france).
+    description: |+ # Can be Markdown
+        * Ce projet est open source. 
+        * Tous les fichiers sont disponibles sur [GitHub](https://github.com/gbif/hp-france). 
+        * [Mentions légales](/legal/mentions-legales)
+        * Icônes par [Icones8](https://icones8.fr/) 
+
 
   - name: Organismes de tutelle
     type: logos
     links:
-    - text: |
-        <img src="/assets/logo/logo_patrinat.png" alt="Patrinat" style="height: 70px; display: block; margin: 0 auto;"/>
-      href: https://www.patrinat.fr/fr
-    - text: |
-        <img src="/assets/logo/logo_ofb.png" alt="OFB" style="height: 70px; display: block; margin: 0 auto;"/>
-      href: https://www.ofb.gouv.fr/
-    - text: |
-        <img src="/assets/logo/logo_mnhn.jpg" alt="MNHN" style="height: 70px; display: block; margin: 0 auto;"/>
-      href: https://www.mnhn.fr/fr
-    - text: |
-        <img src="/assets/logo/logo_cnrs.png" alt="CNRS" style="height: 70px; display: block; margin: 0 auto;"/>      
-      href: https://www.cnrs.fr/fr
-    - text: |
-        <img src="/assets/logo/logo_ird.png" alt="IRD" style="height: 70px; display: block; margin: 0 auto;"/>      
-      href: https://www.ird.fr/
-    description: GBIF France
-    - text: |
-        <img src="/assets/logo/logo_nodes.png" alt="Nodes" style="height: 70px; display: block; margin: 0 auto;"/>      
-      href: https://www.gbif.org/nodes
+      - text: |
+          <img src="/assets/logo/logo_ofb.png" alt="OFB" style="height: 52px; display: block; margin: 0 auto;"/>
+        href: https://www.ofb.gouv.fr/ "target='_blank'"
+      - text: |
+          <img src="/assets/logo/logo_mnhn.jpg" alt="MNHN" style="height: 70px; display: block; margin: 0 auto;"/>
+        href: https://www.mnhn.fr/fr "target='_blank'"
+      - text: |
+          <img src="/assets/logo/logo_cnrs.png" alt="CNRS" style="height: 55px; display: block; margin: 0 auto;"/>      
+        href: https://www.cnrs.fr/fr "target='_blank'"
+      - text: |
+          <img src="/assets/logo/logo_ird.png" alt="IRD" style="height: 60px; display: block; margin: 0 auto;"/>      
+        href: https://www.ird.fr/ "target='_blank'"
+      - text: |
+          <img src="/assets/logo/logo_ESR.png" alt="IRD" style="height: 60px; display: block; margin: 0 auto;"/>      
+        href: https://www.ecologie.gouv.fr/"target='_blank'"
+      - text: |
+          <img src="/assets/logo/logo_ministere_ecol.png" alt="Nodes" style="height: 60px; display: block; margin: 0 auto;" />      
+        href: https://www.enseignementsup-recherche.gouv.fr/fr "target='_blank'"
+  - name: 
+    type: logos
+    links:
+      - text: |
+          <img src="/assets/logo/logo_nodes.png" alt="Nodes" style="height: 70px; display: block; margin: 0 auto;" />      
+        href: https://www.gbif.org/nodes "target='_blank'"
+
+
+
 
   - name: Contact
     description: | # Can be Markdown
@@ -40,7 +51,7 @@ columns:
       * 43 rue Buffon, MNHN Géologie CP48
       * 75005 Paris
       * FRANCE
-    connectIcons: true
+    connecticons: true
 
   # EXAMPLE
   #- name: Group name
