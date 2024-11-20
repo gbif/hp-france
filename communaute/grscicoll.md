@@ -2,7 +2,7 @@
 title: Global Registry of Scientific Collections
 layout: post
 description: Le Registre mondial des collections scientifiques
-background: assets/images/placeholders/collections.png
+background: assets/images/placeholders/GRSciColl.png
 imageLicense: |
  Collections
 height: 80vh

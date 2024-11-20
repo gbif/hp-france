@@ -2,7 +2,7 @@
 lang-ref: entrepots-catalogues
 title: Entrepôts et catalogues de (méta)données
 layout: post
-description: Répertoires des principaux entrepôts et catalogues de (méta)données pour le biodiversité
+description: Répertoires des principaux entrepôts et catalogues de (méta)données pour la biodiversité
 background: /assets/images/placeholders/3466083575.jpeg
 imageLicense: Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
 height: 70vh
@@ -11,7 +11,7 @@ css: /_sass/_pages.scss
 ---
 ## Portails
 
-### INPN/SINP/OpenOps
+### INPN/SINP/OpenObs
 
 Plateforme de référence sur l'état et la conservation de la biodiversité et de la géodiversité française, en métropole et outre-mer, le [portail de l'Inventaire national du patrimoine naturel (INPN)](https://inpn.mnhn.fr/accueil/index){:target="_blank"} diffuse et valorise les données sur les espèces (faune, flore, fonge), les habitats, les espaces protégés et le patrimoine géologique.
 

@@ -23,15 +23,29 @@ Le GBIF France est investi dans la communauté TDWG comme peuvent témoigner ces
 <details>
   <summary><b>Quelques publications du GBIF France au TDWG</b></summary>
 <ul>
-<li>Lebas, N., Akbaraly, M., Archambeau, A.-S., Chenin, É., Gasc, D., Roca Ristol, P., & Vignes-Lebbe, R. (Eds.). (2011). GBIF France links with national programs : Architecture and Roadmap. <i>TDWG 2011 Annual Conference</i>. <a href="https://mbgocs.mobot.org/index.php/tdwg/2011/paper/view/158" target="_blank"> https://mbgocs.mobot.org/index.php/tdwg/2011/paper/view/158</a></li>
+
+<li>Ainsa, A., Pamerlon, S., Archambeau, A., Beauvieux, R., Radji, R., & Chevillotte, H. (2023). Regional Data Platform of West and Central African Herbaria. <i> Biodiversity Information Science and Standards, 7,</i> Art. e112180. <a href="https://doi.org/10.3897/biss.7.112180" target="_blank">https://doi.org/10.3897/biss.7.112180</a></li>
+
+<li>Lacoeuilhe, A., Pamerlon, S., Archambeau, A., Denys, G., Bras, Y. L., & Norvez, O. (2023). An Overview of the French eDNA Data Landscape: Focus on a national technical repository of reference genetic sequences. <i> Biodiversity Information Science and Standards, 7,</i> Art. e110103. <a href="https://doi.org/10.3897/biss.7.110103" target="_blank">https://doi.org/10.3897/biss.7.110103</a></li>
+
+<li>Pamerlon, S., Archambeau, A., De La Hoz, F. P., Olivier, G., Michel, F., Tercerie, S., Rodinson, E., Maurel, N., Martínez-Sagarra, G., Kerner, A., Lebbe, R. V., Schatz, B., & Dupont, P. (2023). Knowledge Base on Species Life Traits: A Spanish/French Plinian Core implementation use case. <i> Biodiversity Information Science and Standards, 7,</i> Art. e111784.<a href="https://doi.org/10.3897/biss.7.111784" target="_blank"> https://doi.org/10.3897/biss.7.111784</a></li>
+
+<li>Laroszynska, F., Body, G., Pamerlon, S., & Archambeau, A. (2022). Implementing Nestedness in Darwin Core: An epidemiology case study. <i> Biodiversity Information Science and Standards, 6,</i> Art. e94355. <a href="https://doi.org/10.3897/biss.6.94355" target="_blank">https://doi.org/10.3897/biss.6.94355</a></li>
+
+<li>Russell, L. A., Raymond, M., Laursen, M. B., Grant, S., Pamerlon, S., & Bloom, D. (2022). Facilitating the Mobilization and Sharing of Biodiversity Data using a Standard, Open, and Replicable Course Curriculum. <i> Biodiversity Information Science and Standards, 6,</i> Art. e93809. <a href="https://doi.org/10.3897/biss.6.93809" target="_blank">https://doi.org/10.3897/biss.6.93809</a></li>
+
+<li>Morin, S., Ainsa, A., Radji, R., Archambeau, A., Chevillotte, H., Chenin, E., & Pamerlon, S. (2021). Connecting West and Central African Herbaria Data: A new Living Atlases regional data platform. <i> Biodiversity Information Science and Standards, 5,</i> Art. e74362.<a href="https://doi.org/10.3897/biss.5.74362" target="_blank">  https://doi.org/10.3897/biss.5.74362</a></li>
+
+<li>Lecoq, M., Archambeau, A., Figueira, R., Martin, D., Pamerlon, S., Robertson, T., Lebbe, R. V., & Villaverde, C. (2019). The Living Atlases Community of practice. <i> Biodiversity Information Science and Standards, 3,</i> Art. e35779.<a href="https://doi.org/10.3897/biss.3.35779" target="_blank"> https://doi.org/10.3897/biss.3.35779</a></li>
+
+<li>Pamerlon, S., Archambeau, A., Cavière, F., Robert, S., & Vest, F. (2019). INPN - GBIF Exchanges: Biodiversity data flows at national and international levels.  <i> Biodiversity Information Science and Standards, 3,</i> Art. e35779.<a href="https://doi.org/10.3897/biss.3.38114" target="_blank"> https://doi.org/10.3897/biss.3.38114</a></li>
 
 <li>Archambeau, A., Cavière, F., Koura, K., Lecoq, M., Pamerlon, S., & Ganglo, J. (2018). The Living Atlases community in action: the GBIF Benin data portal.<i> Biodiversity Information Science and Standards, 2,</i> Art. e25488.<a href="https://doi.org/10.3897/biss.2.25488" target="_blank"> https://doi.org/10.3897/biss.2.25488</a></li>
 
 <li>Lecoq, M., Archambeau, A., Cavière, F., Koura, K., Pamerlon, S., & Ganglo, J. (2018). GBIF Benin’s data portal.<i> Biodiversity Information Science and Standards, 2,</i> Art. e25890.<a href=" https://doi.org/10.3897/biss.2.25890" target="_blank"> https://doi.org/10.3897/biss.2.25890</a></li>
 
-<li>Ainsa, A., Pamerlon, S., Archambeau, A., Beauvieux, R., Radji, R., & Chevillotte, H. (2023). Regional Data Platform of West and Central African Herbaria. <i> Biodiversity Information Science and Standards, 7,</i> Art. e112180. <a href="https://doi.org/10.3897/biss.7.112180" target="_blank">https://doi.org/10.3897/biss.7.112180</a></li>
+<li>Lebas, N., Akbaraly, M., Archambeau, A.-S., Chenin, É., Gasc, D., Roca Ristol, P., & Vignes-Lebbe, R. (Eds.). (2011). GBIF France links with national programs : Architecture and Roadmap. <i>TDWG 2011 Annual Conference</i>. <a href="https://mbgocs.mobot.org/index.php/tdwg/2011/paper/view/158" target="_blank"> https://mbgocs.mobot.org/index.php/tdwg/2011/paper/view/158</a></li>
 
-<li>Pamerlon, S., Archambeau, A., De La Hoz, F. P., Olivier, G., Michel, F., Tercerie, S., Rodinson, E., Maurel, N., Martínez-Sagarra, G., Kerner, A., Lebbe, R. V., Schatz, B., & Dupont, P. (2023). Knowledge Base on Species Life Traits: A Spanish/French Plinian Core implementation use case. <i> Biodiversity Information Science and Standards, 7,</i> Art. e111784.<a href="https://doi.org/10.3897/biss.7.111784" target="_blank"> https://doi.org/10.3897/biss.7.111784</a></li>
 </ul>
 
 </details>

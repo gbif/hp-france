@@ -33,12 +33,11 @@ Le point nodal français a une double tâche :
  
 ## Historique
 
-Le point nodal France du GBIF a été créé en juin 2006 et était hébergé dès sa fondation par le Muséum national d'Histoire naturelle (MNHN) à Paris. Pendant quelques années, le point nodal relevait de la Direction des collections du MNHN, et à ensuite, à partir de 2017, rejoint l'[UAR PatriNat](a_propos/patrinat.md).
+Le point nodal France du GBIF a été créé en juin 2006 et était hébergé dès sa fondation par le Muséum national d'Histoire naturelle (MNHN) à Paris. Pendant quelques années, le point nodal relevait de la Direction des collections du MNHN, et à ensuite, à partir de 2017, rejoint l'[UAR PatriNat](/../../a_propos/patrinat).
 
 ## Financement
-***Le nœud GBIF France est financé par le Ministère de l'Éducation et de la Recherche (Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation - MESR) et, depuis 2017, également par la contribution financière de l'Office Français de la Biodiversité (OFB). De 2013 à 2016, GBIF France a été financé par un projet de l'Agence Nationale de la Recherche (ANR) appelé e-ReColNat.***
-
-***La contribution financière de base à GBIF est assurée par les Ministères de la Recherche et de l'Écologie : la Direction Générale pour la Recherche et l'Innovation (DGRI) du MESR ; et par la Direction de l'Eau et de la Biodiversité (DEB) du Ministère de la Transition Écologique et de la Cohésion des Territoires (MECTECT).***
+Le point nodal français du GBIF est financé par le Ministère de l’Enseignement Supérieur et de la Recherche (MESR) et, depuis 2017, également par une contribution financière de l’Office Français de la Biodiversité (OFB). De 2013 à 2016, le GBIF France a été financé par un projet de l’Agence Nationale de la Recherche (ANR) appelé e-ReColNat.
+La contribution financière au GBIF international est assurée par la Direction Générale pour la Recherche et l’Innovation (DGRI) du Ministères de la Recherche et de l’Écologie et par la Direction de l’Eau et de la Biodiversité (DEB) du Ministère de la Transition écologique, de l’Énergie, du Climat et de la Prévention des risques.
 
 ## Missions
 - Faire connaître le GBIF et ses activités en France;
