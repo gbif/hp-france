@@ -2,7 +2,7 @@
 lang-ref: partager-donnees
 title: Data papers
 layout: post
-description: Qu'est-ce qu'un Data paper ?
+description: Qu'est-ce qu'un data paper ?
 background: /assets/images/placeholders/3466083575.jpeg
 imageLicense: Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
 height: 70vh
@@ -63,7 +63,7 @@ Vous trouverez sur <a href="https://www.gbif.org/data-papers" target="_blank">ce
 
 ## Autres ressources sur les data papers
 
-> Dedieu, L. 2022. Publier un Data paper, en 5 points. Montpellier (FRA) : CIRAD, 5 p. [https://doi.org/10.18167/coopist/0057](https://doi.org/10.18167/coopist/0057){:target="_blank"}
+> Dedieu, L. 2022. Publier un data paper, en 5 points. Montpellier (FRA) : CIRAD, 5 p. [https://doi.org/10.18167/coopist/0057](https://doi.org/10.18167/coopist/0057){:target="_blank"}
 
 
 ## Exemples de data papers
@@ -117,6 +117,6 @@ Vous trouverez ci-dessous une liste de data papers décrivant des jeux de donné
 </details>
 
 
-## Présentation vidéo des Data papers
+## Présentation vidéo des data papers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCu9OB27E4M?si=Mou3noznFjxzBzsD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
