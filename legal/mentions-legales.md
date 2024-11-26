@@ -26,6 +26,4 @@ Technologies utilisées : HTML / CSS / Javascript / Jekyll / MD
 
 Maintien du portail fraçais : Elie Mario SALIBA
 
-Hébergement : [France Grilles](http://www.france-grilles.fr/)
-
 Loi applicable : L’usage de ce site web est régi par la loi française à l’exception de toute autre législation.

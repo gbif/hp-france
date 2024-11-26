@@ -9,7 +9,11 @@ toc: true
 ---
 
 
-## Formation actuelles ou à venir
+## Formations du GBIF international
+
+Le GBIF soutient son réseau mondial et développe sa communauté de professionnels par le biais d'activités de formation et la mise à disposition de ressources d'apprentissage qui permettent aux participants de mobiliser et d'utiliser efficacement les données relatives à la biodiversité. Pour plus d'informations, veuillez consulter [cette page](https://www.gbif.org/fr/training){:target="_blank"}
+
+## Formations GBIF France actuelles ou à venir
 
 
 ### [FRB-Cesab] La donnée en biodiversité : de l’acquisition à l’ouverture – 2024
@@ -33,7 +37,7 @@ pourront apporter des jeux de données qu’ils ont produits.
 
 
 
-## Formations passées
+## Formations GBIF France passées
 
 <details>
   <summary><b>2024</b></summary>
