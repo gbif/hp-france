@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: GBIF France
 description: Accès aux données françaises relatives à la biodiversité disponibles sur le Système Mondial d'Information sur la Biodiversité (GBIF).
-background: "/assets/images/placeholders/4039529673.jpeg"
+background: "/assets/images/placeholders/geai4.jpg"
 imageLicense: |
-  [*Mnium hornum* Hedw. observed in France](/occurrence/search/?entity=4039529673) by petit_bonnier (licensed under http://creativecommons.org/licenses/by-nc/4.0/)
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 navbar: 
   color: "transparent"        # What color should the navbar be?

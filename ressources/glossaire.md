@@ -2,9 +2,9 @@
 title: Glossaire
 layout: post
 description: Si un acronyme ou un terme technique vous échappe
-background: /assets/images/placeholders/3466083575.jpeg
+background: /assets/images/placeholders/orchids.jpg
 imageLicense: |
-  Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
+  © Elie Saliba (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 toc: true
 ---

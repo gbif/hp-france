@@ -2,8 +2,9 @@
 title: Formations
 layout: post
 description: Formations en cours et passées proposées par le GBIF France
-background: assets/images/placeholders/institutions.png
-imageLicense: 
+background: assets/images/placeholders/feuille4.jpg
+imageLicense: |
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 80vh
 toc: true
 ---

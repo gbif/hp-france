@@ -2,9 +2,9 @@
 title: La science ouverte
 layout: post
 description: Ouvrir la science, pourquoi et comment ?
-background: /assets/images/placeholders/3466083575.jpeg
+background: /assets/images/placeholders/fleur_bleue.jpg
 imageLicense: |
-  Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 toc: true
 ---

@@ -3,8 +3,9 @@ lang-ref: partager-donnees
 title: Data papers
 layout: post
 description: Qu'est-ce qu'un data paper ?
-background: /assets/images/placeholders/3466083575.jpeg
-imageLicense: Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
+background: assets/images/placeholders/fm1.jpg
+imageLicense: |
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 toc: true
 css: /_sass/_pages.scss
