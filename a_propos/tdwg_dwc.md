@@ -52,7 +52,7 @@ Le GBIF France est investi dans la communauté TDWG comme peuvent témoigner ces
 
 <br>
 
-Le TDWG sanctionne le développement de plusieurs standards utilisé par le GBIF, le plus connu étant certainement le Darwin Core 
+Le TDWG régit le développement et ratifie plusieurs standards utilisé par le GBIF, le plus connu étant certainement le Darwin Core 
 
 ## Le Darwin Core 
 
@@ -67,7 +67,7 @@ Pour son utilisation par le GBIF, le Darwin Core est en constante évolution, pa
 ### Les extensions du Darwin Core
 
 
-EN plus du vocabulaire de base du DwC, le TDWG propose deux extensions, le [Chronometric Age Extension](https://chrono.tdwg.org/terms/) pour les datations absolues et l'extension [Humboldt pour les inventaires écologiques](https://eco.tdwg.org/list/#4-vocabulary) 
+En plus du vocabulaire de base du DwC, le TDWG propose deux extensions, le [Chronometric Age Extension](https://chrono.tdwg.org/terms/) pour les datations absolues et l'extension [Humboldt pour les inventaires écologiques](https://eco.tdwg.org/list/#4-vocabulary) 
 
 
 Si des données transférées au GBIF ne correspondent pas à un champs du Darwin Core ni à une des extensions officielles, l'information peut quand même être transmise grâce à des extensions du DwC. La liste, disponible [ici](https://rs.gbif.org/extensions.html), contient des extensions portant entre autres sur les données génétiques, l'historique d'identification ou encore les noms vernaculaires. 

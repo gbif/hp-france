@@ -32,6 +32,8 @@ Depuis 2020, le réseau a renforcé son organisation et élargi ses objectifs av
 
 ## Entrepôts
 
+Le GBIF est considéré comme un entrepôt de confiance par le Comité pour la Science Ouverte. En plus du GBIF, pour les données de biodiversité, les entrepôts listés ci-dessous peuvent correpondre à vos attentes.
+
 [Sélectionner un entrepôt thématique de confiance pour le dépôt de données : méthodologie et analyse de l’offre existante](https://www.ouvrirlascience.fr/selectionner-un-entrepot-thematique-de-confiance-pour-le-depot-de-donnees-methodologie-et-analyse-de-loffre-existante/){:target="_blank"}
 
 ### InDoRES 
