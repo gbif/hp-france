@@ -3,9 +3,9 @@ lang-ref: partage-donnees
 title: Partager ses données dans le réseau GBIF
 layout: post
 description: Quelles sont les étapes nécessaires à la mise en ligne de données sur le réseau GBIF ?
-background: /assets/images/placeholders/3466083575.jpeg
+background: assets/images/placeholders/quadrant.jpg
 imageLicense: |
-  Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 toc: true
 ---

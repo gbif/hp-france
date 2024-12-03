@@ -3,13 +3,13 @@ lang-ref: timely
 title: À propos
 layout: post
 description: Qu'est-ce que GBIF France, son but et ses objectifs ?
-background: /assets/images/placeholders/3466083575.jpeg
+background: /assets/images/placeholders/crecerelle1.jpg
 imageLicense: |
-  Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 toc: true
 ---
-
+<style> .feature-img img {background-color: white; object-fit: cover }> </style>
 ## Le GBIF international
 Le [GBIF](https://www.gbif.org/){:target="_blank"} (Global Biodiversity Information Facility) est un système mondial d'information sur la biodiversité.
 

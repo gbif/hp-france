@@ -3,8 +3,9 @@ lang-ref: entrepots-catalogues
 title: Entrepôts et catalogues de (méta)données
 layout: post
 description: Répertoires des principaux entrepôts et catalogues de (méta)données pour la biodiversité
-background: /assets/images/placeholders/3466083575.jpeg
-imageLicense: Zygaena carniolica (Scopoli, 1763) observed in France by Christoph Moning (licensed under http://creativecommons.org/licenses/by/4.0/)
+background: assets/images/placeholders/escargot.jpg
+imageLicense: |
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 toc: true
 css: /_sass/_pages.scss
