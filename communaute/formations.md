@@ -17,12 +17,21 @@ Le GBIF soutient son réseau mondial et développe sa communauté de professionn
 ## Formations GBIF France actuelles ou à venir
 
 
-### [FRB-Cesab] La donnée en biodiversité : de l’acquisition à l’ouverture – 2024
-***04-08 Novembre 2024***
+### Utilisations innovantes des collections naturalistes dans la recherche scientifique
+***24-28 Mars 2025***
 
-Le Cesab – Centre de synthèse et d’analyse sur la biodiversité – de la FRB, le Pôle National des Données de Biodiversité (PNDB) et GBIF France proposent la première édition de la formation « La donnée en biodiversité : de l’acquisition à l’ouverture ». Cette formation de cinq jours a pour objectif de : 1) contextualiser les enjeux autour de la compréhension, du partage et de la (ré)utilisation des données et métadonnées de biodiversité et 2) faire monter en compétences les communautés intervenant à une ou plusieurs étapes du cycle de la donnée.
+Ce module cherche à fournir un panorama sur la recherche scientifique actuelle sur les collections naturalistes
+en montrant les liens entre nouvelles questions scientifiques et sociétales et la découverte
+ou l’appropriation des nouvelles technologies pour chercher des informations sur les
+spécimens de collections. Ces recherches, à la fois utilisatrices et créatrices des
+collections montrent que la connaissance est l’une des raisons principales pour l’existence
+de ce patrimoine. Pour atteindre cet objectif nous proposons une semaine de travail avec
+des spécialistes qui gèrent et/ou utilisent ces collections au quotidien. Il sera apporté à
+l’étudiant une compréhension du contenu de ces collections, des méthodes et des
+moyens qui facilitent l’accès aux données et des questions pour lesquelles elles sont
+incontournables.
 
-[En savoir plus](https://www.fondationbiodiversite.fr/evenement/frb-cesab-la-donnee-en-biodiversite-de-lacquisition-a-louverture-2024/){:target="_blank"}
+[En savoir plus](https://formation.mnhn.fr/doctorat/pendant-these/formations-2721){:target="_blank"}
 
 ### Nettoyer et structurer les données. Réflexion sur la chaîne opératoire préalable à une base de données
 ***07-09 Avril 2025*** 
@@ -34,7 +43,7 @@ réflexion et de conception ainsi que toutes les compétences et intervenants n�
 lors du processus de création. La formation alternera théorie/pratique et les participants
 pourront apporter des jeux de données qu’ils ont produits.
 
-[En savoir plus]()
+[En savoir plus](https://formation.mnhn.fr/doctorat/pendant-these/formations-2721){:target="_blank"}
 
 
 
@@ -43,6 +52,7 @@ pourront apporter des jeux de données qu’ils ont produits.
 <details>
   <summary><b>2024</b></summary>
   <ul>
+    <li>04-08 Novembre 2024: La donnée en biodiversité : de l’acquisition à l’ouverture (organisé par la FRB-Cesab). <a href="https://www.fondationbiodiversite.fr/evenement/frb-cesab-la-donnee-en-biodiversite-de-lacquisition-a-louverture-2024/" target="_blank"> En savoir plus</a></li>
     <li>22-24 Avril 2024: Nettoyer et structurer les données. Réflexion sur la chaîne opératoire préalable à une base de données.</li>
     <li>02 Avril 2024 : Partager les {méta}données et publication de data papers en biodiversité, par le PNDB et le GBIF France. <a href="https://printempsdeladonnee.fr/events/webinaire-partager-les-metadonnees-et-publication-de-data-papers-en-biodiversite/" target="_blank"> En savoir plus</a></li>
   </ul>

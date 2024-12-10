@@ -29,8 +29,8 @@ composition:
     data: examples.stories
 #  - type: split
 #    data: rejsrdurdujrtxtddritrdxt
- # - type: features
- #   data: calendar
+# - type: features
+#   data: calendar
   
 permalink: /
 ---

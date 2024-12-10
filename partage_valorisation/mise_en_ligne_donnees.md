@@ -13,7 +13,7 @@ toc: true
 
 La mise en ligne de données de biodiversité sur le site du GBIF les rend plus visibles, plus faciles à utiliser et démultiplie leur utilité en les intégrant dans la communauté mondiale de l’information sur la biodiversité.
 Elles peuvent ensuite être visualisées, téléchargées et réutilisées dans de nombreux domaines et thématiques : protection des espèces et des espaces, suivi des espèces exotiques envahissantes, sécurité alimentaire, santé humaine, étude et prévention des zoonoses...
-Des exemples de réutilisation des données partagées dans le réseau GBIF sont disponibles dans la Science Review (revue scientifique), publiée régulièrement par le GBIF pour illustrer ces thématiques.
+Des exemples de réutilisation des données partagées dans le réseau GBIF sont disponibles dans la [Science Review (revue scientifique)](https://www.gbif.org/science-review){:target="_blank"}, publiée régulièrement par le GBIF pour illustrer ces thématiques.
 
 Les données partagées restent la propriété de leur producteur d'origine, qui en conserve le contrôle et la responsabilité en termes de qualité et de niveau d'information fourni (il est par exemple possible de ne partager qu’une partie de ces informations si certaines données sont trop sensibles pour être rendu publiques ; dans ce cas, le GBIF met aussi à sa disposition des outils de réflexion à ce sujet qui permettent à la fois de protéger la biodiversité étudiée et de partager le plus d’informations possibles).
 
