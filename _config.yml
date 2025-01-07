@@ -56,7 +56,7 @@ privacy:
 algae:
   rootLang: fr
   # latestPostLimit: 2
-  logo: /assets/logo/logo_gbif.png  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/logo/logo_gbif_blanc.png  # Logo in navbar, will be displayed with 28px height
   logoAndTitle: false           # include the title next to the logo
   archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
   style:

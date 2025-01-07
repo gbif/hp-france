@@ -59,6 +59,8 @@ Dès que votre ressource est créée, vous pourrez voir une vue d’ensemble de 
 
 Si nécessaire, nous disposons d'une instance test de l'IPT si vous souhaitez prendre en main l'outil sans risque de publier par inadvertance les données sur GBIF.org
 
+>Dans le cadre de ses efforts constants pour enrichir le modèle de données du GBIF et prendre en compte un plus large éventail de données sur la biodiversité, le secrétariat du GBIF a lancé un nouveau programme visant à améliorer l'intégration des données de métabarcoding. Le GBIF France participe à la phase pilote de l'initiative et gère une instance d'un nouvel outil - [le Metabarcoding Data Toolkit (MDT)](https://mdt.gbif.fr/){:target="_blank"} -, équivalent de l'IPT pour les ressources d'ADNe. Le MDT permet  d'impliquer les chercheurs et les communautés du monde entier qui détiennent des données de métabarcoding sur la biodiversité. Pour le MDT, vous pourrez vous connecter avec votre compte utilisateur [GBIF.org](https://www.gbif.org/){:target="_blank"}. 
+
 
 ### Export depuis votre base de données
 

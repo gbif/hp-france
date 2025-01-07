@@ -1,7 +1,7 @@
 ---
-title: Formations
+title: Nos formations
 layout: post
-description: Formations en cours et passées proposées par le GBIF France
+description: Listes des formations en cours et passées proposées par le GBIF France
 background: assets/images/placeholders/feuille4.jpg
 imageLicense: |
   © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
@@ -13,6 +13,29 @@ toc: true
 ## Formations du GBIF international
 
 Le GBIF soutient son réseau mondial et développe sa communauté de professionnels par le biais d'activités de formation et la mise à disposition de ressources d'apprentissage qui permettent aux participants de mobiliser et d'utiliser efficacement les données relatives à la biodiversité. Pour plus d'informations, veuillez consulter [cette page](https://www.gbif.org/fr/training){:target="_blank"}
+
+Parmi les cours proposés par le GBIF, vous pourrez retrouver: 
+<table>
+<tr><td style="width: 32%;"><a href="hhttps://docs.gbif.org/course-introduction-to-gbif/fr/" target="_blank"><img  style="width: 100%; height: 290px;" src="/assets/images/documents/Introduction.png" alt="Cours introduction" ></a></td>
+
+<td style="width: 36%;" ><a href="https://docs.gbif.org/course-data-mobilization/fr/" target="_blank"><img style="width: 100%; height: 290px;" src="/assets/images/documents/Mobilisation.png"  alt="Cours Mobilisaton" ></a></td>
+
+<td style="width: 36%;"><a href="https://docs.gbif.org/course-dna-barcoding/en/index.en.html" target="_blank"><img style="width: 100%; height: 290px;" src="/assets/images/documents/DNA_course.png"  alt="Cours ADN" ></a></td>
+</tr>
+</table >
+
+### Introduction au GBIF
+
+Ce cours fournit une introduction au GBIF, aux données disponibles sur le portail GBIF, à l’accès à ces données et aux informations sur l’engagement avec le GBIF et sa communauté de pratique.
+
+### Cours de mobilisation des données sur la biodiversité
+
+Ce cours permet aux participants de planifier et de mettre en œuvre efficacement les efforts de mobilisation des données sur la biodiversité en utilisant les standards communautaires acceptés. Son objectif est d’augmenter le volume, la richesse et la qualité des données publiées via le réseau GBIF. Ce cours a été développé pour la première fois dans le cadre du programme Biodiversity Information for Development (BID) financé par l’ Union Européenne, et peut être retrouvé [ici](https://docs.gbif.org/course-data-mobilization/fr/)
+
+
+### Accelerating biodiversity research through DNA barcodes, collection and observation data
+
+Ce cours vous apprendra à utiliser les données barcode ADN, les données de collecte et d'observation pour résoudre des questions de recherche sur la biodiversité. Le programme utilise une combinaison de cours magistraux, de travaux dirigés et d'exercices pratiques. Vous comprendrez et pratiquerez la capture de données d'observation, de collecte et de données génétiques à partir de sources analogiques et numériques. Enfin, ce cours fournit des compétences de base en matière de publication de données via GBIF et BOLD.
 
 ## Formations GBIF France actuelles ou à venir
 

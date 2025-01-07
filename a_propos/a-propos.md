@@ -10,6 +10,7 @@ height: 70vh
 toc: true
 ---
 <style> .feature-img img {background-color: white; object-fit: cover }> </style>
+
 ## Le GBIF international
 
 Le [GBIF](https://www.gbif.org/){:target="_blank"}—Global Biodiversity Information Facility (Système mondial d’information sur la biodiversité)—est un réseau international et une infrastructure de données financée par les États participants ayant pour but de fournir à tous et partout un accès libre aux données sur toutes les formes de vie sur Terre. Ce **consortium international** a été fondé à l’initiative de l’[OCDE](https://www.oecd.org/fr/){:target="_blank"} en 2001. Coordonné par son Secrétariat de Copenhague, le réseau GBIF fournit aux institutions productrices de données des standards, des guides de bonnes pratiques et des outils 'open source' permettant de partager l'information liée aux observations naturalistes. Ces ressources proviennent de différents types de données, allant de spécimens de muséums collectés au 18ᵉ et 19ᵉ siècle jusqu'aux barcodes ADN et aux photographies prises récemment à l'aide de téléphones.
@@ -30,7 +31,7 @@ Le point nodal français a une double tâche :
  
 ## Historique
 
-Le point nodal France du GBIF a été créé en juin 2006 et était hébergé dès sa fondation par le Muséum national d'Histoire naturelle (MNHN) à Paris. Pendant quelques années, le point nodal relevait de la Direction des collections du MNHN, et à ensuite, à partir de 2017, rejoint l'[UAR PatriNat](/../../a_propos/patrinat).
+Le point nodal France du GBIF a été créé en juin 2006 et était hébergé dès sa fondation par le Muséum national d'Histoire naturelle (MNHN) à Paris. Pendant quelques années, le point nodal relevait de la Direction des collections du MNHN, et à ensuite, à partir de 2017, rejoint [PatriNat](/../../a_propos/patrinat).
 
 ## Financement
 Le point nodal français du GBIF est financé par le Ministère de l’Enseignement Supérieur et de la Recherche (MESR) et, depuis 2017, également par une contribution financière de l’Office Français de la Biodiversité (OFB). De 2013 à 2016, le GBIF France a été financé par un projet de l’Agence Nationale de la Recherche (ANR) appelé e-ReColNat.
@@ -45,7 +46,7 @@ La contribution financière au GBIF international est assurée par la Direction 
 - Estimer les lacunes de données en France pour y remédier;
 - Assurer des actions de formation (connexion, qualité des données, utilisation des données accessibles grâce au GBIF).
 
-## Mandat pays du sud
+## Mandat pays du Sud
 En plus de ces missions, le GBIF France joue un rôle primordial dans le soutien aux pays du Sud, essentiellement francophones, en :
 - aidant à mettre en place leur point nodal
 - organisant des formations sur les outils utiles proposés par le GBIF

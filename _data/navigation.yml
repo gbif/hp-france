@@ -1,15 +1,5 @@
 # Les liens répertoriés ci-dessous seront inclus dans la barre de navigation de votre site (navigation en haut)
-- text: À propos
-  menu:
-  - text: GBIF
-    href: a_propos/a-propos  
-  - text: L'équipe
-    href: a_propos/team
-  - text: Patrinat
-    href: a_propos/patrinat
-  - text: TDWG-Darwin Core
-    href: a_propos/tdwg_dwc
-- text: Données et portails
+- text: Accés aux données
   menu:
   - text: Données d'occurrences (produites par la France)
     href: https://www.gbif.org/fr/occurrence/search?publishing_country=FR&advanced=1 "target='_blank'"
@@ -20,7 +10,7 @@
   - text: Portails, entrepôts et catalogues
     href: portails/entrepots-catalogues
 
-- text: Partage et valorisation
+- text: Diffusion et valorisation des données
   menu :
   - text: Mise en ligne des données
     href: /partage_valorisation/mise_en_ligne_donnees
@@ -56,5 +46,16 @@
     href: /news/
   - text: Calendrier
     href: /calendrier/
+- text: À propos
+  menu:
+  - text: GBIF
+    href: a_propos/a-propos  
+  - text: L'équipe
+    href: a_propos/team
+  - text: Patrinat
+    href: a_propos/patrinat
+  - text: TDWG-Darwin Core
+    href: a_propos/tdwg_dwc
 - text: Rechercher
   href: search_bar/search 
+

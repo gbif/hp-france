@@ -2,8 +2,9 @@
 title: Mentions légales
 layout: post
 description:
-background: assets/images/placeholders/institutions.png
-imageLicense: 
+background: "/assets/images/placeholders/geai4.jpg"
+imageLicense: |
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 80vh
 toc: true
 ---
