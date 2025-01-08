@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: GBIF France
 description: Accès aux données biodiversité françaises, sur le Système Mondial d’Information sur la Biodiversité (GBIF)
-background: assets/images/placeholders/accueil4.png
+background: assets/images/placeholders/geai4.jpg
 imageLicense: |
   © Javier Gamboa Martinez
 height: 70vh
