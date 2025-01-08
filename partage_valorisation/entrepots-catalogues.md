@@ -1,8 +1,8 @@
 ---
 lang-ref: entrepots-catalogues
-title: Entrepôts et catalogues de (méta)données
+title: Le GBIF et les flux de données au niveau national
 layout: post
-description: Répertoires des principaux entrepôts et catalogues de (méta)données pour la biodiversité
+description: Répertoires des principaux entrepôts, portails et catalogues de (méta)données pour la biodiversité
 background: assets/images/placeholders/escargot.jpg
 imageLicense: |
   © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
@@ -10,6 +10,9 @@ height: 70vh
 toc: true
 css: /_sass/_pages.scss
 ---
+
+Le GBIF France a pour rôle, entre autres, d'assurer la transmission de données françaises vers l'international. Pour cela, il collabore avec plusieurs systèmes interopérables au niveau national pour les données de biodiversité. Le paysage français comprends des portails, des entrepôts et des catalogues de métadonnées. Selon vos objectifs et votre situation, ce seront vos interlocuteurs privilégiés. Contactez-nous pour plus d'informations. 
+
 ## Portails
 
 ### INPN/SINP/OpenObs
@@ -20,7 +23,7 @@ Le [SINP (Système d'information de l'inventaire du patrimoine naturel)](https:/
 
 Les données ainsi partagées, sous forme structurée, sont particulièrement utiles pour l'élaboration et le suivi des politiques publiques, la prise de décision démocratique, ainsi que pour les rapportages européens concernant l'état des populations et des écosystèmes.
 
-[OpenObs](https://openobs.mnhn.fr/){:target="_blank"} est l'outil qui assure les fonctions de diffusion de données de la plateforme nationale du SINP. En cela, il répond au projet de « Requêteur National sur les données biodiversité » qui a pour objet la mise en place d'un outil web d'interrogation multicritères permettant la visualisation, l'exploration, la validation et le téléchargement de données d'observation d'espèces.
+[OpenObs](https://openobs.mnhn.fr/){:target="_blank"} est l'outil qui assure les fonctions de diffusion de données de la plateforme nationale du SINP. En cela, il répond au projet de « Requêteur National sur les données biodiversité » qui a pour objet la mise en place d'un outil web d'interrogation multicritères permettant la visualisation, l'exploration, la validation et le téléchargement de données d'observation d'espèces. OpenObs est basé sur les modules d'[Atlas of Living Australia](https://www.ala.org.au/){:target="_blank"}, portés par le collectif [Living Atlases](https://living-atlases.gbif.org/){:target="_blank"}, au sein de la communauté GBIF.
 
 ### Recolnat
 
@@ -30,15 +33,23 @@ Lancé en 2013 dans le cadre du programme d’investissement d’avenir e-ReColN
 
 Depuis 2020, le réseau a renforcé son organisation et élargi ses objectifs avec l’ambition de structurer les communautés liées à l’histoire naturelle en France. Sous forme de groupement d’intérêt scientifique (GIS), RECOLNAT vise à créer un réseau scientifique d’excellence en réunissant les experts du domaine et en harmonisant les pratiques liées aux collections naturalistes. Muséums, universités et instituts de recherche collaborent ainsi pour offrir un accès enrichi et optimisé aux collections et aux données associées. Dans cette optique, RECOLNAT soutient la politique de l’open data et s’aligne sur les principes FAIR (facile à trouver, accessible, interopérable, réutilisable). Piloté par le Muséum national d’histoire naturelle, RECOLNAT sert également de point de contact français pour l’infrastructure européenne [DiSSCo (Distributed Systems of Scientific Collections)](https://www.dissco.eu/dissco/{:target="_blank"}).
 
+### PNDB 
+Le [Pôle National de Données de Biodiversité (PNDB)](https://www.pndb.fr){:target="_blank"} est une infrastructure de recherche virtuelle & un centre de références thématiques, pour et par la communauté de Recherche, proposant des outils et services pour la compréhension, le partage et l'utilisation des (meta)données de biodiversité.
+
+### SIB
+Le [Système d’information sur la biodiversité (SIB)](https://naturefrance.fr/systeme-information-biodiversite){:target="_blank"} est un dispositif conçu pour rassembler et centraliser les données provenant de 31 politiques publiques liées aux enjeux de la biodiversité. Chaque politique est associée à son propre système d’information, appelé “Système d’information métier”. Parmi ces systèmes figurent, par exemple, le Système d’information de l’inventaire du patrimoine naturel (SINP), celui de la CITES, ou encore celui de Natura 2000.
+
+<br>
+
 ## Entrepôts
 
-Le GBIF est considéré comme un entrepôt de confiance par le Comité pour la Science Ouverte. En plus du GBIF, pour les données de biodiversité, les entrepôts listés ci-dessous peuvent correpondre à vos attentes.
+Le GBIF est considéré comme un entrepôt de confiance par le [Comité pour la Science Ouverte](https://www.ouvrirlascience.fr/le-comite-pour-la-science-ouverte/){:target="_blank"}, et est un [Global Core Biodata ressource](https://www.gbif.org/fr/news/6PHdgoyIF6RmI7u4VOouuD/gbif-named-a-global-core-biodata-resource){:target="_blank"}. En plus du GBIF, pour les données de biodiversité, les entrepôts listés ci-dessous peuvent correpondre à vos attentes.
 
 [Sélectionner un entrepôt thématique de confiance pour le dépôt de données : méthodologie et analyse de l’offre existante](https://www.ouvrirlascience.fr/selectionner-un-entrepot-thematique-de-confiance-pour-le-depot-de-donnees-methodologie-et-analyse-de-loffre-existante/){:target="_blank"}
 
 ### InDoRES 
 
-Placée sous la responsabilité de l’Institut Écologie et Environnement, du CNRS et du Muséum national d’Histoire naturelle, la plateforme InDoRES propose plusieurs services :
+Placée sous la responsabilité de l’Institut Écologie et Environnement, du CNRS et du Muséum national d’Histoire naturelle, la plateforme [InDoRES](https://www.indores.fr/){:target="_blank"} propose plusieurs services :
 
 - Permettre de découvrir diverses bases et jeux de données grâce à une présentation détaillée des projets qui les génèrent. Ce catalogue de métadonnées, standardisé et interopérable, est conçu pour répondre aux directives européennes. Lorsque cela est possible, des liens sont fournis pour accéder aux données téléchargeables ou aux publications associées.
 - Donner accès à l'entrepôt sécurisé data.InDoRES, permettant aux chercheurs de publier leurs données.
@@ -51,19 +62,16 @@ L’entrepôt de données [DataSuds](https://dataverse.ird.fr/){:target="_blank"
 ### Recherche Data Gouv
 [Recherche Data Gouv](https://recherche.data.gouv.fr/fr){:target="_blank"} est un écosystème conçu par et pour les établissements de l’enseignement supérieur et de la recherche. Il vise à accompagner les chercheurs dans la gestion, le partage et l’ouverture de leurs données de recherche, contribuant ainsi à une science plus cumulative et accessible à tous.
 
+<br>
+
 ## Catalogues
-
-### PNDB 
-
-Le [Pôle National de Données de Biodiversité (PNDB)](https://www.pndb.fr){:target="_blank"}) est une infrastructure de recherche virtuelle & un centre de références thématiques, pour et par la communauté de Recherche, proposant des outils et services pour la compréhension, le partage et l'utilisation des (meta)données de biodiversité.
-
-### SIB
-Le [Système d’information sur la biodiversité (SIB)](https://naturefrance.fr/systeme-information-biodiversite) est un dispositif conçu pour rassembler et centraliser les données provenant de 31 politiques publiques liées aux enjeux de la biodiversité. Chaque politique est associée à son propre système d’information, appelé “Système d’information métier”. Parmi ces systèmes figurent, par exemple, le Système d’information de l’inventaire du patrimoine naturel (SINP), celui de la CITES, ou encore celui de Natura 2000.
 
 ### Cat InDoRES
 [Cat.InDoRES](https://cat.indores.fr/geonetwork/srv/fre/catalog.search#/home){:target="_blank"} est un catalogue de métadonnées partagé, qui regroupe à la fois les fiches d’InDoRES et celles des réseaux des Observatoires Hommes-Milieux ([OHM - LabEx DRIIHM](https://www.driihm.fr/)) ainsi que des Zones Ateliers ([RZA - eLTER](https://www.za-inee.org/)). Ce catalogue propose des métadonnées standardisées pour faciliter la découverte de jeux et bases de données. Le projet bénéficie du soutien du Muséum national d'Histoire naturelle et de l’Institut Écologie et Environnement du CNRS.
 
 ### Catalogue de Recherche Data Gouv
 [Recherche Data Gouv](https://recherche.data.gouv.fr/fr){:target="_blank"} possède aussi un catalogue, diponible [ici](https://entrepot.recherche.data.gouv.fr/){:target="_blank"}
+
+
 
 

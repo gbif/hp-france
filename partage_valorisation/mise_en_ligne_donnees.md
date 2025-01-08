@@ -17,7 +17,7 @@ Des exemples de réutilisation des données partagées dans le réseau GBIF sont
 
 Les données partagées restent la propriété de leur producteur d'origine, qui en conserve le contrôle et la responsabilité en termes de qualité et de niveau d'information fourni (il est par exemple possible de ne partager qu’une partie de ces informations si certaines données sont trop sensibles pour être rendu publiques ; dans ce cas, le GBIF met aussi à sa disposition des outils de réflexion à ce sujet qui permettent à la fois de protéger la biodiversité étudiée et de partager le plus d’informations possibles).
 
-Le GBIF France peut héberger certaines bases et fichiers de données connectés au GBIF (via son installation IPT), mais il est aussi possible de connecter des bases de données qui resteront sous le contrôle physique de leur institution d’origine.
+Le GBIF France peut héberger certaines bases et fichiers de données connectés au GBIF (via son installation IPT), mais il est aussi possible de connecter des bases de données qui resteront sous le contrôle et les serveurs de leur institution d’origine.
 Les bases ou jeux de données publiés sur le site du GBIF peuvent être mis à jour à tout moment, afin de préciser ou modifier certaines informations.
 
 
@@ -34,7 +34,7 @@ Afin de publier vos données à l’aide de l'[IPT GBIF France](https://ipt.gbif
 - Vous avez la volonté de fournir des métadonnées les plus complètes possibles, afin que les utilisateurs puissent aisément comprendre de quoi traite votre jeu de données.
 - Vous voulez publier vos données [sous une licence ouverte](../../partage_valorisation/science_ouverte/#le-gbif-et-la-science-ouverte){:target="_blank"}. Nous vous recommandons vivement la publication sous CC-BY correspondant à la licence Etalab. Le GBIF accepte également les licences CC-0 et CC-BY-NC, mais nous ne recommendons pas cette dernière.  
 
-Pour de plus d’information sur les types de données que vous pourrez faire remonter, veuillez vous référer aux guides du GBIF suivants
+Pour plus d’information sur les types de données que vous pourrez faire remonter, veuillez vous référer aux guides du GBIF suivants
 
 - [Qualité demandée pour la publication de données d’occurence](https://www.gbif.org/fr/data-quality-requirements-occurrences){:target="_blank"}.
 - [Qualité demandée pour la publication de listes taxonomiques](https://www.gbif.org/data-quality-requirements-checklists){:target="_blank"}.

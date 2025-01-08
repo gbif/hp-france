@@ -16,11 +16,11 @@ Le GBIF soutient son réseau mondial et développe sa communauté de professionn
 
 Parmi les cours proposés par le GBIF, vous pourrez retrouver: 
 <table>
-<tr><td style="width: 32%;"><a href="hhttps://docs.gbif.org/course-introduction-to-gbif/fr/" target="_blank"><img  style="width: 100%; height: 290px;" src="/assets/images/documents/Introduction.png" alt="Cours introduction" ></a></td>
+<tr><td style="width: 32%;"><a href="https://docs.gbif.org/course-introduction-to-gbif/fr/" target="_blank"><img  style="width: 100%; height: 240px;" src="/assets/images/documents/Introduction.png" alt="Cours introduction" ></a></td>
 
-<td style="width: 36%;" ><a href="https://docs.gbif.org/course-data-mobilization/fr/" target="_blank"><img style="width: 100%; height: 290px;" src="/assets/images/documents/Mobilisation.png"  alt="Cours Mobilisaton" ></a></td>
+<td style="width: 36%;" ><a href="https://docs.gbif.org/course-data-mobilization/fr/" target="_blank"><img style="width: 100%; height: 240px;" src="/assets/images/documents/Mobilisation.png"  alt="Cours Mobilisaton" ></a></td>
 
-<td style="width: 36%;"><a href="https://docs.gbif.org/course-dna-barcoding/en/index.en.html" target="_blank"><img style="width: 100%; height: 290px;" src="/assets/images/documents/DNA_course.png"  alt="Cours ADN" ></a></td>
+<td style="width: 36%;"><a href="https://docs.gbif.org/course-dna-barcoding/en/index.en.html" target="_blank"><img style="width: 100%; height: 240px;" src="/assets/images/documents/DNA_course.png"  alt="Cours ADN" ></a></td>
 </tr>
 </table >
 

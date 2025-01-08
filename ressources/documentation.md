@@ -9,7 +9,7 @@ toc: true
     <a href="https://www.gbif.org/science-review" target="_blank"><img src="/assets/images/documents/SR11.png" width="200" height="300" alt="Revue Scientifique n°10" ></a>
 </figure>
 
-## GBIF Work programme et Strategic plan
+## Programme de travail et plan stratégique du GBIF
 <figure>
     <a href="https://www.gbif.org/strategic-plan" target="_blank"><img src="/assets/images/documents/SF24-27.png" width="200"  style="float:left; margin-right:10px;" alt="Strategic Plan 2023-2027"></a>
 </figure> 

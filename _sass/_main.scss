@@ -78,9 +78,21 @@ span.post-meta {
 }
 .center {
   display: block;
+
   margin-left: 33%;
   margin-right: 33%;
   border-style: solid;
   border-width: 1px;
 
 }
+.floatingHero.hasWhiteText.not-full-height.overlay 
+{
+color:  #ffffff20!important;
+
+}
+.navbar.navbar--floating 
+{
+
+  background-color:white !important;
+}
+  
