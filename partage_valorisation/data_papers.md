@@ -11,16 +11,10 @@ toc: true
 css: /_sass/_pages.scss
 ---
 
+
 ## Qu'est-ce qu'un data paper?
 
-Un data paper est un document évalué par les pairs décrivant un jeu de données, publié dans une revue à comité de lecture. 
-La préparation, structuration et description des données demandent du temps et des efforts ; les data papers permettent de reconnaître ces efforts, et les personnes impliquées à chaque étape du processus, au moyen d'un article scientifique.
-
-
-
-## Les data papers expliqués
-
-Un data paper est un document de métadonnées compréhensible par un être humain, qui décrit un jeu de données ou un groupe de jeux de données, et est publié sous la forme d'un article dans une revue scientifique à comité de lecture.
+Un data paper est un document de métadonnées compréhensible par un être humain, qui décrit un jeu de données ou un groupe de jeux de données, et est publié sous la forme d'un article dans une revue scientifique à comité de lecture.La préparation, structuration et description des données demandent du temps et des efforts ; les data papers permettent de reconnaître ces efforts, et les personnes impliquées à chaque étape du processus, au moyen d'un article scientifique.
 
 Contrairement à un article de recherche classique, l'objectif premier d'un data paper est de décrire les données et les circonstances de leur collecte ou acquisition, plutôt que de rapporter des hypothèses scientifiques et leurs conclusions.
 
@@ -70,15 +64,14 @@ Vous trouverez sur <a href="https://www.gbif.org/data-papers" target="_blank">ce
 ## Exemples de data papers
 Vous trouverez ci-dessous une liste de data papers décrivant des jeux de données de biodiversité, dont au moins un auteur est affilié à une institution française. La liste exhaustive est disponible [ici](https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED&countriesOfResearcher=FR) :
 
-<details>
-<summary><b>2024</b></summary>
+<b>2024</b>
  <ul>
    <li>Haderlé, R., Bouveret, L., Chazal, J., Girardet, J., Iglésias, S., Lopez, P., Millon, C., Valentini, A., Ung, V., & Jung, J. (2024). eDNA-based survey of the marine vertebrate biodiversity off the west coast of Guadeloupe (French West Indies). <i>Biodiversity Data Journal, 12</i>, Art. e125348. <a href="https://doi.org/10.3897/bdj.12.e125348" target="_blank">https://doi.org/10.3897/bdj.12.e125348</a></li>
   <li>Pozsgai, G., Lhoumeau, S., Amorim, I. R., Boieiro, M., Cardoso, P., Costa, R., Ferreira, M. T., Leite, A., Malumbres-Olarte, J., Oyarzabal, G., Rigal, F., Ros-Prieto, A., Santos, A. M. C., Gabriel, R., & Borges, P. a. V. (2024). The BALA project: A pioneering monitoring of Azorean forest invertebrates over two decades (1999–2022). <i> Scientific Data, 11</i>(1) <a href="https://doi.org/10.1038/s41597-024-03174-7" target="_blank">https://doi.org/10.1038/s41597-024-03174-7</a></li>
   <li>Gabriel, R., Morgado, L. N., Borges, P. a. V., Coelho, M. C. M., Aranda, S. C., Henriques, D. S. G., Sérgio, C., Hespanhol, H., Pereira, F., Sim-Sim, M., & Ah-Peng, C. (2024). The MOVECLIM – AZORES project: Bryophytes from Pico Island along an elevation gradient. <i>Biodiversity Data Journal, 12,</i> Art. e117890. <a href="https://doi.org/10.3897/BDJ.12.e117890" target="_blank">https://doi.org/10.3897/BDJ.12.e117890</a></li>
   <li>Brown, G. G., Demetrio, W. C., Gabriac, Q., Pasini, A., Korasaki, V., Oliveira, L. J., Santos, J. C. F. D., Torres, E., Galerani, P. R., Gazziero, D. L. P., Benito, N. P., Nunes, D. H., Santos, A., Ferreira, T., Nadolny, H. S., Bartz, M. L. C., Maschio, W., Dudas, R. T., Zagatto, M. R. G., . . . Mathieu, J. (2024). Soil macrofauna communities in Brazilian land-use systems. <i>Biodiversity Data Journal, 12,</i> Art. e115000. <a href="https://doi.org/10.3897/BDJ.12.e115000" target="_blank">https://doi.org/10.3897/BDJ.12.e115000</a></li>
 </ul>
-</details>
+
 
 
 <details>

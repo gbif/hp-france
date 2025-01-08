@@ -7,8 +7,6 @@
     href: https://www.gbif.org/fr/dataset/search?publishing_country=FR "target='_blank'"
   - text: Fournisseurs de données
     href: /publisher/search
-  - text: Portails, entrepôts et catalogues
-    href: portails/entrepots-catalogues
 
 - text: Diffusion et valorisation des données
   menu :
@@ -18,6 +16,8 @@
     href: /partage_valorisation/data_papers
   - text: La science ouverte 
     href: /partage_valorisation/science_ouverte
+  - text: Portails, entrepôts et catalogues
+    href: /partage_valorisation/entrepots-catalogues
 - text: Ressources
   menu:
   - text: Documentation

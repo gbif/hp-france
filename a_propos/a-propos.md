@@ -25,13 +25,13 @@ Le point nodal français a une double tâche :
  - Représenter le GBIF en France, en mettant à disposition des communautés scientifiques et politiques françaises les outils et les services créés par le GBIF
  - Représenter la France dans le GBIF, en s'assurant que la France soit visible et écoutée
  
- [Voir les données publiées par le point nodal français sur le GBIF](https://www.gbif.org/country/FR/publishing){:target="_blank"}
+ [Voir les données publiées par la France sur le GBIF](https://www.gbif.org/country/FR/publishing){:target="_blank"}
 
- Le GBIF France a vocation de rassembler toutes les données primaires sur la biodiversité hébergées en France, que celles-ci concernent la biodiversité du territoire français ou du reste du monde. De même, des données de collection et d'observation concernant la France mais hébergées dans d'autres pays seront sous la responsabilité des points nodaux de ces pays détenteurs de l'information. L'équipe du point nodal français du GBIF doit aussi donner aux fournisseurs de données toute l'assistance dont ils peuvent avoir besoin, et peut être **contactée** afin d'aider à la mise en ligne de données.
+ Le GBIF France a vocation de rassembler toutes les données primaires hébergées en France, que celles-ci concernent la biodiversité du territoire français ou du reste du monde. Réciproquement, des données de collection et d'observation concernant la France mais hébergées dans d'autres pays sont sous la responsabilité des points nodaux de ces pays, et sont accessibles sur le portail international. Le point nodal français du GBIF apporte aux fournisseurs de données toute l'assistance dont ils peuvent avoir besoin, et peut être [contacté](mailto:gbif@gbif.fr) afin d'aider à la mise en ligne de données.
  
 ## Historique
 
-Le point nodal France du GBIF a été créé en juin 2006 et était hébergé dès sa fondation par le Muséum national d'Histoire naturelle (MNHN) à Paris. Pendant quelques années, le point nodal relevait de la Direction des collections du MNHN, et à ensuite, à partir de 2017, rejoint [PatriNat](/../../a_propos/patrinat).
+Le point nodal France du GBIF a été créé en juin 2006 et a était hébergé d'abord par l'Université Pierre et Marie Curie puis par le Muséum national d'Histoire naturelle (MNHN) à Paris. Pendant quelques années, le point nodal relevait de la Direction des collections du MNHN, et à ensuite, à partir de 2017, rejoint [PatriNat](/../../a_propos/patrinat).
 
 ## Financement
 Le point nodal français du GBIF est financé par le Ministère de l’Enseignement Supérieur et de la Recherche (MESR) et, depuis 2017, également par une contribution financière de l’Office Français de la Biodiversité (OFB). De 2013 à 2016, le GBIF France a été financé par un projet de l’Agence Nationale de la Recherche (ANR) appelé e-ReColNat.
