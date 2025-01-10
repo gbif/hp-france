@@ -64,7 +64,7 @@ Il faut donc rajouter une section type pour ajouter une nouvelle section.
 Si le type à une data: exemples.stories par exemple, il va venir réccupérer les informations du fichier home.yml (du dossier _data), sur la section stories
 Plus d'information sur les type et data et leurs utilités sur la page complex.md 
 
- # Ajout d'une news
+# Ajout d'une news
 
 Pour ajouter une news il faut ajouter un fichier .md dans le dossier _posts
 Le nom de fichier commence par la date et et suivi par le titre.
@@ -80,7 +80,7 @@ Le fichier contient les informations suivantes:
 - lang: laisser fr
 - imageLicense: l'autorat de l'image
 
-  # Ajout d'élément sur le calendrier
+# Ajout d'élément sur le calendrier
 
 Pour ajouter une news sur le calendrier il faut ajouter un fichier .md dans le dossier _events
 Le nom de fichier commence par la date et et suivi par le titre.
