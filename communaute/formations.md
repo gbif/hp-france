@@ -12,7 +12,7 @@ toc: true
 
 ## Formations du GBIF international
 
-Le GBIF soutient son réseau mondial et développe sa communauté de professionnels par le biais d'activités de formation et la mise à disposition de ressources d'apprentissage qui permettent aux participants de mobiliser et d'utiliser efficacement les données relatives à la biodiversité. Pour plus d'informations, veuillez consulter [cette page](https://www.gbif.org/fr/training){:target="_blank"}
+Le GBIF soutient son réseau mondial et développe sa communauté de professionnels par le biais d'activités de formation et la mise à disposition de ressources d'apprentissage qui permettent aux participants de mobiliser et d'utiliser efficacement les données relatives à la biodiversité. Pour plus d'informations, veuillez consulter [cette page](https://www.gbif.org/fr/training){:target="_blank"}.
 
 Parmi les cours proposés par le GBIF, vous pourrez retrouver: 
 <table>
@@ -30,7 +30,7 @@ Ce cours fournit une introduction au GBIF, aux données disponibles sur le porta
 
 ### Cours de mobilisation des données sur la biodiversité
 
-Ce cours permet aux participants de planifier et de mettre en œuvre efficacement les efforts de mobilisation des données sur la biodiversité en utilisant les standards communautaires acceptés. Son objectif est d’augmenter le volume, la richesse et la qualité des données publiées via le réseau GBIF. Ce cours a été développé pour la première fois dans le cadre du programme Biodiversity Information for Development (BID) financé par l’ Union Européenne, et peut être retrouvé [ici](https://docs.gbif.org/course-data-mobilization/fr/)
+Ce cours permet aux participants de planifier et de mettre en œuvre efficacement les efforts de mobilisation des données sur la biodiversité en utilisant les standards communautaires acceptés. Son objectif est d’augmenter le volume, la richesse et la qualité des données publiées via le réseau GBIF. Ce cours a été développé pour la première fois dans le cadre du programme Biodiversity Information for Development (BID) financé par l’ Union Européenne, et peut être retrouvé [ici](https://docs.gbif.org/course-data-mobilization/fr/){:target="_blank"}
 
 
 ### Accelerating biodiversity research through DNA barcodes, collection and observation data
@@ -39,9 +39,13 @@ Ce cours vous apprendra à utiliser les données barcode ADN, les données de co
 
 ## Formations GBIF France actuelles ou à venir
 
+L’équipe du GBIF France contribue au renforcement des capacités de la communauté en étant [formateur](https://www.gbif.org/mentors){:target="_blank"} à l'échelle international.
+
 
 ### Utilisations innovantes des collections naturalistes dans la recherche scientifique
 ***24-28 Mars 2025***
+
+_Organisation : Roseli Pellens (ISYEB)_ 
 
 Ce module cherche à fournir un panorama sur la recherche scientifique actuelle sur les collections naturalistes
 en montrant les liens entre nouvelles questions scientifiques et sociétales et la découverte
@@ -58,6 +62,8 @@ incontournables.
 
 ### Nettoyer et structurer les données. Réflexion sur la chaîne opératoire préalable à une base de données
 ***07-09 Avril 2025*** 
+
+_Organisation : BBEES et GBIF France_
 
 Ce module s’adresse à ceux qui souhaitent mieux gérer leurs données et s’interrogent sur
 la nécessité de mettre en place une base de données. Il n’est pas nécessaire d’avoir des
