@@ -64,5 +64,30 @@ Il faut donc rajouter une section type pour ajouter une nouvelle section.
 Si le type à une data: exemples.stories par exemple, il va venir réccupérer les informations du fichier home.yml (du dossier _data), sur la section stories
 Plus d'information sur les type et data et leurs utilités sur la page complex.md 
 
+ # Ajout d'une news
 
+Pour ajouter une news il faut ajouter un fichier .md dans le dossier _posts
+Le nom de fichier commence par la date et et suivi par le titre.
+Le fichier contient les informations suivantes:
+
+preTitle: Le sur titre, indiquant la date de publication de la news en toutes lettre
+title:  Le titre
+description: Le sous titre descriptif
+date:   La date de publication. Cette date là n'apparaîtra pas, mais attention, l'ajout d'une news avec une date de publication ultérieure à celle du jour rendra la news invisible
+categories: Les mots-clés
+background: l'image d'illustration
+thumbnail: l'image d'illustration de l'onglet
+lang: laisser fr
+imageLicense: l'autorat de l'image
+
+  # Ajout d'élément sur le calendrier
+
+Pour ajouter une news sur le calendrier il faut ajouter un fichier .md dans le dossier _events
+Le nom de fichier commence par la date et et suivi par le titre.
+Le fichier contient les informations suivantes:
+
+title: Le titre, qui apparaitra sur le bandeau sur le calendrier
+event_date: La date de début de l'évenement au format AAAA-MM-JJ
+event_date_end: La date de fin de l'évenement **(exclue, donc j+1)** au format AAAA-MM-JJ
+url_post: Le lien vers le post correspondant (facultatif)
 
