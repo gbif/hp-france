@@ -4,8 +4,8 @@ title:  "Un nouvel outil pour les données d'ADNe"
 description: "Lancement de la phase pilote du Metabarcoding Data Toolkit (MDT)"
 date:   2025-01-07
 categories: ["GBIF","metabarcoding","ADNe", "IPT"]
-background:  assets/images/news/ipt-eDNA.png
-thumbnail: assets/images/news/ipt-eDNA.png
+background:  assets/images/news/ipt-eDNA2.png
+thumbnail: assets/images/news/ipt-eDNA2.png
 lang: fr
 imageLicense: 
 ---

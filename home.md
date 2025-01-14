@@ -25,10 +25,12 @@ composition:
     data: we_do_not_want_any_header
   - type: stories
     data: examples.stories
-#  - type: split
-#    data: rejsrdurdujrtxtddritrdxt
-# - type: features
-#   data: calendar
+  - type: split
+    data: home.important
+  - type: split
+    data: home.important2
+#  - type: features
+#    data: calendar
   
 permalink: /
 ---
