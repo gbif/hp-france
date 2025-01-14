@@ -1,7 +1,7 @@
 ---
 preTitle: 7 janvier 2025
-title:  "Formation 'Nettoyer et structurer les données'"
-description: "Lancement de la phase pilote du Metabarcoding Data Toolkit (MDT)"
+title:  "Formation ED 227 'Nettoyer et structurer les données'"
+description: "Réflexion sur la chaîne opératoire préalable à une base de données"
 date:   2025-01-07
 categories: ["ED227","MNHN","formation", "BBEES"]
 background:  assets/images/news/formation-bbees.png
