@@ -1,5 +1,5 @@
 # Les liens répertoriés ci-dessous seront inclus dans la barre de navigation de votre site (navigation en haut)
-- text: Accés aux données
+- text: Accès aux données
   menu:
   - text: Données d'occurrences (produites par la France)
     href: https://www.gbif.org/fr/occurrence/search?publishing_country=FR&advanced=1 "target='_blank'"

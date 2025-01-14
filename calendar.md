@@ -11,7 +11,7 @@ integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="  crossorigin="an
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.2.0/fullcalendar.min.css">
 <link rel="stylesheet" media="print" href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.2.0/fullcalendar.print.css">
 <style> .fc-day-grid-event
-{background-color: #53B5B9} </style>
+{background-color: #8dbea3} </style>
 <script>
 $(document).ready(function() {
 
