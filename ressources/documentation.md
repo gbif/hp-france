@@ -4,6 +4,12 @@ layout: post
 description: 
 toc: true
 ---
+
+## Documentation de l'API
+
+Vous pourrez retrouver [ici](https://techdocs.gbif.org/en/openapi/){:target="_blank"} la documentation de l'[API GBIF](https://api.gbif.org/){:target="_blank"} en anglais. 
+
+
 ## Revue scientifique du GBIF
 <figure>
     <a href="https://www.gbif.org/science-review" target="_blank"><img src="/assets/images/documents/SR11.png" width="200" height="300" alt="Revue Scientifique n°10" ></a>
