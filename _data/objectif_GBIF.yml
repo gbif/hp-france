@@ -1,0 +1,58 @@
+# The home landing page
+objectif_GBIF:
+  features:
+    - title: Sol
+      # img required
+      background: assets/images/gbif/gbif-sol.jpg
+      cta:
+      - text: En savoir plus
+        href: https://www.gbif.org/fr/soil "target='_blank'"
+        isPrimary: false
+        
+    - title: Conservation
+      # img required
+      background: assets/images/gbif/gbif-conservation.jpg
+      cta:
+      - text: En savoir plus
+        href: https://www.gbif.org/fr/conservation "target='_blank'"
+        isPrimary: false
+        
+    - title: Changement climatique
+      # img required
+      background: assets/images/gbif/gbif-climat.jpg
+      cta:
+      - text: En savoir plus
+        href: https://www.gbif.org/fr/climate "target='_blank'"
+        isPrimary: false
+        
+    - title: Santé publique
+      # img required
+      background: assets/images/gbif/gbif-sante.jpg
+      cta:
+      - text: En savoir plus
+        href: https://www.gbif.org/fr/health "target='_blank'"
+        isPrimary: false
+        
+    - title: Barcoding et métagénomique
+      # img required
+      background: assets/images/gbif/gbif-adn.jpg
+      cta:
+      - text: En savoir plus
+        href: https://www.gbif.org/fr/dna "target='_blank'"
+        isPrimary: false
+        
+    - title: Agriculture et sécurité alimentaire
+      # img required
+      background: assets/images/gbif/gbif-agriculture.jpg
+      cta:
+      - text: En savoir plus
+        href: https://www.gbif.org/fr/food "target='_blank'"
+        isPrimary: false
+        
+    - title: GBIF et le secteur privé
+      # img required
+      background: assets/images/gbif/gbif-entreprise.jpg
+      cta:
+      - text: En savoir plus
+        href: https://www.gbif.org/fr/composition/4AiiddbcjhjkW6Va4vl7ii "target='_blank'"
+        isPrimary: false

@@ -2,13 +2,13 @@
 title: L'équipe GBIF
 layout: post
 description: Découvrez l'équipe 
-background: assets/logo/logo_gbif.png
+background: /assets/images/placeholders/crecerelle1.jpg
 imageLicense: |
-  
+  © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
 height: 70vh
 toc: true
 ---
-<style> .feature-img img {background-color: white; object-fit: contain }> </style>
+<style> .feature-img img {background-color: white; object-fit: cover }> </style>
 ## Le GBIF France
 
 ### [Anne-Sophie Archambeau](https://www.patrinat.fr/fr/annuaire/anne-sophie-archambeau-6077){:target="_blank"}
@@ -42,6 +42,7 @@ _CDD MNHN_
 ### [Elie Mario Saliba](https://www.patrinat.fr/fr/annuaire/elie-saliba-7239){:target="_blank"}
 _CDD MNHN_
 - Responsable communication/valorisation/GRSciColl
+- Membre du sous-comité 'Fundraising and Partnerships' du TDWG
 
 ## Représentation française et coordination scientifique
 

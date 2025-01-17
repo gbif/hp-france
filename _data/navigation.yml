@@ -1,6 +1,8 @@
 # Les liens répertoriés ci-dessous seront inclus dans la barre de navigation de votre site (navigation en haut)
 - text: Accès aux données
   menu:
+  - text: Données d'occurrences (portant sur les territoires français)
+    href: https://www.gbif.org/fr/occurrence/search?country=FR&country=GP&country=MQ&country=MF&country=BL&country=PM&country=GF&country=TF&country=YT&country=RE&country=PF&country=NC&country=WF"target='_blank'"
   - text: Données d'occurrences (produites par la France)
     href: https://www.gbif.org/fr/occurrence/search?publishing_country=FR&advanced=1 "target='_blank'"
   - text: Jeux de données (produits par la France)
@@ -50,6 +52,8 @@
   menu:
   - text: GBIF
     href: a_propos/a-propos  
+  - text: GBIF France
+    href: a_propos/GBIF-France 
   - text: L'équipe
     href: a_propos/team
   - text: Patrinat
