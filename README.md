@@ -75,10 +75,10 @@ Le fichier contient les informations suivantes:
 - description: Le sous titre descriptif
 - date:   La date de publication. Cette date là n'apparaîtra pas, mais attention, l'ajout d'une news avec une date de publication ultérieure à celle du jour rendra la news invisible
 - categories: Les mots-clés
-- background: l'image d'illustration
-- thumbnail: l'image d'illustration de l'onglet
+- background: L'image d'illustration
+- thumbnail: L'image d'illustration de l'onglet
 - lang: laisser fr
-- imageLicense: l'autorat de l'image
+- imageLicense: L'autorat de l'image
 
 # Ajout d'élément sur le calendrier
 
@@ -90,4 +90,16 @@ Le fichier contient les informations suivantes:
 - event_date: La date de début de l'évenement au format AAAA-MM-JJ
 - event_date_end: La date de fin de l'évenement **(exclue, donc j+1)** au format AAAA-MM-JJ
 - url_post: Le lien vers le post correspondant (facultatif)
+
+# Ajout d'élément sur une page simple et une page complexe
+
+Il y a deux types de pages préconstruites dans le hosted portal. Les pages simples et les pages complexes. La page d'accueil et la page a propos/GBIF.org sont des pages complexes, le reste étant des pages simple.
+Les pages simple comporte les éléments suivants: 
+- title: Le titre
+- layout: post (laisser la valeur par défaut)
+- description: Le sous titre descriptif
+- background: L'image d'illustration
+- imageLicense:  L'autorat de l'image
+- height: 70vh
+- toc: true si l'on veut voir apparaitre l'index interactif à droite
 
