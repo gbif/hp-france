@@ -13,6 +13,7 @@ composition:
   - data: objectif_GBIF.objectif_GBIF
     type: features 
 ---
+<style> .feature-img img {background-color: white; object-fit: contain }> </style>
 <style> .floatingHero.hasWhiteText.not-full-height.overlay {  width: 40%; height: auto;   margin-left: auto; margin-right: auto;}> </style>
 
 # À propos
