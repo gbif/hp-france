@@ -2,7 +2,7 @@
 title: À propos du GBIF.org
 layout: post
 description: 
-background: assets/images/placeholders/mission-visionGBIF.jpg
+background: assets/images/placeholders/mission-visionGBIF2.jpg
 imageLicense: |
   © GBIF Secretariat
 height: 70vh
