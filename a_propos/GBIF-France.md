@@ -1,5 +1,5 @@
 ---
-title: À propos
+title: À propos du GBIF France
 layout: post
 description: Qu'est-ce que GBIF France, son but et ses objectifs ?
 background: assets/logo/logo_gbif.png
