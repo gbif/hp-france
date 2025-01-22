@@ -15,7 +15,7 @@ composition:
 ---
 <style> .feature-img img {background-color: white; object-fit: contain }> </style>
 <style> .floatingHero.hasWhiteText.not-full-height.overlay {  width: 50%; height: auto;   margin-left: auto; margin-right: auto;}> </style>
-<style> .feature-title {visibility: hidden; }> </style>
+<style> .floatingHero .feature-title {visibility: hidden; }> </style>
 
 # À propos
 _Qu'est-ce que le GBIF ?_ 
