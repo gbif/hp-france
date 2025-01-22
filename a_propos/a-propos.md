@@ -1,5 +1,5 @@
 ---
-title:
+title: À propos du GBIF.org
 layout: post
 description: 
 background: assets/images/placeholders/mission-visionGBIF.jpg
@@ -15,6 +15,7 @@ composition:
 ---
 <style> .feature-img img {background-color: white; object-fit: contain }> </style>
 <style> .floatingHero.hasWhiteText.not-full-height.overlay {  width: 50%; height: auto;   margin-left: auto; margin-right: auto;}> </style>
+<style> .feature-title {visibility: hidden; }> </style>
 
 # À propos
 _Qu'est-ce que le GBIF ?_ 
