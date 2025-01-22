@@ -2,7 +2,7 @@
 title:
 layout: post
 description: 
-background: assets/logo/logo_gbif-int.png
+background: assets/images/placeholders/mission-visionGBIF.jpg
 imageLicense: |
   © GBIF Secretariat
 height: 70vh
@@ -14,7 +14,7 @@ composition:
     type: features 
 ---
 <style> .feature-img img {background-color: white; object-fit: contain }> </style>
-<style> .floatingHero.hasWhiteText.not-full-height.overlay {  width: 40%; height: auto;   margin-left: auto; margin-right: auto;}> </style>
+<style> .floatingHero.hasWhiteText.not-full-height.overlay {  width: 50%; height: auto;   margin-left: auto; margin-right: auto;}> </style>
 
 # À propos
 _Qu'est-ce que le GBIF ?_ 
