@@ -2,7 +2,7 @@
 lang-ref: entrepots-catalogues
 title: Le GBIF et les flux de données au niveau national
 layout: post
-description: Répertoires des principaux entrepôts, portails et catalogues de (méta)données pour la biodiversité
+description: Répertoires des principales infrastructures (entrepôts, portails et catalogues de (méta)données pour la biodiversité)
 background: assets/images/placeholders/escargot.jpg
 imageLicense: |
   © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
@@ -11,7 +11,7 @@ toc: true
 css: /_sass/_pages.scss
 ---
 
-Le GBIF France a pour rôle, entre autres, d'assurer la transmission de données françaises vers l'international. Pour cela, il collabore avec plusieurs systèmes interopérables au niveau national pour les données de biodiversité. Le paysage français comprends des portails, des entrepôts et des catalogues de métadonnées. Selon vos objectifs et votre situation, ce seront vos interlocuteurs privilégiés. Contactez-nous pour plus d'informations. 
+Le GBIF France a pour rôle, entre autres, d'assurer la transmission de données françaises vers l'international. Pour cela, il collabore avec plusieurs infrastrucures au niveau national pour les données de biodiversité. Le paysage français comprends des portails, des entrepôts et des catalogues de métadonnées. Selon vos objectifs et votre situation, ce seront vos interlocuteurs privilégiés. Contactez-nous pour plus d'informations. 
 
 ## Portails
 

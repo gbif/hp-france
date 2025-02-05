@@ -5,10 +5,10 @@ stats:
       description: Occurrences sur les territoires français
       background: /assets/images/icons/france.png
       href: https://www.gbif.org/fr/occurrence/search?country=FR&country=GP&country=MQ&country=MF&country=BL&country=PM&country=GF&country=TF&country=YT&country=RE&country=PF&country=NC&country=WF "target='_blank'"
-    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=query%20%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7B%0A%20%20%20%20%20%20type%3A%20and%0A%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%20type%3A%20equals%2C%20key%3A%20%22publishingCountry%22%2C%20value%3A%20%22FR%22%20%7D%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">9,000,000</span>
+    - title: <span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=%0Aquery%20%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7B%0A%20%20%20%20%20%20type%3A%20and%0A%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%20type%3A%20in%2C%20key%3A%20%22publishingCountry%22%2C%20values%3A%20%5B%22FR%22%2C%20%22GP%22%2C%20%22MQ%22%2C%20%22GF%22%2C%20%22PF%22%2C%20%22YT%22%2C%20%22TF%22%2C%20%22NC%22%2C%20%22RE%22%2C%20%22BL%22%2C%20%22MF%22%2C%20%22PM%22%2C%20%22WF%22%5D%20%7D%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A">9,000,000</span>
       description: Occurrences produites par la France
       background: /assets/images/icons/occurrences2.png
-      href: https://www.gbif.org/fr/occurrence/search?publishing_country=FR&advanced=1 "target='_blank'"
+      href: https://www.gbif.org/fr/occurrence/search?publishing_country=FR&country=GP&country=MQ&country=MF&country=BL&country=PM&country=GF&country=TF&country=YT&country=RE&country=PF&country=NC&country=WF&advanced=1 "target='_blank'"
     - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=FR&limit=0">100,000</span>
       description: Jeux de données produits par la France
       background: /assets/images/icons/datasets2.png
