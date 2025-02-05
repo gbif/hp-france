@@ -16,10 +16,11 @@
     href: /partage_valorisation/mise_en_ligne_donnees
   - text: Data papers
     href: /partage_valorisation/data_papers
-  - text: La science ouverte 
-    href: /partage_valorisation/science_ouverte
   - text: Portails, entrepôts et catalogues
     href: /partage_valorisation/entrepots-catalogues
+  - text: La science ouverte 
+    href: /partage_valorisation/science_ouverte
+
 - text: Ressources
   menu:
   - text: Documentation

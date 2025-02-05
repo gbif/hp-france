@@ -28,6 +28,30 @@ Le point nodal France du GBIF a été créé en juin 2006 et a était hébergé 
 Le point nodal français du GBIF est financé par le Ministère de l’Enseignement Supérieur et de la Recherche (MESR) et, depuis 2017, également par une contribution financière de l’Office Français de la Biodiversité (OFB). De 2013 à 2016, le GBIF France a été financé par un projet de l’Agence Nationale de la Recherche (ANR) appelé e-ReColNat.
 La contribution financière au GBIF international est assurée par la Direction Générale pour la Recherche et l’Innovation (DGRI) du Ministères de la Recherche et de l’Écologie et par la Direction de l’Eau et de la Biodiversité (DEB) du Ministère de la Transition écologique, de l’Énergie, du Climat et de la Prévention des risques.
 
+## Le Comité de pilotage
+
+Le comité de pilotage du GBIF France est composé de :
+
+- **Anne Puech**, Cheffe du département de SSRI A1 - Secteur environnement, agronomie, écologie, sciences du système terre et de l'univers de la DGRI, MESR
+- **Anne-Sophie Archambeau**, Responsable GBIF France, IRD/UAR PatriNat
+- **Emmanuel Pasco-Viel**, Chef du bureau Politique de la biodiversité, Direction de l'Eau et de la Biodiversité, MTECT
+- **Eric Chenin**, Chef de délégation France au GBIF, UMRUMMISCO, IRD
+- **François Dusoulier**, Déléguéaux infrastructures de recherche sur les collections, MNHN 
+- **François Hissel**, Directeur de la surveillance, de l'évaluation et des données, OFB
+- **François Sabot**, MSO IRD
+- **Frédérique Chlous**, Directrice Générale Déléguée à la Recherche, à l'Expertise, à la Valorisation et à l'Enseignement, MNHN
+- **Jean-Christophe Avarre**, Directeur ECOBIO, IRD
+- **Jean-Christophe Desconnets**, Directeur MSO, IRD
+- **Jérôme Bailly-Maitre**, Chef de Projet "systèmes d'information biodiversité SIB", Direction de l'eau et de la biodiversité, MTECT
+- **Laurent Poncet**, Co-Directeur de l'UAR PatriNat
+- **Natalie Poulet**, MTECT
+- **Nirmala Séon-Massin**, Directrice de l’Expertise, MNHN
+- **Pascale Garcia**, Chargée de mission Biodiversité, Service Stratégie de laDGRI, MESR
+- **Philippe Grandcolas**, Directeur adjoint Scientifique, CNRS Écologie et Environnement, Vice-Président comité scientifique GBIF
+- **Régine Vignes-Lebbe**, Professeur Sorbonne Université UFR 918, coordinatrice scientifique GBIF France
+- **Silvère Camponovo**, Directeur du pôle Systèmes d'information, UAR PatriNat
+- **Thomas Bouix**, Chef de l'équipe Coordination des Systèmes d’Information, UARPatriNat
+
 ## Missions
 - Faire connaître le GBIF et ses activités en France;
 - Offrir aux chercheurs français les outils développés par le GBIF pour faire connaître leurs données et les mettre en ligne;
