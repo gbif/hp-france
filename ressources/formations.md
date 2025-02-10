@@ -39,7 +39,7 @@ Ce cours vous apprendra à utiliser les données barcode ADN, les données de co
 
 ## Formations GBIF France actuelles ou à venir
 
-L’équipe du GBIF France contribue au renforcement des capacités de la communauté en étant [formateur](https://www.gbif.org/mentors){:target="_blank"} à l'échelle international.
+L’équipe du GBIF France contribue au renforcement des capacités de la communauté en étant [formateur](https://www.gbif.org/mentors){:target="_blank"} à l'échelle internationale+.
 
 
 ### Utilisations innovantes des collections naturalistes dans la recherche scientifique

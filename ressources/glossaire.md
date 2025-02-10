@@ -54,7 +54,7 @@ __FAIR__ (données) : _Findable, Accessible, Interoperable, Reusable_ ou Facile 
 ## G
 __GBIF__ : _Global Biodiversity Index Facility_. Système mondial d’information sur la biodiversité, dont le secrétariat est basé à Copenhague. [Voir la page dédiée](../../a_propos/a-propos/).
 
-__GBIF France__ : nom porté par le point nodal français du GBIF. [Voir la page dédiée](../../a_propos/a-propos/).
+__GBIF France__ : nom porté par le point nodal français du GBIF. [Voir la page dédiée](../../a_propos/GBIF-France/).
 
 __Gouverning Board__ (du GBIF) : Conseil d'administration du GBIF. Il est le moyen par lequel les membres du GBIF prennent collectivement des décisions. Se réunissant une fois par an, il est composé d'un représentant pour chaque pays ou organisation participante.
 

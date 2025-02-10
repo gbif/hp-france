@@ -1,8 +1,7 @@
 ---
-lang-ref: projets
-title: Projets
+title: Activitées internationales
 layout: post
-description: Nos projets
+description: Notre implication à l'international
 background: assets/images/placeholders/champi.jpg
 imageLicense: |
   © Sophie Pamerlon (licensed under https://creativecommons.org/licenses/by-sa/4.0/)
@@ -58,20 +57,5 @@ _[Ensemble de programmes](https://www.gbif.org/programme/82219/capacity-enhancem
 ## Projets européens
 
 2021-2023 : Représentation du MNHN dans le WP2 "training strategy" du projet [DiSSCo Prepare](https://www.dissco.eu/dissco-prepare/){:target="_blank"} (Distributed Systems of Scientific Collections) sur les collections au niveau européen dont le MNHN et le secrétariat du GBIF sont partenaires
-
-
-## Projets nationaux
-
-19-20 octobre 2021 : Participation à la table ronde de l'ANF : "La science ouverte – vers les connaissances partagées"
-
-## Groupes de travail
-
-2023-... : Groupe de Travail Patrinat/OFB "Élaborer un standard national de données sur les habitats".
-
-2023-... : Groupe de Travail Patrinat/ISYEB/CR2P/CEFE/Université de Nice INRIA "Base de connaissance sur les traits d’espèces".
-
-2023-... : Groupe de travail Patrinat "Structuration et diffusion des données issues de l'ADNe"
-
-2021-... :  Groupe de travail Patrinat "Complémentarité des systèmes d’information" 
 
 
