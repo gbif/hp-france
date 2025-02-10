@@ -1,6 +1,6 @@
 ---
 preTitle: 17 janvier 2025
-title:  "Congrès Living Data du 21 au 24 octobre 2025 à Bogotá (Colobie)"
+title:  "Congrès Living Data du 21 au 24 octobre 2025 à Bogotá (Colombie)"
 description: "Quatre réseaux, une conférence"
 date:   2025-01-17
 categories: ["GBIF","OBIS","TDWG", "Conférence","Standards","Living Atlases", "GEOBON"]

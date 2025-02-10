@@ -9,7 +9,6 @@
     href: https://www.gbif.org/fr/dataset/search?publishing_country=FR "target='_blank'"
   - text: Fournisseurs de données
     href: /publisher/search
-
 - text: Diffusion et valorisation des données
   menu :
   - text: Mise en ligne des données
@@ -20,35 +19,34 @@
     href: /partage_valorisation/entrepots-catalogues
   - text: La science ouverte 
     href: /partage_valorisation/science_ouverte
-
 - text: Ressources
   menu:
   - text: Documentation
     href: ressources/documentation
   - text: Guides de bonnes pratiques
     href: ressources/guides_bonnes_pratiques
+  - text: Formations
+    href: ressources/formations
   - text: Présentations
     href: ressources/presentations
   - text: Glossaire
     href: ressources/glossaire
 - text: Communauté
   menu :
-  - text: Nos projets
+  - text: Activités internationales
     href: communaute/projets
-  - text: Nos formations
-    href: communaute/formations
   - text: GRSciColl
     href: communaute/grscicoll
   - text: Living Atlases
     href: communaute/globalatlas
   - text: Publications scientifiques autour du GBIF
     href: /literature/search
-- text: Actualités et Calendrier
+- text: Agenda et Actualités
   menu :
+  - text: Agenda
+    href: /calendrier/
   - text: Actualités
     href: /news/
-  - text: Calendrier
-    href: /calendrier/
 - text: À propos
   menu:
   - text: GBIF
@@ -57,7 +55,7 @@
     href: a_propos/GBIF-France 
   - text: L'équipe
     href: a_propos/team
-  - text: Patrinat
+  - text: PatriNat
     href: a_propos/patrinat
   - text: TDWG-Darwin Core
     href: a_propos/tdwg_dwc

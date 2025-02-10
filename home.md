@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: GBIF France
-description: Accès aux données biodiversité françaises, sur le Système Mondial d’Information sur la Biodiversité (GBIF)
+description: Le GBIF France a pour vocation de rassembler toutes les données de biodiversité collectées par les acteurs français, sur ou en dehors du territoire national, afin de les mettre à disposition sur le GBIF international
 background: assets/images/placeholders/accueil4.jpg
 imageLicense: |
   © Javier Gamboa Martinez
@@ -12,10 +12,8 @@ navbar:        # What color should the navbar be?
   hasWhiteText: false        # Should the text color be white?
   floating: true
 cta:
-  - text: La France dans le réseau GBIF
-    href: https://www.gbif.org/country/FR/summary "target='_blank'"
   - text: |
-          <img src="assets/images/icons/calendrier.png" alt="calendrier" style="height: 40px;"/>
+          Agenda &nbsp; <img src="assets/images/icons/calendrier.png" alt="calendrier" style="height: 40px;"/>
     href: /calendrier/
 composition:
   - type: heroImage
