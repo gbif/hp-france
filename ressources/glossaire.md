@@ -117,4 +117,4 @@ __Workshop__ : Anglicisme pour atelier. Souvent synonyme de séminaire de travai
 
 ## X
 
-__XML__ : _Extensible Markup Language_. Métalangage informatique de balisage générique dont la syntaxe extensible permet de l'appliquer à différentes activitées et champs disciplinaires. 
+__XML__ : _Extensible Markup Language_. Métalangage informatique de balisage générique dont la syntaxe extensible permet de l'appliquer à différentes activités et champs disciplinaires. 

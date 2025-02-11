@@ -1,5 +1,5 @@
 ---
-title: Activitées internationales
+title: Activités internationales
 layout: post
 description: Notre implication à l'international
 background: assets/images/placeholders/champi.jpg
