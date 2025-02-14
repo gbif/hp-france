@@ -70,6 +70,7 @@ algae:
     color: "#8dbea3"        # What color should the navbar be?
     hasWhiteText: true          # Should the text color be white?
     # floating: true
+  hideHelper: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
