@@ -36,6 +36,18 @@ L’objectif de [ce document](https://docs.gbif-uat.org/private-sector-data-publ
 
 ## En anglais 
 
+### Mode d'emploi de l'Humboldt Extension
+
+<figure >
+    <a href="https://docs.gbif.org/survey-monitoring-quick-start/en/survey-and-monitoring-data-quick-start-guide.en.pdf" target="_blank"><img class="center" src="/assets/images/documents/Humboldt.png" width="200" height="300" alt="Guide especes sensibles" ></a>
+</figure>
+
+Les détails d'une campagne d'inventaires (comment elle a été menée, la portée spatio-temporelle, les groupes taxonomiques ciblés, les personnes impliquées, etc.) sont importants pour bien comprendre la structure de la campagne et la façon dont les données publiées peuvent être réutilisées. L'[extension Humboldt pour les inventaires écologiques](https://eco.tdwg.org/){:target="_blank"} (HE), une extension du vocabulaire de la classe d'Event Darwin Core (DwC), fournit un moyen de rapporter explicitement le contexte dans lequel les données d'occurrence des espèces et/ou les spécimens matériels ont été collectés. L'extension comprend 55 termes pour capturer les facettes critiques de la conception de l'enquête, y compris le protocole, la portée et l'effort d'échantillonnage d'une manière structurée, améliorant ainsi la FAIRness globale (en particulier la trouvabilité et l'interopérabilité) des données d'enquête biologique.
+
+Ce document guidera les éditeurs de données GBIF qui (a) ont déjà des données formatées comme un jeu de données Darwin Core (DwC) Event à travers le processus de mise à jour de leur jeu de données avec l'extension Humboldt ou (b) sont à l'aise avec le DwC Event Core et souhaitent faire correspondre un nouveau jeu de données à la classe DwC Event et aux termes de l'extension Humboldt.
+
+[Lien vers le document](https://docs.gbif.org/survey-monitoring-quick-start/en/){:target="_blank"}
+
 ### Mode d'emploi de l'IPT
 
 Le GBIF Integrated Publishing Toolkit (IPT) est une application web gratuite qui facilite le partage d' informations relatives à la biodiversité. Voir [cette page](https://ipt.gbif.org/manual/en/ipt/latest/){:target="_blank"} pour accéder à son mode d'emploi
