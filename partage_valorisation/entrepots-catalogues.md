@@ -11,7 +11,7 @@ toc: true
 css: /_sass/_pages.scss
 ---
 
-Le GBIF France a pour rôle, entre autres, d'assurer la transmission de données françaises vers l'international. Pour cela, il collabore avec plusieurs infrastructures au niveau national pour les données de biodiversité. Le paysage français comprends des portails, des entrepôts et des catalogues de métadonnées. Selon vos objectifs et votre situation, ce seront vos interlocuteurs privilégiés. Contactez-nous pour plus d'informations. 
+Le GBIF France a pour rôle, entre autres, d'assurer la transmission de données françaises vers l'international. Pour cela, il collabore avec plusieurs infrastructures au niveau national pour les données de biodiversité. Le paysage français comprends des portails, des entrepôts et des catalogues de métadonnées. Selon vos objectifs et votre situation, ce seront vos interlocuteurs privilégiés. [Contactez-nous]((mailto:gbif@gbif.fr)) pour plus d'informations. 
 
 ## Systèmes d'infomations
 

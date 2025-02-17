@@ -26,7 +26,7 @@ Le point nodal France du GBIF a été créé en juin 2006 et était hébergé d'
 
 ## Financement
 Le point nodal français du GBIF est financé par le Ministère de l’Enseignement Supérieur et de la Recherche (MESR) et, depuis 2017, également par une contribution financière de l’Office Français de la Biodiversité (OFB). De 2013 à 2016, le GBIF France a été financé par un projet de l’Agence Nationale de la Recherche (ANR) appelé e-ReColNat.
-La contribution financière au GBIF international est assurée par la Direction Générale pour la Recherche et l’Innovation (DGRI) du Ministères de la Recherche et de l’Écologie et par la Direction de l’Eau et de la Biodiversité (DEB) du Ministère de la Transition écologique, de l’Énergie, du Climat et de la Prévention des risques.
+La contribution financière au GBIF international est assurée par la Direction Générale pour la Recherche et l’Innovation (DGRI) du Ministère de l’Enseignement Supérieur et de la Recherche et par la Direction de l’Eau et de la Biodiversité (DEB) du Ministère de la Transition écologique, de la Biodiversité, de la Forêt, de la Mer et de la Pêche.
 
 ## Le Comité de pilotage
 
@@ -49,7 +49,6 @@ Le comité de pilotage du GBIF France est composé de :
 - **Pascale Garcia**, Chargée de mission Biodiversité, Service Stratégie de laDGRI, MESR
 - **Philippe Grandcolas**, Directeur adjoint Scientifique, CNRS Écologie et Environnement, Vice-Président comité scientifique GBIF
 - **Régine Vignes-Lebbe**, Professeur Sorbonne Université UFR 918, coordinatrice scientifique GBIF France
-- **Silvère Camponovo**, Directeur de projet « coordination des systèmes d’information », UAR PatriNat
 - **Thomas Bouix**, Chef de l'équipe Coordination des Systèmes d’Information, UARPatriNat
 
 ## Missions
