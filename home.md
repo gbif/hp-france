@@ -2,7 +2,10 @@
 lang-ref: home
 layout: home
 title: GBIF France
-description: Le GBIF France a pour vocation de rassembler toutes les données de biodiversité collectées par les acteurs français, sur ou en dehors du territoire national, afin de les mettre à disposition sur le GBIF international
+description: |
+  Le GBIF France a pour vocation de rassembler toutes les données de biodiversité collectées par les acteurs français, sur ou en dehors du territoire national, afin de les mettre à disposition sur le GBIF international.
+
+  Le GBIF France s'appuie notamment  sur trois dispositifs qui le soutiennent dans cette mission : Le [SINP](https://inpn.mnhn.fr/informations/sinp/presentation){:target="_blank"}, [Récolnat](https://recolnat.fr/fr){:target="_blank"} et le [PNDB](https://www.pndb.fr/fr/){:target="_blank"}
 background: assets/images/placeholders/accueil4.jpg
 imageLicense: |
   © Javier Gamboa Martinez
