@@ -30,26 +30,31 @@ La contribution financière au GBIF international est assurée par la Direction 
 
 ## Le Comité de pilotage
 
-Le comité de pilotage du GBIF France est composé de :
 
-- **Anne Puech**, Cheffe du département de SSRI A1 - Secteur environnement, agronomie, écologie, sciences du système terre et de l'univers de la DGRI, MESR
-- **Anne-Sophie Archambeau**, Responsable GBIF France, IRD/UAR PatriNat
-- **Emmanuel Pasco-Viel**, Chef du bureau Politique de la biodiversité, Direction de l'Eau et de la Biodiversité, MTECT
-- **Eric Chenin**, Chef de délégation France au GBIF, UMR UMMISCO, IRD
-- **François Dusoulier**, Délégué aux infrastructures de recherche sur les collections, MNHN 
-- **François Hissel**, Directeur de la surveillance, de l'évaluation et des données, OFB
-- **François Sabot**, MSO IRD
-- **Frédérique Chlous**, Directrice Générale Déléguée à la Recherche, à l'Expertise, à la Valorisation et à l'Enseignement, MNHN
-- **Jean-Christophe Avarre**, Directeur ECOBIO, IRD
-- **Jean-Christophe Desconnets**, Directeur MSO, IRD
-- **Jérôme Bailly-Maitre**, Chef de Projet "systèmes d'information biodiversité SIB", Direction de l'eau et de la biodiversité, MTECT
-- **Laurent Poncet**, Co-Directeur de l'UAR PatriNat
-- **Natalie Poulet**, Adjointe au Chef du bureau Politique de la biodiversité, Direction de l’Eau et de la Biodiversité, MTECT
-- **Nirmala Séon-Massin**, Directrice de l’Expertise, MNHN
-- **Pascale Garcia**, Chargée de mission Biodiversité, Service Stratégie de laDGRI, MESR
-- **Philippe Grandcolas**, Directeur adjoint Scientifique, CNRS Écologie et Environnement, Vice-Président comité scientifique GBIF
-- **Régine Vignes-Lebbe**, Professeur Sorbonne Université UFR 918, coordinatrice scientifique GBIF France
-- **Thomas Bouix**, Chef de l'équipe Coordination des Systèmes d’Information, UARPatriNat
+
+<details>
+  <summary>Le comité de pilotage du GBIF France est composé de (cliquez pour dérouler) :</summary>
+<ul>
+<li><b>Anne-Sophie Archambeau</b>, Responsable GBIF France, IRD/UAR PatriNat </li>
+<li><b>Jean-Christophe Avarre</b>, Directeur ECOBIO, IRD </li>
+<li><b>Jérôme Bailly-Maitre</b>, Chef de Projet "systèmes d'information biodiversité SIB", Direction de l'eau et de la biodiversité, MTECT </li>
+<li><b>Thomas Bouix</b>, Chef de l'équipe Coordination des Systèmes d’Information, UAR PatriNat </li>
+<li><b>Eric Chenin</b>, Chef de délégation France au GBIF, UMR UMMISCO, IRD </li>
+<li><b>Frédérique Chlous</b>, Directrice Générale Déléguée à la Recherche, à l'Expertise, à la Valorisation et à l'Enseignement, MNHN </li>
+<li><b>Jean-Christophe Desconnets</b>, Directeur MSO, IRD </li>
+<li><b>François Dusoulier</b>, Délégué aux infrastructures de recherche sur les collections, MNHN </li>
+<li><b>Pascale Garcia</b>, Chargée de mission Biodiversité, Service Stratégie de la DGRI, MESR </li>
+<li><b>Philippe Grandcolas</b>, Directeur adjoint Scientifique, CNRS Écologie et Environnement, Vice-Président comité scientifique GBIF </li>
+<li><b>François Hissel</b>, Directeur de la surveillance, de l'évaluation et des données, OFB </li>
+<li><b>Emmanuel Pasco-Viel</b>, Chef du bureau Politique de la biodiversité, Direction de l'Eau et de la Biodiversité, MTECT </li>
+<li><b>Laurent Poncet</b>, Co-Directeur de l'UAR PatriNat </li>
+<li><b>Natalie Poulet</b>, Adjointe au Chef du bureau Politique de la biodiversité, Direction de l’Eau et de la Biodiversité, MTECT </li>
+<li><b>Anne Puech</b>, Cheffe du département de SSRI A1 - Secteur environnement, agronomie, écologie, sciences du système terre et de l'univers de la DGRI, MESR </li>
+<li><b>François Sabot</b>, MSO IRD </li>
+<li><b>Nirmala Séon-Massin</b>, Directrice de l’Expertise, MNHN </li>
+<li><b>Régine Vignes-Lebbe</b>, Professeur Sorbonne Université UFR 918, coordinatrice scientifique GBIF France </li>
+</ul> 
+</details>
 
 ## Missions
 - Faire connaître le GBIF et ses activités en France;

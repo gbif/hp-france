@@ -16,7 +16,7 @@ navbar:        # What color should the navbar be?
   floating: true
 cta:
   - text: |
-          <span style="color: darkgrey!important;"> Agenda &nbsp;</span><img src="assets/images/icons/calendrier.png" alt="calendrier" style="height: 40px;"/>
+          <span style="color: #989898!important;"> Agenda &nbsp;</span><img src="assets/images/icons/calendrier2.png" alt="calendrier" style="height: 40px;"/>
     href: /calendrier/
 composition:
   - type: heroImage
