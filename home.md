@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: GBIF France
 description: |
-  Le GBIF France a pour vocation de rassembler toutes les données de biodiversité collectées par les acteurs français, sur ou en dehors du territoire national, afin de les mettre à disposition sur le GBIF international.
+  Le GBIF France a pour vocation de mettre à disposition du GBIF international toutes les données de biodiversité collectées par les acteurs français, sur ou en dehors du territoire national.
 
   Le GBIF France s'appuie sur trois dispositifs principaux : <br> Le [SINP](https://inpn.mnhn.fr/informations/sinp/presentation){:target="_blank"}, [Récolnat](https://recolnat.fr/fr){:target="_blank"} et le [PNDB](https://www.pndb.fr/fr/){:target="_blank"}
 background: assets/images/placeholders/accueil4.jpg
@@ -16,7 +16,7 @@ navbar:        # What color should the navbar be?
   floating: true
 cta:
   - text: |
-          <span style="color: darkgrey!important;"> Agenda &nbsp;</span><img src="assets/images/icons/calendrier.png" alt="calendrier" style="height: 40px;"/>
+          <span style="color: #989898!important;"> Agenda &nbsp;</span><img src="assets/images/icons/calendrier2.png" alt="calendrier" style="height: 40px;"/>
     href: /calendrier/
 composition:
   - type: heroImage

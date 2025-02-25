@@ -29,9 +29,10 @@ Les données ainsi partagées, sous forme structurée, sont particulièrement ut
 
 ### INPN et OpenObs
 
-Plateforme de référence sur l'état et la conservation de la biodiversité et de la géodiversité française, en métropole et outre-mer, le [portail de l'Inventaire national du patrimoine naturel (INPN)](https://inpn.mnhn.fr/accueil/index){:target="_blank"} diffuse et valorise les données sur les espèces (faune, flore, fonge), les habitats, les espaces protégés et le patrimoine géologique.
 
-[OpenObs](https://openobs.mnhn.fr/){:target="_blank"} est l'outil qui assure les fonctions de diffusion de données de la plateforme nationale du SINP. En cela, il répond au projet de « Requêteur National sur les données biodiversité » qui a pour objet la mise en place d'un outil web d'interrogation multicritères permettant la visualisation, l'exploration, la validation et le téléchargement de données d'observation d'espèces. OpenObs est basé sur les modules d'[Atlas of Living Australia](https://www.ala.org.au/){:target="_blank"}, portés par le collectif [Living Atlases](https://living-atlases.gbif.org/){:target="_blank"}, au sein de la communauté GBIF.
+L’Inventaire national du patrimoine naturel (INPN) est la plateforme de référence sur l’état et la conservation de la biodiversité et de la géodiversité française, en métropole et outre-mer aussi bien sur le terrestre que le marin. Le [site de l’INPN](https://inpn.mnhn.fr/accueil/index){:target="_blank"} diffuse et valorise les connaissances concernant les espèces (faune, flore, fonge), les milieux naturels et les habitats, les espaces protégés et le patrimoine géologique. Ces données de référence, validées par des réseaux d'experts, sont mises à la disposition de tous, professionnels, décideurs et citoyens. L’INPN constitue la plateforme nationale du [système d’information de l’inventaire du patrimoine naturel (SINP)](https://inpn.mnhn.fr/informations/sinp/presentation){:target="_blank"}.
+
+[OpenObs](https://openobs.mnhn.fr/){:target="_blank"} est un outil de l’écosystème INPN dédié à la diffusion de données d’observation sur les espèces. Il permet notamment la visualisation, l’exploration et le téléchargement de données. OpenObs est basé sur les modules d'[Atlas of Living Australia](https://www.ala.org.au/){:target="_blank"}, portés par le collectif [Living Atlases](https://living-atlases.gbif.org/){:target="_blank"}, au sein de la communauté GBIF.
 
 
 ## Infrastructures de recherche
