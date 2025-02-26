@@ -30,9 +30,15 @@ Getting started : https://github.com/gbif/hosted-portals/blob/main/getting-star
   - Dans l'onglet Source Control, on peut voir les fichiers modifiés
   - Ajouter les fichiers à envoyer dans Staged changes
   - Commit & Push
-
   - Une fois qu'on a fini nos modifications, on retourne sur Github, sur la branche créé et on clique sur Compare & Pull request pour mettre les modifications apportées sur la branche master
   - On ajoute des commentaires, on verifie que tous les commits et fichiers modifiés sont ok et on peut merger
+  - À cette étape les changements sont envoyés sur le site  https://france.hp.gbif-staging.org/
+  - Il faut par la suite créer une nouvelle [Release](https://github.com/gbif/hp-france/releases) pour envoyer le changements sur gbif.fr
+  - Pour cela, il faut choisir cliquer sur draft new release, en haut à droite
+  - Associer un nouveau numéro à la release dans choose à tag
+  - Décrire brièvement les changements
+  - Publier la release
+  - Quelques minutes plus tard, les changements seront reflétés sur gbif.fr
 
 # Architecture du projet
 
