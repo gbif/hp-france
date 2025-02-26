@@ -102,6 +102,7 @@ Le fichier contient les informations suivantes:
 # Ajout d'élément sur une page simple et une page complexe
 
 Il y a deux types de pages préconstruites dans le hosted portal. Les pages simples et les pages complexes. La page d'accueil et la page a propos/GBIF.org sont des pages complexes, le reste étant des pages simple.
+## Pages simples
 Les pages simple comporte les éléments suivants: 
 - title: Le titre
 - layout: post (laisser la valeur par défaut)
@@ -110,5 +111,11 @@ Les pages simple comporte les éléments suivants:
 - imageLicense:  L'autorat de l'image
 - height: 70vh
 - toc: true si l'on veut voir apparaitre l'index interactif à droite
-Ces éléments sont suivis du contenu de la page, écris en md
+Ces éléments sont suivis du contenu de la page, écris en markdown ou en HTML
+Note: ces deux languages ne se mélangent pas
+## Pages complexes
+Contrairement aux pages simple, les pages complexes peuvent contenir plusieurs blocs de nature et disposition différentes. Ces blocs sonr défini dans un fichier .yml dans le dossier _data
+La page d'accueil est un exemple de page complexe
+
+
 
