@@ -33,7 +33,7 @@ Getting started : https://github.com/gbif/hosted-portals/blob/main/getting-star
   - Une fois qu'on a fini nos modifications, on retourne sur Github, sur la branche créé et on clique sur Compare & Pull request pour mettre les modifications apportées sur la branche master
   - On ajoute des commentaires, on verifie que tous les commits et fichiers modifiés sont ok et on peut merger
   - À cette étape les changements sont envoyés sur le site  https://france.hp.gbif-staging.org/
-  - Il faut par la suite créer une nouvelle [Release](https://github.com/gbif/hp-france/releases) pour envoyer le changements sur gbif.fr
+  - Il faut par la suite créer une nouvelle [release](https://github.com/gbif/hp-france/releases) pour envoyer le changements sur gbif.fr
   - Pour cela, il faut choisir cliquer sur draft new release, en haut à droite
   - Associer un nouveau numéro à la release dans choose à tag
   - Décrire brièvement les changements
@@ -48,6 +48,8 @@ Getting started : https://github.com/gbif/hosted-portals/blob/main/getting-star
   - Dossier _post/ :
     - Contient la listes des actualités
     - Pour ajouter une actualité : ajouter un fichier .md en mettant bien comme nom de fichier la yyyy-mm-dd-nom-de-l-actualite.md et en suivant les memes entêtes pour le contenu que sur les autres pages
+  - Dossier events/ :
+    - Contient la listes des éléments de l'agenda
   - Dossier _sass :
     - Contient le css, le style du site
   - Dossier assets/ :
@@ -108,4 +110,5 @@ Les pages simple comporte les éléments suivants:
 - imageLicense:  L'autorat de l'image
 - height: 70vh
 - toc: true si l'on veut voir apparaitre l'index interactif à droite
+Ces éléments sont suivis du contenu de la page, écris en md
 
