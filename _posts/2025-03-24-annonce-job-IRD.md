@@ -19,7 +19,7 @@ L'IRD recherche un ou une Ingénieur(e) en ingénierie logicielle pour la mise e
 - Priorité aux candidatures en emploi local
 
 ## La mission prévue
-L’ingénieur sera en charge du pilotage et de la mise en œuvre du portail de données de biodiversité de Nouvelle-Calédonie pour le Consortium pour la Recherche, l’Enseignement Supérieur et l’innovation (CRESICA) du territoire. Le portail, basé sur les outils open source de l’Altas of the Living Australia (ALA) – briques logicielles constituantes des outils du GBIF, formera un hub d’accès aux jeux de données de collection ou d’observation sur la biodiversité de Nouvelle-Calédonie.
+L’ingénieur sera en charge du pilotage et de la mise en œuvre du portail de données de biodiversité de Nouvelle-Calédonie pour le Consortium pour la Recherche, l’Enseignement Supérieur et l’innovation (CRESICA) du territoire. Le portail, basé sur les outils open source de l’Atlas of Living Australia (ALA) – briques logicielles constituantes des outils du GBIF, formera un hub d’accès aux jeux de données de collection ou d’observation sur la biodiversité de Nouvelle-Calédonie.
 
 Sous la responsabilité de Sylvie Fiat, Cheffe de projet / experte en ingénierie logicielle et gestion des données de recherche, vos activités seront les suivantes :
 
