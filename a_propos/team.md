@@ -43,6 +43,8 @@ _CDD MNHN_
 _CDD MNHN_
 - Responsable communication/valorisation/GRSciColl
 - Membre du sous-comité 'Fundraising and Partnerships' du TDWG
+- Membre de la Commission Internationale de Nomenclature Zoologique
+- Membre du groupe de maintien du standard Latimer Core
 
 ## Représentation française et coordination scientifique
 
