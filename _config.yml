@@ -108,3 +108,7 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+
+siteMeasurements:
+  enable: true
+  termsVersion: "2021-07-06"
