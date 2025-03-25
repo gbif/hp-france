@@ -108,3 +108,9 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+
+matomo:
+  enabled: true
+  url: "https://matomo.mnhn.fr/"
+  container: "container_ilj7ZJkf.js" 
+  siteId: "112"

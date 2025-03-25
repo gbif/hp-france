@@ -1,5 +1,4 @@
 ---
-lang-ref: home
 layout: home
 title: GBIF France
 description: |

@@ -20,7 +20,7 @@ stats:
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=PF&countriesOfResearcher=GP&countriesOfResearcher=MQ&countriesOfResearcher=GF&countriesOfResearcher=BL&countriesOfResearcher=RE&countriesOfResearcher=MF&countriesOfResearcher=PM&countriesOfResearcher=WF&countriesOfResearcher=NC&countriesOfResearcher=TF&countriesOfResearcher=YT&countriesOfResearcher=FR&peerReview=true">100,000</span>
       description: Publications revues par les pairs, d'auteur(s) français utilisant les données du GBIF 
       background: /assets/images/icons/literatures2.png
-      href: /literature/search?contentType=literature&countriesOfResearcher=PF&countriesOfResearcher=GP&countriesOfResearcher=MQ&countriesOfResearcher=GF&countriesOfResearcher=BL&countriesOfResearcher=RE&countriesOfResearcher=MF&countriesOfResearcher=PM&countriesOfResearcher=WF&countriesOfResearcher=NC&countriesOfResearcher=TF&countriesOfResearcher=YT&countriesOfResearcher=FR&literatureType=journal&peerReview=true&relevance=GBIF_USED
+      href: /literature/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=PF&countriesOfResearcher=GP&countriesOfResearcher=MQ&countriesOfResearcher=GF&countriesOfResearcher=BL&countriesOfResearcher=RE&countriesOfResearcher=MF&countriesOfResearcher=PM&countriesOfResearcher=WF&countriesOfResearcher=NC&countriesOfResearcher=TF&countriesOfResearcher=YT&countriesOfResearcher=FR&peerReview=true
 
 important:
   reverse: false
