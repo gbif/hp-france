@@ -1,0 +1,13 @@
+{% if site.matomo.enabled %}
+    <!-- Matomo Tag Manager -->
+    <script>
+        var _mtm = window._mtm = window._mtm || [];
+        _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+        (function() {
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.async=true; g.src='{{ site.matomo.url }}js/{{ site.matomo.container }}';
+            s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <!-- End Matomo Tag Manager -->
+{% endif %}
