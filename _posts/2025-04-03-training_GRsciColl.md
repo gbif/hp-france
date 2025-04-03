@@ -10,7 +10,6 @@ lang: fr
 imageLicense: GRSciColl, secrétariat du GBIF.
 ---
 <style> .feature-img img {background-color: white; object-fit: contain }> </style>
-
 Si vous êtes déjà éditeur pour GRSciColl ou si vous souhaitez le devenir, vous êtes invité à participer à notre cours en ligne.
 
 Ce cours a pour but de soutenir la communauté qui gère les données des collections dans GRSciColl. Il donne un aperçu de la structure des données et de la relation avec les données du GBIF, explique le système d'autorisation de GRSciColl et en présente l'interface d'édition A l'issue du cours, les participants devraient être en mesure de modéliser et de mettre à jour les informations sur les collections dans GRSciColl. 
