@@ -10,7 +10,6 @@ lang: fr
 imageLicense: TDWG
 ---
 <style> .feature-img img {background-color: white; object-fit: contain }> </style>
-
 Les groupes d'intérêt et les groupes de travail sont la force motrice du développement et du maintien des standards TDWG, et la participation est le facteur essentiel qui confère aux standards TDWG une autorité dans la science ouverte. La communauté des informaticiens de la biodiversité s'agrandissant chaque année, le TDWG organise des sessions de travail virtuelles d'introduction du **14 au 25 avril** 2025 pour :
 
 - informer l'ensemble de la communauté de l'information sur la biodiversité des travaux en cours pour développer et maintenir les standards ;
