@@ -127,15 +127,15 @@ Si le type est lié à des données: exemples.stories par exemple, il va aller r
 Plus d'information sur les type et data et leurs utilités sur la page complex.md 
 
 # Le CSS
--Le CSS se gère essentiellmeent dans le fichier sass main.scss
--La commande !important permet d'écraser les ordres par défaut des HP.
--Des éléments supplémentaires sont accessibles dans config.yml
+- Le CSS se gère essentiellmeent dans le fichier sass main.scss
+- La commande !important permet d'écraser les ordres par défaut des HP.
+- Des éléments supplémentaires sont accessibles dans config.yml
 
 # Les images
 Les images et documents sont rangés dans le dossier assets
 
--fichers contient les PDF
--Images contients les images (quelle surprise !)
--Logo contient les logos (y compris ceux du bas de page d'accueil)
+- fichers contient les PDF
+- Images contients les images (quelle surprise !)
+- Logo contient les logos (y compris ceux du bas de page d'accueil)
 
 
