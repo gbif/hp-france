@@ -120,18 +120,18 @@ La page d'accueil est un exemple de page complexe
  - type: stats : statistiques piochées dans le fichier home section stats
  - actualités entrées par le GBIF France : type: latestPost
  - actualités réccupérées sur le gbif.org : type:stories
- - Élément occupant la moitié de la page en verical: type: split
+ - éléments occupants la moitié de la page en verical: type: split
  
 Il faut donc rajouter une section type pour ajouter une nouvelle section.
 Si le type est lié à des données: exemples.stories par exemple, il va aller récupérer les informations du fichier home.yml (du dossier _data), sur la section stories
 Plus d'information sur les type et data et leurs utilités sur la page complex.md 
 
-## Le CSS
+# Le CSS
 Le CSS se gère essentiellmeent dans le fichier sass main.scss
 La commande !important permet d'écraser les ordres par défaut des HP.
 Des éléments supplémentaires sont accessibles dans config.yml
 
-## Les images
+# Les images
 Les images et documents sont rangés dans le dossier assets
 
 fichers contient les PDF
