@@ -2,7 +2,7 @@
 [![Build Status](https://builds.gbif.org/job/hp-france/badge/icon)](https://builds.gbif.org/job/hp-france/lastBuild/console)
 <!-- License badge example: [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
-# GBIF Hosted Portal: france
+# GBIF Hosted Portal: France
 
 This Jekyll website, **[france (Staging)](https://france.hp.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
@@ -59,18 +59,9 @@ Getting started : https://github.com/gbif/hosted-portals/blob/main/getting-star
  Par exemple le fichier search.md dans le dossier occurrence, sera la page présente à cette url : url_du_site/occurrence/search/
  Voir la [documentation](https://jekyllrb.com/docs/pages/) pour l'ajout de pages.
 
- # Ajout de nouvelles section dans la page d'accueil
+# La page d'accueil
 
  La page d'accueil correspond au fichier home.md
- Dans la partie composition, il y a des 'type' qui correspondent aux différentes sections 
-  - image de fond : type: heroimage
-  - actualités entrée par le GBIF France : type: stats
-  - actualités réccupérées sur le gbif.org : type: latestPost
-  - ... cf compex.md pour explication des différents types
-    
-Il faut donc rajouter une section type pour ajouter une nouvelle section.
-Si le type à une data: exemples.stories par exemple, il va venir réccupérer les informations du fichier home.yml (du dossier _data), sur la section stories
-Plus d'information sur les type et data et leurs utilités sur la page complex.md 
 
 # Ajout d'une news
 
@@ -88,7 +79,7 @@ Le fichier contient les informations suivantes:
 - lang: laisser fr
 - imageLicense: L'autorat de l'image
 
-# Ajout d'élément sur le calendrier
+# Ajout d'éléments sur le calendrier
 
 Pour ajouter une news sur le calendrier il faut ajouter un fichier .md dans le dossier _events
 Le nom de fichier commence par la date et et suivi par le titre.
@@ -99,9 +90,10 @@ Le fichier contient les informations suivantes:
 - event_date_end: La date de fin de l'évenement **(exclue, donc j+1)** au format AAAA-MM-JJ
 - url_post: Le lien vers le post correspondant (facultatif)
 
-# Ajout d'élément sur une page simple et une page complexe
+# Ajout d'éléments sur une page simple et une page complexe
 
 Il y a deux types de pages préconstruites dans le hosted portal. Les pages simples et les pages complexes. La page d'accueil et la page a propos/GBIF.org sont des pages complexes, le reste étant des pages simple.
+
 ## Pages simples
 Les pages simple comporte les éléments suivants: 
 - title: Le titre
@@ -113,9 +105,37 @@ Les pages simple comporte les éléments suivants:
 - toc: true si l'on veut voir apparaitre l'index interactif à droite
 Ces éléments sont suivis du contenu de la page, écris en markdown ou en HTML
 Note: ces deux languages ne se mélangent pas
+
 ## Pages complexes
 Contrairement aux pages simple, les pages complexes peuvent contenir plusieurs blocs de nature et disposition différentes. Ces blocs sonr défini dans un fichier .yml dans le dossier _data
 La page d'accueil est un exemple de page complexe
+- layout: home (laisser la valeur par défaut)
+- background: L'image d'illustration
+- title: Le titre
+- description: Le sous titre descriptif qui apparait sur l'image
+- imageLicense:  L'autorat de l'image
 
+ Dans la partie composition, il y a des 'type' qui correspondent aux différentes sections 
+ - image de fond : type: heroimage
+ - type: stats : statistiques piochées dans le fichier home section stats
+ - actualités entrées par le GBIF France : type: latestPost
+ - actualités réccupérées sur le gbif.org : type:stories
+ - Élément occupant la moitié de la page en verical: type: split
+ 
+Il faut donc rajouter une section type pour ajouter une nouvelle section.
+Si le type est lié à des données: exemples.stories par exemple, il va aller récupérer les informations du fichier home.yml (du dossier _data), sur la section stories
+Plus d'information sur les type et data et leurs utilités sur la page complex.md 
+
+## Le CSS
+Le CSS se gère essentiellmeent dans le fichier sass main.scss
+La commande !important permet d'écraser les ordres par défaut des HP.
+Des éléments supplémentaires sont accessibles dans config.yml
+
+## Les images
+Les images et documents sont rangés dans le dossier assets
+
+fichers contient les PDF
+Images contients les images (quelle surprise !)
+Logo contient les logos (y compris ceux du bas de page d'accueil)
 
 
