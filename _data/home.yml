@@ -39,7 +39,9 @@ important2:
   reverse: true
   title: Troisième appel à communications pour des data papers autour des vecteurs de maladies humaines 
   description: |      # required
-   TDR, GigaScience Press et le GBIF renouvellent leur partenariat pour un numéro spécial axé sur la publication de nouveaux jeux de données qui fournissent des données sur la biodiversité pour la recherche sur les vecteurs de maladies humaines.
+   **Date limite le 6 juin**
+   
+    TDR, GigaScience Press et le GBIF renouvellent leur partenariat pour un numéro spécial axé sur la publication de nouveaux jeux de données qui fournissent des données sur la biodiversité pour la recherche sur les vecteurs de maladies humaines.
   # img required
   background: /assets/images/news/mosquito.jpg
   overlayColor: "#000033"
