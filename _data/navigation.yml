@@ -55,6 +55,8 @@
     href: a_propos/GBIF-France 
   - text: L'équipe
     href: a_propos/team
+  - text: Nos services
+    href: a_propos/nos-services  
   - text: PatriNat
     href: a_propos/patrinat
   - text: TDWG-Darwin Core
