@@ -13,9 +13,9 @@ composition:
   - data: objectif_GBIF.objectif_GBIF
     type: features 
 ---
-<style> .feature-img img {background-color: white; object-fit: contain }> </style>
-<style> .floatingHero.hasWhiteText.not-full-height.overlay {  width: 50%; height: auto;   margin-left: auto; margin-right: auto;}> </style>
-<style> .floatingHero .feature-title {visibility: hidden; }> </style>
+<style> .feature-img img {background-color: #fffcf5 ; object-fit: contain }> </style>
+<style> .floatingHero.hasWhiteText.not-full-height.overlay {  width: 65%; height: auto;  margin-left: auto; margin-right: auto;}> </style>
+<style> .floatingHero .feature-title {color:black!important; margin-bottom: 65%!important; }> </style>
 
 # À propos
 _Qu'est-ce que le GBIF ?_ 

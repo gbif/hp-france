@@ -1,13 +1,13 @@
 ---
 preTitle: 17 juin 2025
-title:  "Le guide pour la publication des données d'enquêtes biologiques au GBIF est ouvert à la consultation de la communauté"
+title:  "Le guide pour la publication des données de suivi et de monitoring de la biodiversité est ouvert à la consultation de la communauté"
 description: "_Date limite pour les contributions de la communauté : 20 juillet 2025_"
 date:   2025-06-17
-categories: ["GBIF","écologie","enquête","communauté","guide"]
+categories: ["GBIF","écologie","monitoring","communauté","guide"]
 background: assets/images/news/guide_ecologie.png
 thumbnail: assets/images/news/guide_ecologie.png
 lang: fr
-imageLicense: 
+imageLicense: GBIF Secretariat
 ---
 
 ## Guide for Publishing Biological Survey Data to GBIF
@@ -22,7 +22,7 @@ Les membres de la communauté souhaitant contribuer au processus d'évaluation p
 
 Pour apporter des suggestions en tant qu'évaluateur, nous demandons aux membres de la communauté de
 - Créer un compte GitHub (voir la vidéo « [Comment faire](https://vimeo.com/430640810){:target="_blank"} »).
-- Examiner le document [Guide pour la publication de données d'enquêtes biologiques au GBIF](https://docs.gbif-uat.org/guide-publishing-survey-data/en/){:target="_blank"}.
+- Examiner le document [Guide pour la publication de données de suivi et de monitoring de la biodiversité](https://docs.gbif-uat.org/guide-publishing-survey-data/en/){:target="_blank"}.
 - Enregistrer vos suggestions en créant ou en commentant des problèmes sur GitHub (voir la vidéo « [Comment faire](https://vimeo.com/430632177){:target="_blank"} »).
 - Lancez, suivez et soutenez des discussions sur le forum communautaire du GBIF.
 

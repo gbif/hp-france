@@ -41,8 +41,8 @@ _CDD MNHN_
 
 ### [Elie Mario Saliba](https://www.patrinat.fr/fr/annuaire/elie-saliba-7239){:target="_blank"}
 _CDD MNHN_
-- Responsable communication/valorisation/GRSciColl
-- Membre du sous-comité 'Fundraising and Partnerships' du TDWG
+- Responsable communication/valorisation/GRSciColl France
+- Vice-président du sous-comité 'Fundraising and Partnerships' du TDWG
 - Membre de la Commission Internationale de Nomenclature Zoologique
 - Membre du groupe de maintien du standard Latimer Core
 

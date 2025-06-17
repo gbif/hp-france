@@ -7,7 +7,7 @@ categories: ["GBIF","vecteurs","enquête","communauté","guide","zoonose"]
 background: assets/images/news/vecteurs.png
 thumbnail: assets/images/news/vecteurs.png
 lang: fr
-imageLicense: 
+imageLicense: GBIF Secretariat
 ---
 
 ## Guide for publishing data on disease vectors, hosts and pathogens through biodiversity data platforms
@@ -20,7 +20,7 @@ Les membres de la communauté souhaitant contribuer au processus d'évaluation p
 
 Pour apporter des suggestions en tant qu'évaluateur, nous demandons aux membres de la communauté de
 - Créer un compte GitHub (voir la vidéo « [Comment faire](https://vimeo.com/430640810){:target="_blank"} »).
-- Examiner le document [Guide pour la Publication de données sur les vecteurs, les hôtes et les agents pathogènes des maladies par l'intermédiaire de plateformes de données sur la biodiversité](https://doi.org/10.35035/doc-mjj8-ng28){:target="_blank"}.
+- Examiner le document [Guide pour la publication de données sur les vecteurs, les hôtes et les agents pathogènes des maladies par l'intermédiaire de plateformes de données sur la biodiversité](https://doi.org/10.35035/doc-mjj8-ng28){:target="_blank"}.
 - Enregistrer vos suggestions en créant ou en commentant des problèmes sur GitHub (voir la vidéo « [Comment faire](https://vimeo.com/430632177){:target="_blank"} »).
 - Lancez, suivez et soutenez des discussions sur le forum communautaire du GBIF.
 
