@@ -68,7 +68,7 @@ Nous nous engageons dans l'ouverture des sciences à tous à travers les :
 
 ## 5. Soutien communautaire à l'international
 
-- **Soutien francophone international** : Le GBIF France a un rôle d'assistance à la mise en place de points nodaux dans des pays comme Madagascar, le Sénégal ou le Bénin. Le GBIF France héberge aussi des portails pour d'autres pays. 
+- **Soutien francophone international** : Le GBIF France offre un soutien technique et héberge des portails pour d'autres pays, notamment en Afrique francophone. 
 - **Participation aux CESP et aux BID** : Le GBIF France est partenaire de nombreux projets autour des données de biodiversité à l’étranger. Il fournit un appui technique dans la structuration, standardisation, mise en ligne, valorisation et réutilisation des données, ainsi que des recommandations et bonnes pratiques à toutes ces étapes. 
 
 [Pour en savoir plus](../../communaute/projets/){:target="_blank"}
