@@ -37,18 +37,17 @@ important:
     isPrimary: true
 important2:
   reverse: true
-  title: Troisième appel à communications pour des data papers autour des vecteurs de maladies humaines 
+  title: Présentation du Darwin Core Data Package 
   description: |      # required
-   **Date limite le 6 juin**
-   
-    TDR, GigaScience Press et le GBIF renouvellent leur partenariat pour un numéro spécial axé sur la publication de nouveaux jeux de données qui fournissent des données sur la biodiversité pour la recherche sur les vecteurs de maladies humaines.
+   Ce webinaire (en anglais) introduit les changements que le GBIF souhaite proposer pour l'amélioration du vocabulaire du Darwin Core. 
+  
   # img required
-  background: /assets/images/news/mosquito.jpg
+  background: assets/logo/logo_gbif-int.png
   overlayColor: "#000033"
-  href: https://www.gbif.org/news/70AuWTs68FiGEZEyALB1TV/third-call-for-data-papers-describing-datasets-on-vectors-of-human-diseases "target='_blank'"
+  href: https://www.gbif.org/composition/3Be8w9RzbjHtK2brXxTtun/introducing-the-darwin-core-data-package "target='_blank'"
   cta:
   - text: En savoir plus
-    href: https://www.gbif.org/news/70AuWTs68FiGEZEyALB1TV/third-call-for-data-papers-describing-datasets-on-vectors-of-human-diseases "target='_blank'"
+    href: https://www.gbif.org/composition/3Be8w9RzbjHtK2brXxTtun/introducing-the-darwin-core-data-package "target='_blank'"
     isPrimary: true
 important3:
   reverse: false
