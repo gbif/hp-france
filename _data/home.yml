@@ -37,17 +37,17 @@ important:
     isPrimary: true
 important2:
   reverse: true
-  title: Présentation du Darwin Core Data Package 
+  title: Présentation de nos services
   description: |      # required
-   Ce webinaire (en anglais) introduit les changements que le GBIF souhaite proposer pour l'amélioration du vocabulaire du Darwin Core. 
+   Le GBIF France propose une variétés de services, de l'aide technique à la formation. Pour vous familiarisez avec notre offre d'accompagnement, n'hésitez pas à consulter notre page dédiée.
   
   # img required
-  background: assets/logo/logo_gbif-int.png
+  background: assets/logo/logo_gbif_dezoom.png
   overlayColor: "#000033"
-  href: https://www.gbif.org/composition/3Be8w9RzbjHtK2brXxTtun/introducing-the-darwin-core-data-package "target='_blank'"
+  href: a_propos/nos-services
   cta:
   - text: En savoir plus
-    href: https://www.gbif.org/composition/3Be8w9RzbjHtK2brXxTtun/introducing-the-darwin-core-data-package "target='_blank'"
+    href: a_propos/nos-services
     isPrimary: true
 important3:
   reverse: false
@@ -61,4 +61,18 @@ important3:
   cta:
   - text: En savoir plus
     href: post/2025/cesab-2/
+    isPrimary: true
+important4:
+  reverse: true
+  title: Présentation du Darwin Core Data Package 
+  description: |      # required
+   Ce webinaire (en anglais) introduit les changements que le GBIF souhaite proposer pour l'amélioration du vocabulaire du Darwin Core. 
+  
+  # img required
+  background: assets/logo/logo_gbif-int.png
+  overlayColor: "#000033"
+  href: https://www.gbif.org/composition/3Be8w9RzbjHtK2brXxTtun/introducing-the-darwin-core-data-package "target='_blank'"
+  cta:
+  - text: En savoir plus
+    href: https://www.gbif.org/composition/3Be8w9RzbjHtK2brXxTtun/introducing-the-darwin-core-data-package "target='_blank'"
     isPrimary: true

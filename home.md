@@ -31,6 +31,8 @@ composition:
     data: home.important2
   - type: split
     data: home.important3
+  - type: split
+    data: home.important4
 #  - type: features
 #    data: calendar
   
