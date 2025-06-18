@@ -39,6 +39,8 @@ __CESP__ : _Capacity Enhancement Support Programme_. Un ensemble de programmes v
 
 __Darwin Core__ : Standard de d'échange de données de biodiversité maintenu par la TDWG. C'est le standard principal utilisé par le GBIF. [Voir la page dédiée](../../a_propos/tdwg_dwc).
 
+__DOI__ :  _Digital Object Identifier_. Le DOI est un identifiant numérique unique, immuable et pérenne attribué aux articles, livres, jeux de données et autres travaux en ligne, afin d'en garantir l'accès dans le temps.
+
 __DwC__ : _Darwin Core_.
 
 __DwC-A__ : _Archive Darwin Core_. Un format de fichier qui utilise les termes dU Darwin Core pour produire un ensemble de données unique et autonome permettant de partager des données au niveau taxonomique, des données d'occurrence  ou des données sur les événements d'échantillonnage. C'est le format privilégié pour la publication des données dans le réseau GBIF.
@@ -56,7 +58,7 @@ __GBIF__ : _Global Biodiversity Index Facility_. Système mondial d’informatio
 
 __GBIF France__ : nom porté par le point nodal français du GBIF. [Voir la page dédiée](../../a_propos/GBIF-France/).
 
-__Gouverning Board__ (du GBIF) : Conseil d'administration du GBIF. Il est le moyen par lequel les membres du GBIF prennent collectivement des décisions. Se réunissant une fois par an, il est composé d'un représentant pour chaque pays ou organisation participante.
+__Governing Board__ (du GBIF) : Conseil d'administration du GBIF. Il est le moyen par lequel les membres du GBIF prennent collectivement des décisions. Se réunissant une fois par an, il est composé d'un représentant pour chaque pays ou organisation participante.
 
 __GRSciColl__ : _Global Registry of Scientific Collections_. Plateforme participative recensant les collections scientifiques du monde. GrSciColl est géré par le GBIF. Le GBIF France est l'interlocuteur privilégié pour les institutions et les collections françaises. [Voir la page dédiée](../../communaute/grscicoll/).
 
@@ -104,7 +106,7 @@ __Référentiel taxonomique__ :  Catalogue des taxons acceptés et noms scientif
 
 __SPNHC__ : _Society for the Preservation of Natural History Collections_. Organisation internationale qui se consacre à la préservation, à la conservation et à l'échange autour de la gestion des collections d'histoire naturelle.
 
-__Standard__ : Notion quelque fois difficile à définir. En pratique dans le cadre du GBIF, il s'agit d'une norme mise en place pour l'échange de données et de métadonnées. Le standard principal utilisé pour l'échange de données par le GBIF est le Darwin Core, accompagné par l'EML pour l'échange de métadonnées. 
+__Standard__ : Dans le cadre du GBIF, il s'agit d'une norme mise en place pour l'échange de données et de métadonnées. Le standard principal utilisé pour l'échange de données par le GBIF est le Darwin Core, accompagné par l'EML pour l'échange de métadonnées. 
 
 ## T
 
