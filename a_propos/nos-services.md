@@ -18,7 +18,7 @@ Le GBIF France propose une gamme de services pour mobiliser, structurer, publier
 
 ## 1. Mobilisation & mise à disposition des données
 
-- **Point nodal national** : Le GBIF France centralise et rend accessibles les données de biodiversité collectées en France métropolitaine et outre-mer.
+- **Point nodal national** : Le GBIF France mobilise et met à disposition du GBIF international toutes les données de biodiversité collectées par les acteurs français, sur ou en dehors du territoire national, et il contribue à l’intégration dans les systèmes d’information nationaux de celles produites par des acteurs étrangers sur le territoire national.
 - **Intégration dans GBIF.org** : Les données sont diffusées à l’échelle mondiale via le portail international [GBIF.org](https://www.gbif.org){:target="_blank"}.
 - **Référent GRSCiColl** : Nous soutenons les institutions françaises, comme les muséums, les universités et les centres de recherche, dans la mise à disposition et l’indexation de leur collections sur le portail [GRSCiColl](https://scientific-collections.gbif.org/){:target="_blank"}.
 
@@ -30,10 +30,17 @@ Le GBIF France propose une gamme de services pour mobiliser, structurer, publier
 
 ## 2. Outils & standards
 
-Nous aidons les fournisseurs de données français à utiliser les outils et standards suivants : 
+Nous aidons les fournisseurs et utilisateurs de données français à utiliser les outils et standards suivants : 
 
 - **IPT (Integrated Publishing Toolkit)** : Outil libre pour publier les données d’occurrences et de taxonomie.
 - **MDT (Metabarcoding Data Toolkit)** : Outil pour la publication de données issues de l’ADN environnemental (ADNe).
+- **GBIF Data Validator**
+- **API GBIF**
+- **RGBIF** : Une interface vers l'API du GBIF pour l'environnement de programmation statistique R
+- **PyGBIF** : Client Python pour l'API GBIF 
+
+[Pour accéder aux outils](https://www.gbif.org/resource/search?contentType=tool){:target="_blank"}
+
 
 - **Darwin Core** : Standard pour compiler des données sur la biodiversité provenant de sources variées et hétérogènes. [Pour plus de détails](../tdwg_dwc/){:target="_blank"}
 - **Extensions Darwin Core** : Standards pour enrichir les données (événements d’échantillonnage, géoréférencement, etc.).
@@ -68,7 +75,7 @@ Nous nous engageons dans l'ouverture des sciences à tous à travers les :
 
 ---
 
-## 5. Soutien communautaire à l'international
+## 5. Projets internationaux et appui au Sud
 
 - **Soutien francophone international** : Le GBIF France offre un soutien technique et héberge des portails pour d'autres pays, notamment en Afrique francophone. 
 - **Participation aux projets internationaux GBIF** : Le GBIF France est partenaire de nombreux projets autour des données de biodiversité à l’étranger. Il fournit un appui technique dans la structuration, standardisation, mise en ligne, valorisation et réutilisation des données, ainsi que des recommandations et bonnes pratiques à toutes ces étapes. 
@@ -80,7 +87,7 @@ Nous nous engageons dans l'ouverture des sciences à tous à travers les :
 ## 6. Recherche & valorisation
 
 - **Data papers** : Le GBIF France fournit un appui à la rédaction et publication de data papers pour valoriser les jeux de données.
-- **ATtribution de DOI et veille bibliométrique**: Le GBIF international permet l'attribution d'un DOI aux jeu de données produits, et permet leur valorisation à travers les quantifications bibliométriques. 
+- **Attribution de DOI et veille bibliométrique**: Le GBIF international permet l'attribution d'un DOI aux jeu de données produits, et permet leur valorisation à travers les quantifications bibliométriques. 
 
 [Pour en savoir plus](../../partage_valorisation/data_papers/){:target="_blank"}
 
