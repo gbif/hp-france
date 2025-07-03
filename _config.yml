@@ -44,7 +44,7 @@ plugins:
 
 remote_theme: gbif/jekyll-hp-base-theme
 future: True
-limit_posts: 999
+limit_posts: 9999
 
 # For use by the 'standardPrivacy' layout
 privacy:
