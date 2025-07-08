@@ -25,7 +25,7 @@ Outil de gestion de contenu : Jekyll
 
 Technologies utilisées : HTML / CSS / Javascript / Jekyll / MD
 
-Maintien du portail fraçais : Elie Mario SALIBA
+Maintien du portail français : GBIF France
 
 Loi applicable : L’usage de ce site web est régi par la loi française à l’exception de toute autre législation.
 
