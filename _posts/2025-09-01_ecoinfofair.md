@@ -18,6 +18,3 @@ C'est quoi Galaxy project ?
 - cf. les instances thématiques [Galaxy-ecology](https://ecology.usegalaxy.eu/) et [Galaxy earth system](https://earth-system.usegalaxy.eu/)
 
 Pour toutes informations, veuillez contacter le PNDB : [contact.pndb@mnhn.fr](contact.pndb@mnhn.fr)
-
-
-<style> .feature-img img {background-color: white ; object-fit: contain  }> </style>
