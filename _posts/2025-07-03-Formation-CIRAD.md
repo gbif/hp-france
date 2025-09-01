@@ -1,7 +1,7 @@
 ---
 preTitle: 3 juillet 2025
 title: Formation GBIF France au CIRAD sur les données de biodiversité
-description: "_Date limite pour les inscriptions : TBA_"
+description: "_Inscriptions closes_"
 date: 2025-07-03
 categories: ["GBIF","CIRAD","Formation"]
 background: assets/logo/cirad.jpeg
