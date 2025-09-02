@@ -39,9 +39,10 @@ Vous pourrez retrouver [ici](https://techdocs.gbif.org/en/openapi/){:target="_bl
     <a href="/assets/fichiers/changements_climatiques_et_biodiversite.pdf" target="_blank"><img src="/assets/images/documents/MNHN_CLIMAT_BIODIV.png" width="200" height="300"  alt="Changements climatiques et biodiversité"></a>
 </figure>
 <figure>
-    <a href="https://mnhn.hal.science/mnhn-04296424" target="_blank"><img src="/assets/images/documents/CPR_Patrinat.png" width="200" height="50"  alt="Comprendre, partager, ré-utiliser les données de biodiversité"></a>
+    <a href="https://mnhn.hal.science/mnhn-04296424" target="_blank"><img src="/assets/images/documents/CPR_Patrinat.png" width="200" height="300"  alt="Comprendre, partager, ré-utiliser les données de biodiversité"></a>
 </figure>
 <figure>
-    <a href="https://mnhn.hal.science/PATRINAT/hal-05008115v1" target="_blank"><img src="/assets/images/documents/note_courte_adne.png" width="200" height="50"  alt="Données issues d’ADN environnemental (ADNe): Recommandations pour les partager, les stocker et les diffuser."></a>
+    <a href="https://mnhn.hal.science/PATRINAT/hal-05008115v1" target="_blank"><img src="/assets/images/documents/note_courte_adne.png" width="200" height="300"  alt="Données issues d’ADN environnemental (ADNe): Recommandations pour les partager, les stocker et les diffuser."></a>
 </figure>
+
 
