@@ -12,7 +12,7 @@ Vous pourrez retrouver [ici](https://techdocs.gbif.org/en/openapi/){:target="_bl
 
 ## Revue scientifique du GBIF
 <figure>
-    <a href="https://www.gbif.org/science-review" target="_blank"><img src="/assets/images/documents/SR11.png" width="200" height="300" alt="Revue Scientifique n°10" ></a>
+    <a href="https://www.gbif.org/science-review" target="_blank"><img src="assets/images/documents/SR12.png" width="200" height="300" alt="Revue Scientifique n°12" ></a>
 </figure>
 
 ## Programme de travail et plan stratégique du GBIF
@@ -28,7 +28,7 @@ Vous pourrez retrouver [ici](https://techdocs.gbif.org/en/openapi/){:target="_bl
 
 ## Autres documents
 <figure>
-    <a href="https://www.patrinat.fr/fr/actualites/bilan-dactivite-2022-de-patrinat-et-synthese-2017-2022-7238" target="_blank"><img src="/assets/images/documents/RA_PATRINAT_2022.png" width="200" height="300" style="float:left; margin-right:10px;" alt="Bilan d'activités 2022 de Patrinat"></a>
+    <a href="https://www.patrinat.fr/fr/actualites/le-bilan-dactivite-2024-de-patrinat-est-arrive-7348" target="_blank"><img src="assets/images/documents/RA2024_patrinat.png" width="200" height="300" style="float:left; margin-right:10px;" alt="Bilan d'activités 2024 de Patrinat"></a>
 </figure>
 
 <figure>
@@ -40,4 +40,7 @@ Vous pourrez retrouver [ici](https://techdocs.gbif.org/en/openapi/){:target="_bl
 </figure>
 <figure>
     <a href="https://mnhn.hal.science/mnhn-04296424" target="_blank"><img src="/assets/images/documents/CPR_Patrinat.png" width="200" height="50"  alt="Comprendre, partager, ré-utiliser les données de biodiversité"></a>
+</figure>
+<figure>
+    <a href="https://mnhn.hal.science/PATRINAT/hal-05008115v1" target="_blank"><img src="assets/images/documents/note_courte_adne.png" width="200" height="50"  alt="Données issues d’ADN environnemental (ADNe): Recommandations pour les partager, les stocker et les diffuser."></a>
 </figure>
