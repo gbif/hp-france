@@ -17,7 +17,7 @@ Son rôle sera également d'assurer le suivi des actions liées à la biodiversi
 nationaux tels que le Plan National Biodiversité et le plan pollinisateur. Il contribuera également à des actions au niveau européen et international lors d'événements tels que
 l'IPBES ou la COP Biodiversité.
 
-Plus d'informations et modalités de candidature sur [cette page](https://choisirleservicepublic.gouv.fr/offre-emploi/charge-de-mission--biodiversite--au-departement--environnement-sciences-de-la-terre-et-de-l-univers--reference-2025-2059782/){target="_blank"}.
+Plus d'informations et modalités de candidature sur <a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-de-mission--biodiversite--au-departement--environnement-sciences-de-la-terre-et-de-l-univers--reference-2025-2059782/" target="_blank">cette page</a>.
 
 
 **Date limite de candidature : 30 novembre 2025**
