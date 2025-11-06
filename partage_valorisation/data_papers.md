@@ -64,15 +64,22 @@ Vous trouverez sur <a href="https://www.gbif.org/data-papers" target="_blank">ce
 ## Exemples de data papers
 Vous trouverez ci-dessous une liste de data papers décrivant des jeux de données de biodiversité, dont au moins un auteur est affilié à une institution française. La liste exhaustive est disponible [ici](https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED&countriesOfResearcher=FR) :
 
-<b>2024</b>
+<b>2025</b>
  <ul>
-   <li>Haderlé, R., Bouveret, L., Chazal, J., Girardet, J., Iglésias, S., Lopez, P., Millon, C., Valentini, A., Ung, V., & Jung, J. (2024). eDNA-based survey of the marine vertebrate biodiversity off the west coast of Guadeloupe (French West Indies). <i>Biodiversity Data Journal, 12</i>, Art. e125348. <a href="https://doi.org/10.3897/bdj.12.e125348" target="_blank">https://doi.org/10.3897/bdj.12.e125348</a></li>
+   <li>Marushchak O, Syrota Y, Dmytrieva I, Kuzmin Y, Nechai A, Lisitsyna O, Svitin R (2024) Helminths found in common species of the herpetofauna in Ukraine. <i>Biodiversity Data Journal</i> 12: e113770. <a href="https://doi.org/10.3897/BDJ.12.e113770">https://doi.org/10.3897/BDJ.12.e113770</a>
+</li></ul>
+
+<details>
+  <summary><b>2024</b></summary>
+ <ul>
+   <li>Ollivier M, Rivers-Moore J, Pichon M, Andrieu E, Carrié R, Rudelle R, Sarthou J-P, Ouin A (2024) Wild bees (Apoidea, Anthophila) of south-west France: more than 10 years of inventories in mosaic landscapes of "Vallées et Coteaux de Gascogne" (ZA-PYGAR). <i>Biodiversity Data Journal</i> 12: e135157. <a href="https://doi.org/10.3897/BDJ.12.e135157" target="_blank">https://doi.org/10.3897/BDJ.12.e135157</a></li>
+  <li>Culos M, Ouvrier A, Lerigoleur E, Bitsch S, Dewost M, Guédon A, Guignet J, Le Guével A, Metz A, Vilbert O, Vinette C, Vimal R (2024) Camera-trapping: wild and domestic species occurrences in three Pyrenean pastures. <i>Biodiversity Data Journal</i> 12: e126097.<a href="https://doi.org/10.3897/BDJ.12.e126097">https://doi.org/10.3897/BDJ.12.e126097</a></li>
+   <li>Haderlé, R., Bouveret, L., Chazal, J., Girardet, J., Iglésias, S., Lopez, P., Millon, C., Valentini, A., Ung, V., & Jung, J. (2024). eDNA-based survey of the marine vertebrate biodiversity off the west coast of Guadeloupe (French West Indies). <i>Biodiversity Data Journal</i>, 12, Art. e125348. <a href="https://doi.org/10.3897/bdj.12.e125348" target="_blank">https://doi.org/10.3897/bdj.12.e125348</a></li>
   <li>Pozsgai, G., Lhoumeau, S., Amorim, I. R., Boieiro, M., Cardoso, P., Costa, R., Ferreira, M. T., Leite, A., Malumbres-Olarte, J., Oyarzabal, G., Rigal, F., Ros-Prieto, A., Santos, A. M. C., Gabriel, R., & Borges, P. a. V. (2024). The BALA project: A pioneering monitoring of Azorean forest invertebrates over two decades (1999–2022). <i> Scientific Data, 11</i>(1) <a href="https://doi.org/10.1038/s41597-024-03174-7" target="_blank">https://doi.org/10.1038/s41597-024-03174-7</a></li>
   <li>Gabriel, R., Morgado, L. N., Borges, P. a. V., Coelho, M. C. M., Aranda, S. C., Henriques, D. S. G., Sérgio, C., Hespanhol, H., Pereira, F., Sim-Sim, M., & Ah-Peng, C. (2024). The MOVECLIM – AZORES project: Bryophytes from Pico Island along an elevation gradient. <i>Biodiversity Data Journal, 12,</i> Art. e117890. <a href="https://doi.org/10.3897/BDJ.12.e117890" target="_blank">https://doi.org/10.3897/BDJ.12.e117890</a></li>
   <li>Brown, G. G., Demetrio, W. C., Gabriac, Q., Pasini, A., Korasaki, V., Oliveira, L. J., Santos, J. C. F. D., Torres, E., Galerani, P. R., Gazziero, D. L. P., Benito, N. P., Nunes, D. H., Santos, A., Ferreira, T., Nadolny, H. S., Bartz, M. L. C., Maschio, W., Dudas, R. T., Zagatto, M. R. G., . . . Mathieu, J. (2024). Soil macrofauna communities in Brazilian land-use systems. <i>Biodiversity Data Journal, 12,</i> Art. e115000. <a href="https://doi.org/10.3897/BDJ.12.e115000" target="_blank">https://doi.org/10.3897/BDJ.12.e115000</a></li>
 </ul>
-
-
+</details>
 
 <details>
   <summary><b>2023</b></summary>
@@ -114,4 +121,5 @@ Vous trouverez ci-dessous une liste de data papers décrivant des jeux de donné
 ## Présentation vidéo des data papers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCu9OB27E4M?si=Mou3noznFjxzBzsD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zf2atsO4lFs?si=XXOa299UQHO08qE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
