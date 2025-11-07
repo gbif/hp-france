@@ -21,10 +21,13 @@ Le GBIF France propose une gamme de services pour mobiliser, structurer, publier
 - **Point nodal national** : Le GBIF France mobilise et met à disposition du GBIF international toutes les données de biodiversité collectées par les acteurs français, sur ou en dehors du territoire national, et il contribue à l’intégration dans les systèmes d’information nationaux de celles produites par des acteurs étrangers sur le territoire national.
 - **Intégration dans GBIF.org** : Les données sont diffusées à l’échelle mondiale via le portail international [GBIF.org](https://www.gbif.org){:target="_blank"}.
 - **Référent GRSCiColl** : Nous soutenons les institutions françaises, comme les muséums, les universités et les centres de recherche, dans la mise à disposition et l’indexation de leur collections sur le portail [GRSCiColl](https://scientific-collections.gbif.org/){:target="_blank"}.
+- **Portails hébergés** : Le GBIF met à disposition un nouveau service d'hébergement de portail thématique, institutionnel ou national, les portails hébergés (hosted portals). Le GBIF France utilise ce service pour l'hébergement de son site www.gbif.fr
 
 [Pour en savoir plus sur le GBIF.org](../a-propos){:target="_blank"}
 
 [Pour en savoir plus sur GRSCiColl](../../communaute/grscicoll){:target="_blank"}
+
+[Pour en savoir plus sur les portails hébergés](https://www.gbif.org/hosted-portals){:target="_blank"}
 
 ---
 
