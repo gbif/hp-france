@@ -7,7 +7,7 @@ categories: ["GBIF","MNHN", "Recrutement", "Java"]
 background: assets/logo/logo_MNHN_large.jpg
 thumbnail: assets/logo/logo_MNHN_large.jpg
 lang: fr
-imageLicense: © MNHN
+imageLicense: ©MNHN
 ---
 
 Vous aimez le développement et accordez une grande importance à la biodiversité ? Rejoignez la DINSI du Muséum national d’Histoire naturelle pour une mission majoritairement en détachement auprès de l’organisme PatriNat (MNHN/OFB/CNRS/IRD), qui assure des missions d’expertise et de gestion des connaissances sur la nature. Vous intégrerez une équipe dynamique d’une quinzaine de personnes aux compétences complémentaires, où règnent collaboration et bonne humeur. 
