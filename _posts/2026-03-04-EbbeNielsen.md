@@ -4,10 +4,10 @@ title: "Défi Ebbe Nielsen 2026"
 description: "_Date limite de soumission : 26 juin 2026_"
 date: 2026-03-04
 categories: ["GBIF","Ebbe Nielsen"]
-background: assets/logo/logo_MNHN_large.jpg
-thumbnail: assets/logo/logo_MNHN_large.jpg
+background: assets/images/news/600x300_EN.jpg
+thumbnail: assets/images/news/600x300_EN.jpgg
 lang: fr
-imageLicense: ©MNHN
+imageLicense: ©GBIF
 ---
 
 Le Défi Ebbe Nielsen 2026 du GBIF cherche à mettre en avant des outils novateurs, qui tirent parti des données sur la biodiversité disponibles via le réseau GBIF 
