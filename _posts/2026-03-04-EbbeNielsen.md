@@ -1,6 +1,6 @@
 ---
 preTitle: 04 mars 2026
-title: "Défin Ebbe Nielsen 2026"
+title: "Défi Ebbe Nielsen 2026"
 description: "_Date limite de soumission : 26 juin 2026_"
 date: 2026-03-04
 categories: ["GBIF","Ebbe Nielsen"]
