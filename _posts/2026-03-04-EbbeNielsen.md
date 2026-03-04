@@ -5,7 +5,7 @@ description: "_Date limite de soumission : 26 juin 2026_"
 date: 2026-03-04
 categories: ["GBIF","Ebbe Nielsen"]
 background: assets/images/news/600x300_EN.jpg
-thumbnail: assets/images/news/600x300_EN.jpgg
+thumbnail: assets/images/news/600x300_EN.jpg
 lang: fr
 imageLicense: ©GBIF
 ---
