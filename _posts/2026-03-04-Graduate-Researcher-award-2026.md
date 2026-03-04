@@ -4,10 +4,10 @@ title: "Prix des chercheurs diplômés 2026"
 description: "_Date limite de soumission : 29 mai 2026_"
 date: 2026-03-04
 categories: ["GBIF","Prix des chercheurs diplômés"]
-background: assets/logo/logo_MNHN_large.jpg
-thumbnail: assets/logo/logo_MNHN_large.jpg
+background: assets/images/news/600x300_GR.jpg
+thumbnail: assets/images/news/600x300_GR.jpg
 lang: fr
-imageLicense: ©MNHN
+imageLicense: ©GBIF
 ---
 
 Le Secrétariat du GBIF a ouvert les candidature pour le Prix des chercheurs diplômés 2026. 
