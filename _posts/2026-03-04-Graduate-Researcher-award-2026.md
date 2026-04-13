@@ -23,4 +23,4 @@ Le Secrétariat du GBIF annoncera les gagnants avant la 33e réunion du conseil 
 
 Plus d'informations sur [cette page](https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations) (en anglais).
 
-**Date limite de soummission : 29 mai 2026**
+**Date limite de soummission au GBIF France (gbif_at_gbif.fr) : 18 mai 2026**
