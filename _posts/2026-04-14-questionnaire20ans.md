@@ -16,8 +16,7 @@ Les réponses sont anonymes et seront utilisées uniquement à des fins d’anal
 
 Les premiers résultats de l'enquête seront présentés le 19 juin lors de la journée des 20 ans du GBIF France au Musée de l'Homme. (informations à suivre, réservez la date !)
 
-Voici le lien vers l'enquête, réponses souhaitées _avant le 15 mai 2026_: 
-https://framaforms.org/usages-du-gbif-en-france-1770817050
+Voici [le lien vers l'enquête](https://framaforms.org/usages-du-gbif-en-france-1770817050), réponses souhaitées _avant le 15 mai 2026_.
 
 Nous avons besoin de vos retours pour progresser encore et toujours, alors n'hésitez pas à faire circuler ce questionnaire dans vos réseaux, équipes, partenaires, étudiants...
 
