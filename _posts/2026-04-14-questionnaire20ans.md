@@ -1,6 +1,7 @@
 ---
 preTitle: 14 avril 2026
 title: "Questionnaire utilisation du GBIF"
+date: 14 avril 2026
 description: "_Date limite de réponse : 15 mai 2026_"
 categories: ["Enquête","GBIF", "Utilisation des données"]
 background: assets/images/news/gbif_20ans_enquete.jpg
