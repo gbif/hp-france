@@ -14,7 +14,7 @@ Le GBIF France lance une enquête auprès de ses partenaires et utilisateurs. L�
 Le temps de réponse est estimé entre 12 et 15 minutes.
 Les réponses sont anonymes et seront utilisées uniquement à des fins d’analyse globale afin d’orienter les actions et services du GBIF France.
 
-Les premiers résultats de l'enquête seront présentés le 19 juin lors de la journée des 20 ans du GBIF France au Musée de l'Homme. (informations à suivre, réservez la date !)
+Les premiers résultats de l'enquête seront présentés le 19 juin lors de [la journée des 20 ans du GBIF France](https://20ans-gbif.sciencesconf.org/) au Musée de l'Homme. 
 
 Voici [le lien vers l'enquête](https://framaforms.org/usages-du-gbif-en-france-1770817050), réponses souhaitées _avant le 15 mai 2026_.
 
