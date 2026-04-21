@@ -2,7 +2,6 @@
 preTitle: 13 avril 2026
 title: "Formation FRB-Cesab – Introduction aux méta-analyses et revues systématiques (Edition 2026)"
 description: "_Date limite de pré-inscription : 04 mai 2026_"
-date : du 5 au 9 octobre 2026
 categories: ["FRB","CESAB", "Patrinat","CIRAD","Analyse de données","Formation"]
 background: assets/images/news/logo-metaanalysis_150dpi2ok.jpg
 thumbnail: assets/images/news/logo-metaanalysis_150dpi2ok.jpg
