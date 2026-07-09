@@ -3,6 +3,33 @@ layout: page
 title: Galerie des 20 ans du GBIF France
 permalink: /20ans-galerie/
 ---
+<style>
+.gallery-20ans {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+  margin-top: 0.5rem;
+}
+
+.gallery-20ans a {
+  display: block;
+  overflow: hidden;
+  border-radius: 8px;
+  line-height: 0;
+}
+
+.gallery-20ans img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.2s ease;
+}
+
+.gallery-20ans img:hover {
+  transform: scale(1.04);
+}
+</style>
 <img src="/assets/images/20ans/eiff.JPG"
      alt="20 ans du GBIF France"
      style="width:100%; max-width:1000px; display:block; margin:0 auto 30px auto; border-radius:10px;">
@@ -29,7 +56,6 @@ Télécharger les présentations
 ---
 
 ## Galerie photo
-# Galerie des 20 ans du GBIF France
 
 Cette page est destinée au partage interne des photos de l’événement.
 
@@ -110,33 +136,6 @@ Cette page est destinée au partage interne des photos de l’événement.
 <a href="/assets/images/20ans/JCD-SophiePamerlon3 (Moyen).jpg"><img src="/assets/images/20ans/JCD-SophiePamerlon3 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/JCD-VeroniqueMasotti (Moyen).jpg"><img src="/assets/images/20ans/JCD-VeroniqueMasotti (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/JCD-VeroniqueMasotti2 (Moyen).jpg"><img src="/assets/images/20ans/JCD-VeroniqueMasotti2 (Moyen).jpg" alt=""></a>
-
-<style>
-.gallery-20ans {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 14px;
-  margin-top: 0.5rem;
-}
-
-.gallery-20ans a {
-  display: block;
-  overflow: hidden;
-  border-radius: 8px;
-}
-
-.gallery-20ans img {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.2s ease;
-}
-
-.gallery-20ans img:hover {
-  transform: scale(1.04);
-}
-</style>
 
 
 </div>
