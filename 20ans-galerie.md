@@ -3,16 +3,28 @@ layout: page
 title: Galerie des 20 ans du GBIF France
 permalink: /20ans-galerie/
 ---
+# 20 ans du GBIF France
+
+<img src="/assets/images/20ans/20ansGBIF-France (Moyen).jpg"
+     alt="20 ans du GBIF France"
+     style="width:100%; max-width:1000px; display:block; margin:0 auto 30px auto; border-radius:10px;">
+
+Bienvenue sur la page souvenir des **20 ans du GBIF France**.
+
+Vous y trouverez les photographies de la journée ainsi que les présentations des différents intervenants.
 
 <h2>Présentations des intervenants</h2>
-
-<p>
-L'équipe GBIF France vous remercie pour votre participation ! Les présentations de la journée sont disponibles dans le dossier Google Drive suivant :
-</p>
-
-<p>
-<a href="https://drive.google.com/drive/u/0/folders/1yzM5bvmx6eQh-oW-rRUxmsjFQ2EwH1ot" target="_blank">
-Liens des présentations
+Les présentations sont disponibles dans le dossier Google Drive suivant :
+<p style="text-align:center; margin:30px 0;">
+<a href="https://drive.google.com/drive/u/0/folders/1yzM5bvmx6eQh-oW-rRUxmsjFQ2EwH1ot"
+target="_blank"
+style="background:#006c84;
+color:white;
+padding:12px 22px;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;">
+Télécharger les présentations
 </a>
 </p>
 
@@ -51,7 +63,6 @@ Cette page est destinée au partage interne des photos de l’événement.
 </style>
 
 <div class="gallery-20ans">
-
 <a href="/assets/images/20ans/20ansGBIF-France (Moyen).jpg"><img src="/assets/images/20ans/20ansGBIF-France (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/1-L1211156 (Moyen).jpg"><img src="/assets/images/20ans/1-L1211156 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/2-L1211158 (Moyen).jpg"><img src="/assets/images/20ans/2-L1211158 (Moyen).jpg" alt=""></a>
