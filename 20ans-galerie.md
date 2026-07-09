@@ -3,8 +3,6 @@ layout: page
 title: Galerie des 20 ans du GBIF France
 permalink: /20ans-galerie/
 ---
-# 20 ans du GBIF France
-
 <img src="/assets/images/20ans/eiff.jpg"
      alt="20 ans du GBIF France"
      style="width:100%; max-width:1000px; display:block; margin:0 auto 30px auto; border-radius:10px;">
