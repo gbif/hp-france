@@ -4,6 +4,21 @@ title: Galerie des 20 ans du GBIF France
 permalink: /20ans-galerie/
 ---
 
+<h2>Présentations des intervenants</h2>
+
+<p>
+L'équipe GBIF France vous remercie pour votre participation ! Les présentations de la journée sont disponibles dans le dossier Google Drive suivant :
+</p>
+
+<p>
+<a href="https://drive.google.com/drive/u/0/folders/1yzM5bvmx6eQh-oW-rRUxmsjFQ2EwH1ot" target="_blank">
+Liens des présentations
+</a>
+</p>
+
+---
+
+## Galerie photo
 # Galerie des 20 ans du GBIF France
 
 Cette page est destinée au partage interne des photos de l’événement.
