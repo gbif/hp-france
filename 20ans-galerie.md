@@ -5,7 +5,7 @@ permalink: /20ans-galerie/
 ---
 # 20 ans du GBIF France
 
-<img src="/assets/images/20ans/20ansGBIF-France (Moyen).jpg"
+<img src="/assets/images/20ans/eiff.jpg"
      alt="20 ans du GBIF France"
      style="width:100%; max-width:1000px; display:block; margin:0 auto 30px auto; border-radius:10px;">
 
@@ -63,7 +63,7 @@ Cette page est destinée au partage interne des photos de l’événement.
 </style>
 
 <div class="gallery-20ans">
-<a href="/assets/images/20ans/20ansGBIF-France (Moyen).jpg"><img src="/assets/images/20ans/20ansGBIF-France (Moyen).jpg" alt=""></a>
+<a href="/assets/images/20ans/eiff.jpg"><img src="/assets/images/20ans/eiff.jpg" alt=""></a>
 <a href="/assets/images/20ans/1-L1211156 (Moyen).jpg"><img src="/assets/images/20ans/1-L1211156 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/2-L1211158 (Moyen).jpg"><img src="/assets/images/20ans/2-L1211158 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/3-L1211168 (Moyen).jpg"><img src="/assets/images/20ans/3-L1211168 (Moyen).jpg" alt=""></a>
