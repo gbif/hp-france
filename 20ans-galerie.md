@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Galerie des 20 ans du GBIF France
 permalink: /20ans-galerie/
 ---
