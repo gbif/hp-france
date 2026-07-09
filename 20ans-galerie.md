@@ -13,7 +13,7 @@ Cette page est destinée au partage interne des photos de l’événement.
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 14px;
-  margin-top: 2rem;
+  margin-top: 0.5rem;
 }
 
 .gallery-20ans a {
@@ -38,7 +38,6 @@ Cette page est destinée au partage interne des photos de l’événement.
 <div class="gallery-20ans">
 
 <a href="/assets/images/20ans/20ansGBIF-France (Moyen).jpg"><img src="/assets/images/20ans/20ansGBIF-France (Moyen).jpg" alt=""></a>
-
 <a href="/assets/images/20ans/1-L1211156 (Moyen).jpg"><img src="/assets/images/20ans/1-L1211156 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/2-L1211158 (Moyen).jpg"><img src="/assets/images/20ans/2-L1211158 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/3-L1211168 (Moyen).jpg"><img src="/assets/images/20ans/3-L1211168 (Moyen).jpg" alt=""></a>
@@ -88,7 +87,6 @@ Cette page est destinée au partage interne des photos de l’événement.
 <a href="/assets/images/20ans/47-L1211340 (Moyen).jpg"><img src="/assets/images/20ans/47-L1211340 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/48-L1211346 (Moyen).jpg"><img src="/assets/images/20ans/48-L1211346 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/49-L1220002 (Moyen).jpg"><img src="/assets/images/20ans/49-L1220002 (Moyen).jpg" alt=""></a>
-
 <a href="/assets/images/20ans/JCD-GillesBloch (Moyen).jpg"><img src="/assets/images/20ans/JCD-GillesBloch (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/JCD-GillesBloch2 (Moyen).jpg"><img src="/assets/images/20ans/JCD-GillesBloch2 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/JCD-GillesBloch3 (Moyen).jpg"><img src="/assets/images/20ans/JCD-GillesBloch3 (Moyen).jpg" alt=""></a>
