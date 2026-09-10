@@ -40,20 +40,21 @@ Vous y trouverez les photographies de la journée, qui a eu lieu le **19 juin 20
 
 <h2>Présentations des intervenants</h2>
 <p>
-  <li><a href="assets/fichiers/20ans/Programme.pdf">Programme de la journée</a></li> 
+  <li><a href="assets/fichiers/20ans/Programme.pdf" target=_blank>Programme de la journée</a></li> 
 </br>
-  <li><a href="">GBIF - Système Mondial d'Information sur la Biodiversité : Update from the GBIF
+  <li><a href="assets/fichiers/20ans/04_GBIF Secretariat.pdf" target=_blank>GBIF - Système Mondial d'Information sur la Biodiversité : Update from the GBIF
 Secretariat</a></li> 
-  <li><a href="">Le GBIF France: 20 ans d'activités</a></li> 
-  <li><a href="">Utilisations des données accessibles via le GBIF : panorama</a></li>
-  <li><a href="">SINP/INPN : le lien avec les données des politiques publiques</a></li> 
+  <li><a href="assets/fichiers/20ans/05_GBIF_FR_2006-2026_entiere.pdf" target=_blank>Le GBIF France: 20 ans d'activités</a></li> 
+  <li><a href="assets/fichiers/20ans/06_FRANCE_GBIF_TOGO Presentation Pierre.pdf" target=_blank>GBIF Togo : exemple de projet partenarial</li>
+  <li><a href="assets/fichiers/20ans/07_Grandcolas 20 ans GBIF.pdf" target=_blank>Utilisations des données accessibles via le GBIF : panorama</a></li>
+  <li><a href="assets/fichiers/20ans/08_20260619_20ansGBIF_SINP.pdf" target=_blank>SINP/INPN : le lien avec les données des politiques publiques</a></li> 
   <li><a href="">Récolnat: déverrouiller le potentiel des données des collections naturalistes</a></li> 
-  <li><a href="">Data Terra : le lien avec les données de recherche</a></li> 
-  <li><a href="">Exemple d’utilisation : Biodiversité et santé</a></li> 
-  <li><a href="">BAM (Biodiversité autour de moi)</a></li> 
-  <li><a href="">Pl@ntNet: exemple de Sciences participatives</a></li> 
-  <li><a href="">Exemple d’utilisation : Ecologie des communautés</a></li> 
-  <li><a href="">Premiers retours questionnaire utilisateurs GBIF</a></li> 
+  <li><a href="assets/fichiers/20ans/10_DataTerra_20ans_GBIF_19062026vf.pdf" target=_blank>Data Terra : le lien avec les données de recherche</a></li> 
+  <li><a href="assets/fichiers/20ans/11_Biodiversité et Santé-V2-17Juin2026.pdf" target=_blank>Exemple d’utilisation : Biodiversité et santé</a></li> 
+  <li><a href="assets/fichiers/20ans/12_2026-06-BAM-GBIF.pdf" target=_blank>BAM (Biodiversité autour de moi)</a></li> 
+  <li><a href="assets/fichiers/20ans/13_Pl@ntNet – Publishing to GBIF.pdf" target=_blank>Pl@ntNet: exemple de Sciences participatives</a></li> 
+  <li><a href="assets/fichiers/20ans/14_Présentation_20ansGBIF_YoanFourcade.pdf" target=_blank>Exemple d’utilisation : Ecologie des communautés</a></li> 
+  <li><a href="assets/fichiers/20ans/15_GBIF_Enquête.pdf" target=_blank>Premiers retours questionnaire utilisateurs GBIF</a></li> 
 </p>
 
 ---
