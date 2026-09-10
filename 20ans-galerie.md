@@ -34,23 +34,26 @@ permalink: /20ans-galerie/
      alt="20 ans du GBIF France"
      style="width:100%; max-width:1000px; display:block; margin:0 auto 30px auto; border-radius:10px;">
 
-Bienvenue sur la page souvenir des **20 ans du GBIF France**.
+Bienvenue sur la page des **20 ans du GBIF France**.
 
-Vous y trouverez les photographies de la journée ainsi que les présentations des différents intervenants.
+Vous y trouverez les photographies de la journée, qui a eu lieu le **19 juin 2026 au Musée de l'Homme**(Paris), ainsi que les présentations des différents intervenants.
 
 <h2>Présentations des intervenants</h2>
-Les présentations sont disponibles dans le dossier Google Drive suivant :
-<p style="text-align:center; margin:30px 0;">
-<a href="https://drive.google.com/drive/u/0/folders/1yzM5bvmx6eQh-oW-rRUxmsjFQ2EwH1ot"
-target="_blank"
-style="background:#006c84;
-color:white;
-padding:12px 22px;
-text-decoration:none;
-border-radius:8px;
-font-weight:bold;">
-Télécharger les présentations
-</a>
+<p>
+  <li><a href="assets/fichiers/20ans/Programme.pdf">Programme de la journée</a></li> 
+</br>
+  <li><a href="">GBIF - Système Mondial d'Information sur la Biodiversité : Update from the GBIF
+Secretariat</a></li> 
+  <li><a href="">Le GBIF France: 20 ans d'activités</a></li> 
+  <li><a href="">Utilisations des données accessibles via le GBIF : panorama</a></li>
+  <li><a href="">SINP/INPN : le lien avec les données des politiques publiques</a></li> 
+  <li><a href="">Récolnat: déverrouiller le potentiel des données des collections naturalistes</a></li> 
+  <li><a href="">Data Terra : le lien avec les données de recherche</a></li> 
+  <li><a href="">Exemple d’utilisation : Biodiversité et santé</a></li> 
+  <li><a href="">BAM (Biodiversité autour de moi)</a></li> 
+  <li><a href="">Pl@ntNet: exemple de Sciences participatives</a></li> 
+  <li><a href="">Exemple d’utilisation : Ecologie des communautés</a></li> 
+  <li><a href="">Premiers retours questionnaire utilisateurs GBIF</a></li> 
 </p>
 
 ---
