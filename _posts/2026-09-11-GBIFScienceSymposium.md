@@ -1,7 +1,7 @@
 ---
 preTitle: 11 septembre 2026
 title: " GBIF Science Symposium à Oslo "
-date: 11 septembre 2026
+date: 2026-09-11
 description: "Symposium scientifique du GBIF en marge du Conseil d'Administration 2026"
 categories: ["Evenement","GBIF", "Science Symposium"]
 background: assets/images/news/uio-bildearkiv-aula.jpg
