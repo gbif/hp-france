@@ -1,7 +1,7 @@
 ---
 preTitle: 14 avril 2026
 title: "Questionnaire utilisation du GBIF"
-date: 14 avril 2026
+date: 2026-04-14
 description: "_Vous pouvez répondre quand vous le souhaitez._"
 categories: ["Enquête","GBIF", "Utilisation des données"]
 background: assets/images/news/gbif_20ans_enquete.jpg
