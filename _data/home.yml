@@ -51,7 +51,7 @@ important2:
     isPrimary: true
 important3:
   reverse: false
-  title: Formation FRB-Cesab/PNDB/GBIF France "La donnée en biodiversité, de l'acquisition à l'ouverture" troisièlme édition
+  title: Formation FRB-Cesab/PNDB/GBIF France "La donnée en biodiversité, de l'acquisition à l'ouverture" troisième édition
   description: |      # required
    Le Cesab (Centre de synthèse et d'analyse sur la biodiversité) de la FRB, le Pôle National des Données de Biodiversité (PNDB) et GBIF France proposent la seconde édition de la formation "La donnée en biodiversité : de l'acquisition à l'ouverture".
   # img required
