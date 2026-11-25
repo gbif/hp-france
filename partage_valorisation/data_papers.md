@@ -64,11 +64,23 @@ Vous trouverez sur <a href="https://www.gbif.org/data-papers" target="_blank">ce
 ## Exemples de data papers
 Vous trouverez ci-dessous une liste de data papers décrivant des jeux de données de biodiversité, dont au moins un auteur est affilié à une institution française. La liste exhaustive est disponible [ici](https://www.gbif.org/resource/search?contentType=literature&topics=DATA_PAPER&relevance=GBIF_PUBLISHED&countriesOfResearcher=FR) :
 
-<b>2025</b>
+<b>2026</b>
  <ul>
    <li>Bisch A, Stephan P, Elliott S, Barreau T, Bousquet C, Colombet L, Dorémus G, Marengo M, Lapinski M, Rohr A, Sichel F, Stephan E, Acou A (2026) Distribution dataset of chondrichthyan species occurring in French metropolitan waters and across the North-East Atlantic. Biodiversity Data Journal 14: e191625. <a href="https://doi.org/10.3897/BDJ.14.e191625" target="_blank">https://doi.org/10.3897/BDJ.14.e191625</a></li>
    <li>Bosc C, Touroult J, Horellou A, Mériguet B, Brin A, Valladares L, Brustel H, Barnouin T, Soldati F, Delzons O, Buralli F, Braud Y, Calmont B, Herbrecht F, Etienne S, Roques A, Gouix N, Moulin N, Dodelin B, Delporte G, Pages J, Chambord R, Chabrol L, Yvinec J-H, Bouget C (2026) DATASAPROX: standardised dataset from protocolled sampling of saproxylic beetles in continental France and Corsica. Biodiversity Data Journal 14: e187021. <a href="https://doi.org/10.3897/BDJ.14.e187021" target="_blank">https://doi.org/10.3897/BDJ.14.e187021</a></li>
    <li>Badalucco A, Lo Brutto S, Dauvin J-C, Costello MJ (2026) Amphipod species in European and nearby seas. Biodiversity Data Journal 14: e186195. <a href="https://doi.org/10.3897/BDJ.14.e186195" target="_blank">https://doi.org/10.3897/BDJ.14.e186195</a></li></ul>
+
+<details>
+  <summary><b>2025</b></summary>
+ <ul>
+   <li>Hammami, P., Baltusyte, I., Taconet, P. et al. Spatio-temporal dataset (2009–2012) of Culicoides spp., vectors of livestock viruses, in France. Sci Data 12, 1824 (2025). <a href="https://doi.org/10.1038/s41597-025-06084-4" target="_blank">https://doi.org/10.1038/s41597-025-06084-4</a></li>
+   <li>Suciu SRA, Jung J-L, Azevedo JMN (2025) MONICEPH project: Monitoring cephalopods during whale-watching activity in the Azores (2020-2024). Biodiversity Data Journal 13: e158822. <a href="https://doi.org/10.3897/BDJ.14.e187021" target="_blank">https://doi.org/10.3897/BDJ.14.e187021</a></li>
+   <li>Iyaloo, D.P., Elahee, K.B., Mosawa, V.R., Munglee, N.R., Mahadeo, I., Genevieve, C. et al. (2026) Faunistic inventory of the genus Culicoides (Diptera: Ceratopogonidae) in Mauritius Island, Indian Ocean: Diversity and spatial distribution of species of veterinary interest. Medical and Veterinary Entomology, 40(2), 282–293. <a href="https://doi.org/10.3897/BDJ.14.e186195" target="_blank">https://doi.org/10.1111/mve.70025</a></li>
+   <li>Hassan Niyomdecha, Gerard Duvallet, Watthanasak Lertlumnaphakul, Ratchadawan Ngan-Klan, John Aerol Nobleza, Chauwat Charoenwiriyapap, Sylvie Manguin, Theeraphap Chareonviriyaphap, Distribution of flies of medical importance in Thailand: a dataset, Gigabyte, 2025. <a href="https://doi.org/10.46471/gigabyte.164" target="_blank">https://doi.org/10.46471/gigabyte.164</a></li>
+   <li>Garnier, Éric, Léo Delalandre, Jules Segrestin, Karim Barkaoui, Elena Kazakou, Marie-Laure Navas, Denis Vile, et al. 2025. “ FAIRTraits: An Enriched, FAIR-Compliant Database of Plant Traits from Mediterranean Populations of 240 Species.” Ecology 106(9): e70219. <a href="https://doi.org/10.1002/ecy.70219" target="_blank">https://doi.org/10.1002/ecy.70219</a></li>
+   <li>Pagnier J, Allcock L, Cancio I, Chatzinikolaou E, Chatzigeorgiou G, Chrismas NM, Costantini F, Dailianis T, Deneudt K, Díaz de Cerio O, Digenis M, Exter K, Gerovasileiou V, González Fernández J, Kauppi L, Keklikoglou K, Kristoffersen JB, Lagaisse R, Mavrič B, Mortelmans J, Paredes E, Pavloudi C, Piazza A, Power AM, Ramšak A, Santi I, Solbakken J, Stavroulaki M, Stæhr PU, Tajadura J, Souza Troncoso J, Vasileiadou K, Vernadou E, Obst M (2025) A long-term ecological research dataset from the marine genetic monitoring programme ARMS-MBON 2020-2021. Biodiversity Data Journal 13: e148981. <a href="https://doi.org/10.3897/BDJ.13.e148981" target="_blank">https://doi.org/10.3897/BDJ.13.e148981</a></li>
+</ul>
+</details>
 
 <details>
   <summary><b>2024</b></summary>
