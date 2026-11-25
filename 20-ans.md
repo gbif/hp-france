@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Galerie des 20 ans du GBIF France
-permalink: /20ans-galerie/
+permalink: /20-ans/
 ---
 <style>
 .gallery-20ans {
@@ -137,3 +137,5 @@ Secretariat</a></li>
 <a href="/assets/images/20ans/48-L1211346 (Moyen).jpg"><img src="/assets/images/20ans/48-L1211346 (Moyen).jpg" alt="©Mélianie Raymond"></a>
 <a href="/assets/images/20ans/49-L1220002 (Moyen).jpg"><img src="/assets/images/20ans/49-L1220002 (Moyen).jpg" alt="©Mélianie Raymond"></a>
 </div>
+
+Crédits photos : MNHN - Musée de l'Homme (photos 1 à 27) / GBIF Secretariat - Mélianie Raymond (photos 28 à 75)
