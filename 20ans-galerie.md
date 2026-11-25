@@ -36,7 +36,7 @@ permalink: /20ans-galerie/
 
 Bienvenue sur la page des **20 ans du GBIF France**.
 
-Vous y trouverez les photographies de la journée, qui a eu lieu le **19 juin 2026 au Musée de l'Homme**(Paris), ainsi que les présentations des différents intervenants.
+Vous y trouverez les photographies de la journée, qui a eu lieu le **19 juin 2026 au Musée de l'Homme** (Paris), ainsi que les présentations des différents intervenants.
 
 <h2>Présentations des intervenants</h2>
   <li><a href="https://www.gbif.fr/assets/fichiers/20ans/Programme.pdf" target=_blank>Programme de la journée</a></li> 
@@ -60,10 +60,8 @@ Secretariat</a></li>
 
 ## Galerie photo
 
-Cette page est destinée au partage interne des photos de l’événement.
-
 <div class="gallery-20ans">
-<a href="/assets/images/20ans/eiff.JPG"><img src="/assets/images/20ans/eiff.JPG" alt=""></a>
+<a href="/assets/images/20ans/eiff.JPG"><img src="/assets/images/20ans/eiff.JPG" alt="©MNHN"></a>
 <a href="/assets/images/20ans/1-L1211156 (Moyen).jpg"><img src="/assets/images/20ans/1-L1211156 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/2-L1211158 (Moyen).jpg"><img src="/assets/images/20ans/2-L1211158 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/3-L1211168 (Moyen).jpg"><img src="/assets/images/20ans/3-L1211168 (Moyen).jpg" alt=""></a>
@@ -108,7 +106,6 @@ Cette page est destinée au partage interne des photos de l’événement.
 <a href="/assets/images/20ans/42-L1211323 (Moyen).jpg"><img src="/assets/images/20ans/42-L1211323 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/43-L1211325 (Moyen).jpg"><img src="/assets/images/20ans/43-L1211325 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/44-L1211330 (Moyen).jpg"><img src="/assets/images/20ans/44-L1211330 (Moyen).jpg" alt=""></a>
-<a href="/assets/images/20ans/45-L1211334 (Moyen).jpg"><img src="/assets/images/20ans/45-L1211334 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/46-L1211338 (Moyen).jpg"><img src="/assets/images/20ans/46-L1211338 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/47-L1211340 (Moyen).jpg"><img src="/assets/images/20ans/47-L1211340 (Moyen).jpg" alt=""></a>
 <a href="/assets/images/20ans/48-L1211346 (Moyen).jpg"><img src="/assets/images/20ans/48-L1211346 (Moyen).jpg" alt=""></a>
